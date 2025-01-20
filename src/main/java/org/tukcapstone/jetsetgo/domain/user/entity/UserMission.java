@@ -8,6 +8,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import org.tukcapstone.jetsetgo.domain.mission.entity.Mission;
 import org.tukcapstone.jetsetgo.domain.user.entity.enums.MissionSuccessStatus;
+import org.tukcapstone.jetsetgo.global.entity.BaseTimeEntity;
 
 @Entity
 @Table(name = "user_missions")
@@ -15,7 +16,7 @@ import org.tukcapstone.jetsetgo.domain.user.entity.enums.MissionSuccessStatus;
 @Builder
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 @AllArgsConstructor
-public class UserMission {
+public class UserMission extends BaseTimeEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "user_mission_id")
@@ -32,5 +33,4 @@ public class UserMission {
     @Enumerated(EnumType.STRING)
     @Column(nullable = false)
     private MissionSuccessStatus missionSuccessStatus;
-
 }

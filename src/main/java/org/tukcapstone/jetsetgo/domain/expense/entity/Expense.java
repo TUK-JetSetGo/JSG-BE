@@ -8,6 +8,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import org.tukcapstone.jetsetgo.domain.expense.entity.enums.ExpenseType;
 import org.tukcapstone.jetsetgo.domain.travelPlan.entity.TravelPlan;
+import org.tukcapstone.jetsetgo.global.entity.BaseTimeEntity;
 
 @Entity
 @Table(name = "expenses")
@@ -15,7 +16,7 @@ import org.tukcapstone.jetsetgo.domain.travelPlan.entity.TravelPlan;
 @Builder
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 @AllArgsConstructor
-public class Expense {
+public class Expense extends BaseTimeEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "expense_id")

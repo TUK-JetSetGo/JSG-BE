@@ -1,6 +1,7 @@
 package org.tukcapstone.jetsetgo.domain.recommend.entity;
 
 import jakarta.persistence.Entity;
+import jakarta.persistence.FetchType;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
@@ -14,6 +15,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import org.tukcapstone.jetsetgo.domain.touristSpot.entity.TouristSpot;
 import org.tukcapstone.jetsetgo.domain.user.entity.User;
+import org.tukcapstone.jetsetgo.global.entity.BaseTimeEntity;
 
 @Entity
 @Table(name = "recommends")
@@ -21,16 +23,16 @@ import org.tukcapstone.jetsetgo.domain.user.entity.User;
 @Builder
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 @AllArgsConstructor
-public class Recommend {
+public class Recommend extends BaseTimeEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @ManyToOne
-    @JoinColumn(name = "user_id", nullable = false)
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "user_id")
     private User user;
 
-    @ManyToOne
+    @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "tourist_spot_id")
     private TouristSpot touristSpot;
 }

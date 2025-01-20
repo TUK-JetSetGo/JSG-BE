@@ -16,6 +16,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import org.tukcapstone.jetsetgo.domain.touristSpot.entity.TouristSpot;
 import org.tukcapstone.jetsetgo.domain.user.entity.User;
+import org.tukcapstone.jetsetgo.global.entity.BaseTimeEntity;
 
 @Entity
 @Table(name = "reviews")
@@ -23,7 +24,7 @@ import org.tukcapstone.jetsetgo.domain.user.entity.User;
 @Builder
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 @AllArgsConstructor
-public class Review {
+public class Review extends BaseTimeEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "review_id")

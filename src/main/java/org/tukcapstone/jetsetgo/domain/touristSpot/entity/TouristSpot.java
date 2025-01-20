@@ -50,7 +50,7 @@ public class TouristSpot {
     private String activityLevel;
 
     @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "city_id")
+    @JoinColumn(name = "travel_city_id")
     private TravelCity travelCity;
 
     @OneToMany(mappedBy = "touristSpot")
