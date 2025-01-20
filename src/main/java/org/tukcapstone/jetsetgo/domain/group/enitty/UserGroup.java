@@ -37,6 +37,6 @@ public class UserGroup {
     private User user;
 
     @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "group_id")
-    private Group group;
+    @JoinColumn(name = "share_group_id")
+    private ShareGroup shareGroup;
 }

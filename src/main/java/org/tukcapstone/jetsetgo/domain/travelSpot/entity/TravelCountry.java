@@ -24,12 +24,12 @@ import lombok.NoArgsConstructor;
 public class TravelCountry {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(name = "country_id", nullable = false)
+    @Column(name = "travel_country_id", nullable = false)
     private Long id;
 
-    @Column(name = "country_name", nullable = false)
+    @Column(nullable = false)
     private String countryName;
 
-    @OneToMany(mappedBy = "country")
-    private List<TravelCity> cities = new ArrayList<>();
+    @OneToMany(mappedBy = "travelCountry")
+    private List<TravelCity> travelCityList = new ArrayList<>();
 }

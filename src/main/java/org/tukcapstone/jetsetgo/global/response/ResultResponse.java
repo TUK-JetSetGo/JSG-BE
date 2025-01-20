@@ -13,8 +13,7 @@ public class ResultResponse<T> {
     private final String message;
     private final T data;
 
-    public static final ResultResponse<Void> OK =
-            new ResultResponse<>(200, "SC000", "성공입니다.", null);
+    public static final ResultResponse<Void> OK = new ResultResponse<>(200, "SC000", "성공입니다.", null);
 
     public static <T> ResultResponse<T> onSuccess(ResultCode resultCode, T data) {
         return ResultResponse.<T>builder()

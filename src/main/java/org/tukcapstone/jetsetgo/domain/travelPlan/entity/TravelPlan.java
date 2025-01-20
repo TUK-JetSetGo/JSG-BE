@@ -19,7 +19,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import org.tukcapstone.jetsetgo.domain.checklist.entity.Checklist;
 import org.tukcapstone.jetsetgo.domain.expense.entity.Expense;
-import org.tukcapstone.jetsetgo.domain.group.enitty.Group;
+import org.tukcapstone.jetsetgo.domain.group.enitty.ShareGroup;
 import org.tukcapstone.jetsetgo.domain.itinerary.entity.Itinerary;
 import org.tukcapstone.jetsetgo.domain.travelSpot.entity.TravelCity;
 import org.tukcapstone.jetsetgo.domain.travelPurpose.entity.TravelPurpose;
@@ -58,19 +58,19 @@ public class TravelPlan {
     private LocalDateTime updatedAt;
 
     @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "group_id", nullable = false)
-    private Group group;
+    @JoinColumn(name = "share_group_id")
+    private ShareGroup shareGroup;
 
     @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "theme_id", nullable = false)
+    @JoinColumn(name = "theme_id")
     private TravelTheme travelTheme;
 
     @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "purpose_id", nullable = false)
+    @JoinColumn(name = "purpose_id")
     private TravelPurpose purposeId;
 
     @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "city_id", nullable = false)
+    @JoinColumn(name = "city_id")
     private TravelCity travelCity;
 
     @OneToMany(mappedBy = "travelPlan")

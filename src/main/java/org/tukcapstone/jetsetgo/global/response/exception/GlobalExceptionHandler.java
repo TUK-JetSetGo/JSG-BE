@@ -1,13 +1,13 @@
 package org.tukcapstone.jetsetgo.global.response.exception;
 
 import jakarta.validation.ConstraintViolationException;
+import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
-import org.springframework.web.servlet.View;
 import org.tukcapstone.jetsetgo.global.response.ResultResponse;
 import org.tukcapstone.jetsetgo.global.response.exception.code.CommonErrorCode;
 
@@ -15,13 +15,8 @@ import java.util.List;
 
 @Slf4j
 @RestControllerAdvice
+@RequiredArgsConstructor
 public class GlobalExceptionHandler {
-
-    private final View error;
-
-    public GlobalExceptionHandler(View error) {
-        this.error = error;
-    }
 
     @ExceptionHandler(GeneralException.class)
     public ResponseEntity<ResultResponse<Object>> handleGeneralException(GeneralException ex) {
