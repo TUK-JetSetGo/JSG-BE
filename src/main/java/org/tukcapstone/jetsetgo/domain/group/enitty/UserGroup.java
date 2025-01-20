@@ -16,6 +16,7 @@ import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import org.tukcapstone.jetsetgo.domain.user.entity.User;
+import org.tukcapstone.jetsetgo.global.entity.BaseTimeEntity;
 
 @Entity
 @Table(name = "user_groups")
@@ -23,14 +24,11 @@ import org.tukcapstone.jetsetgo.domain.user.entity.User;
 @Builder
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 @AllArgsConstructor
-public class UserGroup {
+public class UserGroup extends BaseTimeEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "user_group_id")
     private Long id;
-
-    @Column(nullable = false)
-    private LocalDateTime joinedAt;
 
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "user_id")

@@ -2,6 +2,8 @@ package org.tukcapstone.jetsetgo.domain.travelPurpose.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import lombok.AccessLevel;
@@ -18,9 +20,10 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class TravelPurpose {
     @Id
-    @Column(name = "travel_purpose_id", nullable = false)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "travel_purpose_id")
     private Long id;
 
-    @Column(name = "name")
+    @Column(nullable = false)
     private String name;
 }

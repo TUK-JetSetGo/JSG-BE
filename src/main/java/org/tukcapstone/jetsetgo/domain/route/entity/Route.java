@@ -19,6 +19,7 @@ import lombok.NoArgsConstructor;
 import org.tukcapstone.jetsetgo.domain.itinerary.entity.Itinerary;
 import org.tukcapstone.jetsetgo.domain.route.entity.enums.TravelMode;
 import org.tukcapstone.jetsetgo.domain.touristSpot.entity.TouristSpot;
+import org.tukcapstone.jetsetgo.global.entity.BaseTimeEntity;
 
 import java.time.LocalDateTime;
 
@@ -28,7 +29,7 @@ import java.time.LocalDateTime;
 @Builder
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 @AllArgsConstructor
-public class Route {
+public class Route extends BaseTimeEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "route_id", nullable = false)

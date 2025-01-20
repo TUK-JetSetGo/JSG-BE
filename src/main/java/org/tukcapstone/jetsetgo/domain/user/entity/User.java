@@ -20,6 +20,7 @@ import org.tukcapstone.jetsetgo.domain.group.enitty.UserGroup;
 import org.tukcapstone.jetsetgo.domain.recommend.entity.Recommend;
 import org.tukcapstone.jetsetgo.domain.review.entity.Review;
 import org.tukcapstone.jetsetgo.domain.user.entity.enums.SocialType;
+import org.tukcapstone.jetsetgo.global.entity.BaseTimeEntity;
 
 @Entity
 @Table(name = "users")
@@ -27,7 +28,7 @@ import org.tukcapstone.jetsetgo.domain.user.entity.enums.SocialType;
 @Builder
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 @AllArgsConstructor
-public class User {
+public class User extends BaseTimeEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name="user_id")
