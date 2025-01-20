@@ -1,4 +1,4 @@
-package org.tukcapstone.jetsetgo.global.result.code;
+package org.tukcapstone.jetsetgo.global.response.result.code;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

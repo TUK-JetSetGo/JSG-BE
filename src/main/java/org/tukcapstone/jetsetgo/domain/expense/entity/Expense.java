@@ -1,53 +1,37 @@
 package org.tukcapstone.jetsetgo.domain.expense.entity;
 
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.EnumType;
-import jakarta.persistence.Enumerated;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToOne;
-import jakarta.persistence.PrePersist;
-import jakarta.persistence.PreUpdate;
-import jakarta.persistence.Table;
-import java.time.LocalDateTime;
+import jakarta.persistence.*;
+import lombok.AccessLevel;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import lombok.Setter;
 import org.tukcapstone.jetsetgo.domain.expense.entity.enums.ExpenseType;
 import org.tukcapstone.jetsetgo.domain.travelPlan.entity.TravelPlan;
 
 @Entity
 @Table(name = "expenses")
 @Getter
-@Setter
-@NoArgsConstructor
+@Builder
+@NoArgsConstructor(access = AccessLevel.PROTECTED)
+@AllArgsConstructor
 public class Expense {
-
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(name = "expense_id", nullable = false)
+    @Column(name = "expense_id")
     private Long id;
 
-    @ManyToOne
-    @JoinColumn(name = "travel_plan_id", nullable = false)
-    private TravelPlan travelPlan;
-
     @Enumerated(EnumType.STRING)
-    @Column(name = "type", nullable = false)
+    @Column(nullable = false)
     private ExpenseType type;
 
-    @Column(name = "amount", nullable = false)
+    @Column(nullable = false)
     private Integer amount;
 
-    @Column(name = "description")
+    @Column
     private String description;
 
-    @Column(name = "created_at", updatable = false)
-    private LocalDateTime createdAt;
-
-    @Column(name = "updated_at")
-    private LocalDateTime updatedAt;
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "travel_plan_id")
+    private TravelPlan travelPlan;
 }

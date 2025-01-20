@@ -1,19 +1,14 @@
 package org.tukcapstone.jetsetgo.domain.itinerary.entity;
 
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToOne;
-import jakarta.persistence.OneToMany;
-import jakarta.persistence.PrePersist;
-import jakarta.persistence.PreUpdate;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
+
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
+
+import lombok.AccessLevel;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
@@ -23,28 +18,19 @@ import org.tukcapstone.jetsetgo.domain.travelPlan.entity.TravelPlan;
 @Entity
 @Table(name = "itineraries")
 @Getter
-@Setter
-@NoArgsConstructor
+@Builder
+@NoArgsConstructor(access = AccessLevel.PROTECTED)
+@AllArgsConstructor
 public class Itinerary {
-
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(name = "itinerary_id", nullable = false)
+    @Column(name = "itinerary_id")
     private Long id;
 
-    @Column(name = "day_index", nullable = false)
+    @Column(name = "day_index")
     private Integer dayIndex;
 
-    @Column(name = "created_at", updatable = false)
-    private LocalDateTime createdAt;
-
-    @Column(name = "updated_at")
-    private LocalDateTime updatedAt;
-
-    @ManyToOne
-    @JoinColumn(name = "travel_plan_id", nullable = false)
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "travel_plan_id")
     private TravelPlan travelPlan;
-
-     @OneToMany(mappedBy = "itinerary")
-     private List<Route> routes = new ArrayList<>();
 }

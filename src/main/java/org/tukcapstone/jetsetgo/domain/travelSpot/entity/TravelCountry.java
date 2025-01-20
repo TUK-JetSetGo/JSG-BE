@@ -9,25 +9,27 @@ import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 import java.util.ArrayList;
 import java.util.List;
+import lombok.AccessLevel;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import lombok.Setter;
-
 
 @Entity
 @Table(name = "travel_countries")
 @Getter
-@Setter
-@NoArgsConstructor
+@Builder
+@NoArgsConstructor(access = AccessLevel.PROTECTED)
+@AllArgsConstructor
 public class TravelCountry {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(name = "country_id", nullable = false)
+    @Column(name = "travel_country_id", nullable = false)
     private Long id;
 
-    @Column(name = "country_name", nullable = false)
+    @Column(nullable = false)
     private String countryName;
 
-    @OneToMany(mappedBy = "country")
-    private List<TravelCity> cities = new ArrayList<>();
+    @OneToMany(mappedBy = "travelCountry")
+    private List<TravelCity> travelCityList = new ArrayList<>();
 }

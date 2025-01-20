@@ -7,41 +7,33 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
-import jakarta.persistence.PrePersist;
-import jakarta.persistence.PreUpdate;
 import jakarta.persistence.Table;
-import jakarta.persistence.UniqueConstraint;
-import java.time.LocalDateTime;
+import lombok.AccessLevel;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import lombok.Setter;
 import org.tukcapstone.jetsetgo.domain.travelPlan.entity.TravelPlan;
 
 @Entity
-@Table(name = "checklists")
+@Table(name = "checklist")
 @Getter
-@Setter
-@NoArgsConstructor
+@Builder
+@NoArgsConstructor(access = AccessLevel.PROTECTED)
+@AllArgsConstructor
 public class Checklist {
-
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(name = "checklist_id", nullable = false)
+    @Column(name = "checklist_id")
     private Long id;
 
-    @ManyToOne
-    @JoinColumn(name = "travel_plan_id", nullable = false)
-    private TravelPlan travelPlan;
-
-    @Column(name = "item_name", nullable = false)
+    @Column
     private String itemName;
 
-    @Column(name = "checked")
-    private Boolean checked;
+    @Column
+    private Boolean isChecked;
 
-    @Column(name = "created_at", updatable = false)
-    private LocalDateTime createdAt;
-
-    @Column(name = "updated_at")
-    private LocalDateTime updatedAt;
+    @ManyToOne
+    @JoinColumn(name = "travel_plan_id")
+    private TravelPlan travelPlan;
 }
