@@ -1,7 +1,9 @@
-package org.tukcapstone.jetsetgo.domain.group.enitty;
+package org.tukcapstone.jetsetgo.domain.shareGroup.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
+import jakarta.persistence.EnumType;
+import jakarta.persistence.Enumerated;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
@@ -11,6 +13,7 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
+import org.tukcapstone.jetsetgo.domain.shareGroup.entity.enums.GroupType;
 import org.tukcapstone.jetsetgo.global.entity.BaseTimeEntity;
 
 @Entity
@@ -31,6 +34,7 @@ public class ShareGroup extends BaseTimeEntity {
     @Column(nullable = false)
     private Integer currentMemberCount;
 
+    @Enumerated(EnumType.STRING)
     @Column(nullable = false)
-    private Boolean isPersonal;
+    private GroupType groupType;
 }

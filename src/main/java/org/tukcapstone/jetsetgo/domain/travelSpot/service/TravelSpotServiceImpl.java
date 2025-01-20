@@ -11,7 +11,7 @@ import org.tukcapstone.jetsetgo.domain.travelSpot.entity.TravelCountry;
 import org.tukcapstone.jetsetgo.domain.travelSpot.repository.TravelCityRepository;
 import org.tukcapstone.jetsetgo.domain.travelSpot.repository.TravelCountryRepository;
 import org.tukcapstone.jetsetgo.global.response.exception.GeneralException;
-import org.tukcapstone.jetsetgo.global.response.exception.code.TravelSpotErrorCode;
+import org.tukcapstone.jetsetgo.global.response.exception.code.TravelErrorCode;
 
 import java.util.List;
 
@@ -33,7 +33,7 @@ public class TravelSpotServiceImpl implements TravelSpotService {
     @Transactional(readOnly = true)
     public TravelSpotResponse.TravelCityInfoList getCityList(Long countryId) {
         TravelCountry travelCountry = travelCountryRepository.findById(countryId)
-                .orElseThrow(() -> new GeneralException(TravelSpotErrorCode.NOT_FOUND_COUNTRY));
+                .orElseThrow(() -> new GeneralException(TravelErrorCode.NOT_FOUND_COUNTRY));
 
         List<TravelCity> travelCityList = travelCityRepository.findByTravelCountry(travelCountry);
         return travelSpotConverter.toTravelCityInfoList(travelCityList);

@@ -16,7 +16,7 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import org.tukcapstone.jetsetgo.domain.group.enitty.UserGroup;
+import org.tukcapstone.jetsetgo.domain.shareGroup.entity.UserGroup;
 import org.tukcapstone.jetsetgo.domain.recommend.entity.Recommend;
 import org.tukcapstone.jetsetgo.domain.review.entity.Review;
 import org.tukcapstone.jetsetgo.domain.user.entity.enums.SocialType;

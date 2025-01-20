@@ -10,7 +10,7 @@ import org.tukcapstone.jetsetgo.domain.travelPurpose.dto.TravelPurposeResponse.T
 import org.tukcapstone.jetsetgo.domain.travelPurpose.service.TravelPurposeService;
 import org.tukcapstone.jetsetgo.global.response.ResultResponse;
 
-import static org.tukcapstone.jetsetgo.global.response.result.code.TravelPurposeResultCode.GET_PURPOSE_LIST;
+import static org.tukcapstone.jetsetgo.global.response.result.code.TravelResultCode.GET_PURPOSE_LIST;
 
 @RestController
 @RequestMapping("/purposes")
@@ -36,6 +36,7 @@ public class TravelPurposeController {
                             "name": "가족과"
                           }, ...
                     ]
+                    ```
                     """
     )
     public ResultResponse<TravelPurposeInfoList> getPurposeList(){
