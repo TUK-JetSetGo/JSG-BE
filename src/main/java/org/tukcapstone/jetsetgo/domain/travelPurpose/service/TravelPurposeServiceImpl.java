@@ -4,7 +4,7 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.tukcapstone.jetsetgo.domain.travelPurpose.converter.TravelPurposeConverter;
-import org.tukcapstone.jetsetgo.domain.travelPurpose.dto.TravelPurposeResponse;
+import org.tukcapstone.jetsetgo.domain.travelPurpose.dto.TravelPurposeResponse.TravelPurposeInfoList;
 import org.tukcapstone.jetsetgo.domain.travelPurpose.entity.TravelPurpose;
 import org.tukcapstone.jetsetgo.domain.travelPurpose.repository.TravelPurposeRepository;
 
@@ -18,7 +18,7 @@ public class TravelPurposeServiceImpl implements TravelPurposeService {
 
     @Override
     @Transactional(readOnly = true)
-    public TravelPurposeResponse.TravelPurposeInfoList getThemeList() {
+    public TravelPurposeInfoList getPurposeList() {
         List<TravelPurpose> travelPurposeList = travelPurposeRepository.findAll();
         return travelPurposeConverter.toTravelPurposeInfoList(travelPurposeList);
     }

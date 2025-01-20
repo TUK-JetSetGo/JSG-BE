@@ -39,6 +39,6 @@ public class TravelPurposeController {
                     """
     )
     public ResultResponse<TravelPurposeInfoList> getPurposeList(){
-        return ResultResponse.onSuccess(GET_PURPOSE_LIST, travelPurposeService.getThemeList());
+        return ResultResponse.onSuccess(GET_PURPOSE_LIST, travelPurposeService.getPurposeList());
     }
 }
