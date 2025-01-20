@@ -6,9 +6,8 @@ import org.tukcapstone.jetsetgo.global.response.result.ResultCode;
 
 @Getter
 @RequiredArgsConstructor
-public enum TravelSpotResultCode implements ResultCode {
-    GET_COUNTRY_LIST(200, "STS000", "성공적으로 국가를 조회했습니다."),
-    GET_CITY_LIST(200, "STS001", "성공적으로 해당 국가의 시 & 도를 조회했습니다."),
+public enum TravelThemeResultCode implements ResultCode {
+    GET_THEME_LIST(200, "STT000", "성공적으로 여행 테마를 조회했습니다."),
     ;
     private final int status;
     private final String code;

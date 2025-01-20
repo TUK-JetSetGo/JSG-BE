@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/users")
-@Tag(name = "01. 회원 API", description = "회원 도메인의 API입니다.")
+@Tag(name = "01. 회원 API", description = "회원 도메인의 API 입니다.")
 @RequiredArgsConstructor
 public class UserController {
 

@@ -14,8 +14,8 @@ import java.util.List;
 public class TravelSpotConverter {
     public TravelCountryInfo toTravelCountryInfo(TravelCountry travelCountry) {
         return TravelCountryInfo.builder()
-                .countryId(travelCountry.getId())
-                .countryName(travelCountry.getCountryName())
+                .id(travelCountry.getId())
+                .name(travelCountry.getCountryName())
                 .build();
     }
 
@@ -29,8 +29,8 @@ public class TravelSpotConverter {
 
     public TravelCityInfo toTravelCityInfo(TravelCity travelCity) {
         return TravelCityInfo.builder()
-                .cityId(travelCity.getId())
-                .cityName(travelCity.getCityName())
+                .id(travelCity.getId())
+                .name(travelCity.getCityName())
                 .build();
     }
 

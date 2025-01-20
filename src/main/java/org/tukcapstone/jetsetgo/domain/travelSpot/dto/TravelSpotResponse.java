@@ -11,8 +11,8 @@ public abstract class TravelSpotResponse {
     @Builder
     @AllArgsConstructor
     public static class TravelCountryInfo {
-        private Long countryId;
-        private String countryName;
+        private Long id;
+        private String name;
     }
 
     @Getter
@@ -26,8 +26,8 @@ public abstract class TravelSpotResponse {
     @Builder
     @AllArgsConstructor
     public static class TravelCityInfo {
-        private Long cityId;
-        private String cityName;
+        private Long id;
+        private String name;
     }
 
     @Getter
