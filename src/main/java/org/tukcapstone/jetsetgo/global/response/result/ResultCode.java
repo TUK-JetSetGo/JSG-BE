@@ -1,4 +1,4 @@
-package org.tukcapstone.jetsetgo.global.result;
+package org.tukcapstone.jetsetgo.global.response.result;
 
 /**
  * 결과 코드에 대한 Enum class
