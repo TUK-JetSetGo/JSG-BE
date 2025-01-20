@@ -1,46 +1,36 @@
 package org.tukcapstone.jetsetgo.domain.user.entity;
 
-import jakarta.persistence.Column;
-import jakarta.persistence.EmbeddedId;
-import jakarta.persistence.Entity;
-import jakarta.persistence.EnumType;
-import jakarta.persistence.Enumerated;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToOne;
-import jakarta.persistence.MapsId;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
+import lombok.AccessLevel;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import lombok.Setter;
 import org.tukcapstone.jetsetgo.domain.mission.entity.Mission;
-import org.tukcapstone.jetsetgo.domain.user.entity.data.UserMissionId;
 import org.tukcapstone.jetsetgo.domain.user.entity.enums.MissionSuccessStatus;
 
 @Entity
 @Table(name = "user_missions")
 @Getter
-@Setter
-@NoArgsConstructor
+@Builder
+@NoArgsConstructor(access = AccessLevel.PROTECTED)
+@AllArgsConstructor
 public class UserMission {
-
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "user_mission_id")
     private Long id;
 
-    @ManyToOne
+    @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "user_id", nullable = false)
     private User user;
 
-    @ManyToOne
-    @JoinColumn(name = "mission_id", nullable = false)
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "mission_id")
     private Mission mission;
 
     @Enumerated(EnumType.STRING)
-    @Column(name = "success", nullable = false)
-    private MissionSuccessStatus success;
+    @Column(nullable = false)
+    private MissionSuccessStatus missionSuccessStatus;
 
 }

@@ -1,22 +1,22 @@
 package org.tukcapstone.jetsetgo.domain.travelPlan.entity;
 
-import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
+import jakarta.persistence.FetchType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.OneToMany;
-import jakarta.persistence.PrePersist;
-import jakarta.persistence.PreUpdate;
 import jakarta.persistence.Table;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
+import lombok.AccessLevel;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import lombok.Setter;
 import org.tukcapstone.jetsetgo.domain.checklist.entity.Checklist;
 import org.tukcapstone.jetsetgo.domain.expense.entity.Expense;
 import org.tukcapstone.jetsetgo.domain.group.enitty.Group;
@@ -28,10 +28,10 @@ import org.tukcapstone.jetsetgo.domain.travelTheme.entity.TravelTheme;
 @Entity
 @Table(name = "travel_plans")
 @Getter
-@Setter
-@NoArgsConstructor
+@Builder
+@NoArgsConstructor(access = AccessLevel.PROTECTED)
+@AllArgsConstructor
 public class TravelPlan {
-
     @Id
     @Column(name = "travel_plan_id", nullable = false)
     private Long travelPlanId;
@@ -57,40 +57,28 @@ public class TravelPlan {
     @Column(name = "updated_at")
     private LocalDateTime updatedAt;
 
-    @ManyToOne
+    @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "group_id", nullable = false)
     private Group group;
 
-    @ManyToOne
+    @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "theme_id", nullable = false)
     private TravelTheme travelTheme;
 
-    @ManyToOne
+    @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "purpose_id", nullable = false)
     private TravelPurpose purposeId;
 
-    @ManyToOne
+    @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "city_id", nullable = false)
     private TravelCity travelCity;
 
-    @OneToMany(mappedBy = "travelPlan", cascade = CascadeType.ALL, orphanRemoval = true)
-    private List<Expense> expenses = new ArrayList<>();
+    @OneToMany(mappedBy = "travelPlan")
+    private List<Expense> expenseList = new ArrayList<>();
 
-    @OneToMany(mappedBy = "travelPlan", cascade = CascadeType.ALL, orphanRemoval = true)
-    private List<Checklist> checklists = new ArrayList<>();
+    @OneToMany(mappedBy = "travelPlan")
+    private List<Checklist> checklistList = new ArrayList<>();
 
-    @OneToMany(mappedBy = "travelPlan", cascade = jakarta.persistence.CascadeType.ALL, orphanRemoval = true)
-    private List<Itinerary> itineraries = new ArrayList<>();
-
-
-    @PrePersist
-    protected void onCreate() {
-        this.createdAt = LocalDateTime.now();
-        this.updatedAt = LocalDateTime.now();
-    }
-
-    @PreUpdate
-    protected void onUpdate() {
-        this.updatedAt = LocalDateTime.now();
-    }
+    @OneToMany(mappedBy = "travelPlan")
+    private List<Itinerary> itineraryList = new ArrayList<>();
 }

@@ -1,14 +1,7 @@
 package org.tukcapstone.jetsetgo.domain.travelSpot.entity;
 
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToOne;
-import jakarta.persistence.OneToMany;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
+
 import java.util.ArrayList;
 import java.util.List;
 import lombok.Getter;
@@ -22,19 +15,15 @@ import org.tukcapstone.jetsetgo.domain.touristSpot.entity.TouristSpot;
 @Setter
 @NoArgsConstructor
 public class TravelCity {
-
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(name = "city_id", nullable = false)
+    @Column(name = "travel_city_id", nullable = false)
     private Long id;
 
-    @Column(name = "city_name", nullable = false)
+    @Column(nullable = false)
     private String cityName;
 
-    @ManyToOne
+    @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "country_id", nullable = false)
-    private TravelCountry country;
-
-    @OneToMany(mappedBy = "travelCity")
-    private List<TouristSpot> touristSpots = new ArrayList<>();
+    private TravelCountry travelCountry;
 }
