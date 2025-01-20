@@ -16,7 +16,6 @@ import org.tukcapstone.jetsetgo.global.response.exception.code.TravelSpotErrorCo
 import java.util.List;
 
 @Service
-@Transactional
 @RequiredArgsConstructor
 public class TravelSpotServiceImpl implements TravelSpotService {
     private final TravelCountryRepository travelCountryRepository;
