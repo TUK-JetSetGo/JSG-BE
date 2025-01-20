@@ -1,24 +1,27 @@
 package org.tukcapstone.jetsetgo.domain.travelPlan.entity;
 
-import jakarta.persistence.*;
-
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.util.ArrayList;
-import java.util.List;
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.FetchType;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.ManyToOne;
+import jakarta.persistence.Table;
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import org.tukcapstone.jetsetgo.domain.checklist.entity.Checklist;
-import org.tukcapstone.jetsetgo.domain.expense.entity.Expense;
-import org.tukcapstone.jetsetgo.domain.group.enitty.ShareGroup;
-import org.tukcapstone.jetsetgo.domain.itinerary.entity.Itinerary;
+import org.tukcapstone.jetsetgo.domain.shareGroup.entity.ShareGroup;
 import org.tukcapstone.jetsetgo.domain.travelSpot.entity.TravelCity;
 import org.tukcapstone.jetsetgo.domain.travelPurpose.entity.TravelPurpose;
 import org.tukcapstone.jetsetgo.domain.travelTheme.entity.TravelTheme;
 import org.tukcapstone.jetsetgo.global.entity.BaseTimeEntity;
+
+import java.time.LocalDate;
+import java.time.LocalTime;
 
 @Entity
 @Table(name = "travel_plans")
@@ -33,7 +36,7 @@ public class TravelPlan extends BaseTimeEntity {
     private Long id;
 
     @Column(nullable = false)
-    private Integer budget;
+    private Integer dailyVisitCount;
 
     @Column(nullable = false)
     private LocalDate travelStartDate;
@@ -42,10 +45,13 @@ public class TravelPlan extends BaseTimeEntity {
     private LocalDate travelEndDate;
 
     @Column(nullable = false)
-    private LocalDateTime activityStartTime;
+    private LocalTime activityStartTime;
 
     @Column(nullable = false)
-    private LocalDateTime activityEndTime;
+    private LocalTime activityEndTime;
+
+    @Column(nullable = false)
+    private Integer budget;
 
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "share_group_id")
@@ -62,13 +68,4 @@ public class TravelPlan extends BaseTimeEntity {
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "travel_city_id")
     private TravelCity travelCity;
-
-    @OneToMany(mappedBy = "travelPlan")
-    private List<Expense> expenseList = new ArrayList<>();
-
-    @OneToMany(mappedBy = "travelPlan")
-    private List<Checklist> checklistList = new ArrayList<>();
-
-    @OneToMany(mappedBy = "travelPlan")
-    private List<Itinerary> itineraryList = new ArrayList<>();
 }

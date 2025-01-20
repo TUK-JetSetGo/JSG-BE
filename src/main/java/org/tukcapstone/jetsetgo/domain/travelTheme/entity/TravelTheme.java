@@ -21,7 +21,7 @@ import lombok.NoArgsConstructor;
 public class TravelTheme {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(name = "travel_theme id")
+    @Column(name = "travel_theme_id")
     private Long id;
 
     @Column(nullable = false)

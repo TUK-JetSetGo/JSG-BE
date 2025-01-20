@@ -10,7 +10,7 @@ import org.tukcapstone.jetsetgo.domain.travelTheme.dto.TravelThemeResponse.Trave
 import org.tukcapstone.jetsetgo.domain.travelTheme.service.TravelThemeService;
 import org.tukcapstone.jetsetgo.global.response.ResultResponse;
 
-import static org.tukcapstone.jetsetgo.global.response.result.code.TravelThemeResultCode.GET_THEME_LIST;
+import static org.tukcapstone.jetsetgo.global.response.result.code.TravelResultCode.GET_THEME_LIST;
 
 @RestController
 @RequestMapping("/themes")
@@ -36,6 +36,7 @@ public class TravelThemeController {
                             "name": "엔터테인먼트"
                           }, ...
                     ]
+                    ```
                     """
     )
     public ResultResponse<TravelThemeInfoList> getThemeList() {

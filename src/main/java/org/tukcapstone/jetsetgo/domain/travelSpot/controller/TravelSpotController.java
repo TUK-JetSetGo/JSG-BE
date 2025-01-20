@@ -12,8 +12,8 @@ import org.tukcapstone.jetsetgo.domain.travelSpot.dto.TravelSpotResponse.TravelC
 import org.tukcapstone.jetsetgo.domain.travelSpot.service.TravelSpotService;
 import org.tukcapstone.jetsetgo.global.response.ResultResponse;
 
-import static org.tukcapstone.jetsetgo.global.response.result.code.TravelSpotResultCode.GET_CITY_LIST;
-import static org.tukcapstone.jetsetgo.global.response.result.code.TravelSpotResultCode.GET_COUNTRY_LIST;
+import static org.tukcapstone.jetsetgo.global.response.result.code.TravelResultCode.GET_CITY_LIST;
+import static org.tukcapstone.jetsetgo.global.response.result.code.TravelResultCode.GET_COUNTRY_LIST;
 
 @RestController
 @RequestMapping("/travel-spots")
