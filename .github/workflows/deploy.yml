@@ -3,10 +3,10 @@ name: Spring Boot & Gradle CI/CD
 on:
   push:
     branches: 
-      - main
+      - develop
   pull_request:
     branches:
-      - main
+      - develop
 
 permissions:
   contents: read
