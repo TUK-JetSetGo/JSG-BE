@@ -19,4 +19,10 @@ public class UserController {
     public ResponseEntity<String> test() {
         return ResponseEntity.ok("회원 API 테스트입니다.");
     }
+
+    @Operation(summary = "Swagger 테스트", description = "Swagger 문서 테스트를 위한 간단한 API입니다.")
+    @GetMapping("/cicd-test")
+    public ResponseEntity<String> cicdTest() {
+        return ResponseEntity.ok("회원 API 테스트입니다.");
+    }
 }
