@@ -2,6 +2,7 @@ package org.tukcapstone.jetsetgo.domain.auth.controller;
 
 import static org.tukcapstone.jetsetgo.global.response.result.code.UserResultCode.LOGIN;
 
+import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
@@ -13,7 +14,6 @@ import org.tukcapstone.jetsetgo.domain.auth.dto.AuthRequest;
 import org.tukcapstone.jetsetgo.domain.auth.dto.AuthResponse;
 import org.tukcapstone.jetsetgo.domain.auth.service.AuthService;
 import org.tukcapstone.jetsetgo.global.response.ResultResponse;
-import org.tukcapstone.jetsetgo.global.response.result.code.UserResultCode;
 
 @RestController
 @RequestMapping("/auth")
@@ -23,6 +23,17 @@ public class AuthController {
     private final AuthService authService;
 
     @PostMapping("/kakao-login")
+    @Operation(
+            summary = "카카오 로그인 API",
+            description = """
+                    안드로이드 SDK로 전달받은 카카오 AccessToken을 사용하여 로그인 또는 회원가입을 진행하고, 자체 JWT 토큰을 발급합니다.
+                    ### Example JSON:
+                    ```json
+                    {
+                        "accessToken": "2Fq2mys12SF6vPBJGKVCxEXiWq0cmqgCAAAAAQoqJVEAAAGU3lw1ceZNgpjs3oAL"
+                    }
+                    ```"""
+    )
     public ResultResponse<AuthResponse.LoginResponse> kakaoLogin(
             @Valid @RequestBody AuthRequest .KakaoLoginRequest request){
 

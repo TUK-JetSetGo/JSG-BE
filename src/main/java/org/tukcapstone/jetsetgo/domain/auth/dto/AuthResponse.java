@@ -13,5 +13,6 @@ public abstract class AuthResponse {
     public static class LoginResponse{
         private Long memberId;
         private String name;
+        private String token;
     }
 }
