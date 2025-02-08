@@ -12,6 +12,7 @@ public abstract class KakaoResponse {
     @AllArgsConstructor
     public static class KakaoUserResponse{
         private Long id;
+        private String email;
         private KakaoProperties properties;
     }
 
@@ -21,4 +22,5 @@ public abstract class KakaoResponse {
     public static class KakaoProperties{
         private String nickname;
     }
+
 }

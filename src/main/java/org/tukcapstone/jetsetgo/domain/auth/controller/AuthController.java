@@ -22,22 +22,24 @@ import org.tukcapstone.jetsetgo.global.response.ResultResponse;
 public class AuthController {
     private final AuthService authService;
 
-    @PostMapping("/kakao-login")
+    @PostMapping("/login")
     @Operation(
-            summary = "카카오 로그인 API",
+            summary = "소셜 로그인/회원가입 API",
             description = """
-                    안드로이드 SDK로 전달받은 카카오 AccessToken을 사용하여 로그인 또는 회원가입을 진행하고, 자체 JWT 토큰을 발급합니다.
-                    ### Example JSON:
+                    소셜 인증 제공자로부터 받은 accessToken을 사용하여 로그인 또는 회원가입을 진행합니다.
+                    예시 JSON:
                     ```json
                     {
-                        "accessToken": "2Fq2mys12SF6vPBJGKVCxEXiWq0cmqgCAAAAAQoqJVEAAAGU3lw1ceZNgpjs3oAL"
+                        "socialType": "KAKAO",
+                        "accessToken": "액세스 토큰 값"
                     }
                     ```"""
     )
-    public ResultResponse<AuthResponse.LoginResponse> kakaoLogin(
-            @Valid @RequestBody AuthRequest .KakaoLoginRequest request){
+    public ResultResponse<AuthResponse.LoginResponse> login(
+            @Valid @RequestBody AuthRequest.SocialLoginRequest request) {
 
-        AuthResponse.LoginResponse loginResponse = authService.kakaoLogin(request.getAccessToken());
+        AuthResponse.LoginResponse loginResponse =
+                authService.login(request.getSocialType(), request.getAccessToken());
         return ResultResponse.onSuccess(LOGIN, loginResponse);
     }
 }
