@@ -16,7 +16,8 @@ public abstract class AuthResponse {
         private Long userId;
         private String name;
         private String email;
-        private boolean isNewUser;
         private String token;
+        private boolean isNewUser;
+        private String refreshToken;
     }
 }

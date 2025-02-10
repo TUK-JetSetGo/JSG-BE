@@ -18,12 +18,13 @@ public class KakaoAuthConverter {
                 .build();
     }
 
-    public LoginResponse convertToLoginResponse(User user, String token, boolean isNewUser) {
+    public LoginResponse convertToLoginResponse(User user, String token, String refreshToken, boolean isNewUser) {
         return LoginResponse.builder()
                 .userId(user.getId())
                 .name(user.getName())
                 .email(user.getEmail())
                 .token(token)
+                .refreshToken(refreshToken)
                 .isNewUser(isNewUser)
                 .build();
     }

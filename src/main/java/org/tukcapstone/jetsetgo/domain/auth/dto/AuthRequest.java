@@ -19,4 +19,13 @@ public abstract class AuthRequest {
         @NotNull(message = "SocialType은 필수 입력 값입니다.")
         private SocialType socialType;
     }
+
+    @Getter
+    @NoArgsConstructor
+    @AllArgsConstructor
+    public static class RefreshTokenRequest{
+        @NotBlank(message = "AccessToken은 필수 입력 값입니다.")
+        private String refreshToken;
+
+    }
 }

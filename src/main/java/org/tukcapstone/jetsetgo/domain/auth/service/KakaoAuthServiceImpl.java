@@ -1,12 +1,12 @@
 package org.tukcapstone.jetsetgo.domain.auth.service;
 
-import java.util.Optional;
 import lombok.AllArgsConstructor;
 import lombok.Value;
 import org.springframework.stereotype.Service;
 import org.tukcapstone.jetsetgo.domain.auth.converter.KakaoAuthConverter;
-import org.tukcapstone.jetsetgo.domain.auth.dto.AuthResponse;
 import org.tukcapstone.jetsetgo.domain.auth.dto.AuthResponse.LoginResponse;
+import org.tukcapstone.jetsetgo.domain.auth.entity.RefreshToken;
+import org.tukcapstone.jetsetgo.domain.auth.repository.RefreshTokenRepository;
 import org.tukcapstone.jetsetgo.domain.user.entity.User;
 import org.tukcapstone.jetsetgo.domain.user.entity.enums.SocialType;
 import org.tukcapstone.jetsetgo.domain.user.repository.UserRepository;
@@ -14,7 +14,7 @@ import org.tukcapstone.jetsetgo.global.external.KakaoResponse;
 import org.tukcapstone.jetsetgo.global.external.KakaoUserClient;
 import org.tukcapstone.jetsetgo.global.response.exception.GeneralException;
 import org.tukcapstone.jetsetgo.global.response.exception.code.UserErrorCode;
-import org.tukcapstone.jetsetgo.global.util.JwtTokenProvider;
+import org.tukcapstone.jetsetgo.global.security.JwtTokenProvider;
 
 @Service
 @AllArgsConstructor
@@ -24,8 +24,9 @@ public class KakaoAuthServiceImpl implements SocialAuthService {
 
     private final KakaoUserClient kakaoUserClient;
     private final JwtTokenProvider jwtTokenProvider;
-    private final UserRepository userRepository;
     private final KakaoAuthConverter kakaoAuthConverter;
+    private final UserRepository userRepository;
+    private final RefreshTokenRepository refreshTokenRepository;
 
     @Override
     public SocialType getProvider() {
@@ -36,8 +37,13 @@ public class KakaoAuthServiceImpl implements SocialAuthService {
     public LoginResponse authenticate(String accessToken) {
         var kakaoUserResponse = retrieveKakaoUserResponse(accessToken);
         var authUser = findOrCreateUser(kakaoUserResponse);
+
         var token = jwtTokenProvider.createToken(authUser.getUser().getId(), authUser.getUser().getName());
-        return buildLoginResponse(authUser.getUser(), token, authUser.isNewUser());
+        var refreshToken = jwtTokenProvider.createRefreshToken(authUser.getUser().getId());
+
+        saveOrUpdateRefreshToken(authUser.getUser().getId(), refreshToken);
+
+        return kakaoAuthConverter.convertToLoginResponse(authUser.getUser(), token, refreshToken, authUser.isNewUser());
     }
 
     private KakaoResponse.KakaoUserResponse retrieveKakaoUserResponse(String accessToken) {
@@ -60,8 +66,12 @@ public class KakaoAuthServiceImpl implements SocialAuthService {
                 });
     }
 
-    private LoginResponse buildLoginResponse(User user, String token, boolean isNewUser) {
-        return kakaoAuthConverter.convertToLoginResponse(user, token, isNewUser);
+    private void saveOrUpdateRefreshToken(Long userId, String newRefreshToken) {
+        RefreshToken refreshToken = refreshTokenRepository.findByUserId(userId)
+                .orElse(new RefreshToken(userId, newRefreshToken));
+
+        refreshToken.updateToken(newRefreshToken);
+        refreshTokenRepository.save(refreshToken);
     }
 
     @Value
