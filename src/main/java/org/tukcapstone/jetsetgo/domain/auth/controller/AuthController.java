@@ -55,15 +55,16 @@ public class AuthController {
 
     @PostMapping("/refresh")
     @Operation(
-            summary = "리프레시 토큰 갱신 API",
+            summary = "AccessToken 갱신 API",
             description = """
-                    클라이언트가 보유한 리프레시 토큰을 사용하여 새 액세스 토큰(및 필요 시 새 리프레시 토큰)을 발급받습니다.
-                    예시 JSON:
-                    ```json
-                    {
-                        "refreshToken": "리프레시 토큰 값"
-                    }
-                    ```"""
+                    만료된 AccessToken을 갱신하기 위해 RefreshToken을 사용하여 새로운 AccessToken을 발급받습니다.
+                    RefreshToken이 유효하면 새로운 AccessToken을 반환하며, 새로운 RefreshToken도 함께 발급됩니다.
+
+                    요청 헤더:
+                    ```http
+                    Refresh-Token: {현재 보유한 RefreshToken}
+                    ```
+                    """
     )
     public ResultResponse<AuthResponse.LoginResponse> refresh(
             @RequestHeader(value = "Refresh-Token", required = false) String refreshToken) {
