@@ -85,7 +85,6 @@ public class JwtTokenProvider {
             Claims claims = getClaims(token);
             String tokenType = claims.get("tokenType", String.class);
 
-            // 🔹 RefreshToken이 맞는지 검증
             return "refresh".equals(tokenType);
         } catch (Exception e) {
             return false;

@@ -5,13 +5,13 @@ import static org.tukcapstone.jetsetgo.global.response.exception.code.AuthErrorC
 import static org.tukcapstone.jetsetgo.global.response.exception.code.UserErrorCode.USER_NOT_FOUND;
 
 import java.util.List;
+import java.util.concurrent.TimeUnit;
 import lombok.AllArgsConstructor;
+import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.tukcapstone.jetsetgo.domain.auth.converter.AuthConverter;
 import org.tukcapstone.jetsetgo.domain.auth.dto.AuthResponse;
-import org.tukcapstone.jetsetgo.domain.auth.entity.RefreshToken;
-import org.tukcapstone.jetsetgo.domain.auth.repository.RefreshTokenRepository;
 import org.tukcapstone.jetsetgo.domain.user.entity.User;
 import org.tukcapstone.jetsetgo.domain.user.entity.enums.SocialType;
 import org.tukcapstone.jetsetgo.domain.user.repository.UserRepository;
@@ -26,7 +26,7 @@ public class AuthServiceImpl implements AuthService{
     private final JwtTokenProvider jwtTokenProvider;
     private final UserRepository userRepository;
     private final AuthConverter authConverter;
-    private final RefreshTokenRepository refreshTokenRepository;
+    private final RedisTemplate<String, String> redisTemplate;
 
 
     @Override
@@ -45,10 +45,10 @@ public class AuthServiceImpl implements AuthService{
     public AuthResponse.LoginResponse refresh(String refreshToken) {
         Long userId = jwtTokenProvider.getId(refreshToken);
 
-        RefreshToken savedToken = refreshTokenRepository.findByUserId(userId)
-                .orElseThrow(() -> new GeneralException(INVALID_REFRESH_TOKEN));
+        String redisKey = "refreshToken:" + userId;
+        String savedToken = redisTemplate.opsForValue().get(redisKey);
 
-        if(!savedToken.getToken().equals(refreshToken)){
+        if(savedToken == null || !savedToken.equals(refreshToken)){
             throw new GeneralException(INVALID_REFRESH_TOKEN);
         }
 
@@ -57,10 +57,9 @@ public class AuthServiceImpl implements AuthService{
 
         String newAccessToken = jwtTokenProvider.createToken(user.getId(), user.getName());
         String newRefreshToken = jwtTokenProvider.createRefreshToken(user.getId());
+        long refreshExpireMillis = jwtTokenProvider.getRefreshTokenValidityInMilliseconds();
 
-        savedToken.updateToken(newRefreshToken);
-        refreshTokenRepository.save(savedToken);
-
+        redisTemplate.opsForValue().set(redisKey, newRefreshToken, refreshExpireMillis, TimeUnit.MILLISECONDS);
         return authConverter.convertToLoginRefreshResponse(user,newAccessToken, newRefreshToken, false);
     }
 }

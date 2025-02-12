@@ -1,12 +1,13 @@
 package org.tukcapstone.jetsetgo.domain.auth.service;
 
+import java.util.concurrent.TimeUnit;
 import lombok.AllArgsConstructor;
 import lombok.Value;
+import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.stereotype.Service;
 import org.tukcapstone.jetsetgo.domain.auth.converter.KakaoAuthConverter;
 import org.tukcapstone.jetsetgo.domain.auth.dto.AuthResponse.LoginResponse;
 import org.tukcapstone.jetsetgo.domain.auth.entity.RefreshToken;
-import org.tukcapstone.jetsetgo.domain.auth.repository.RefreshTokenRepository;
 import org.tukcapstone.jetsetgo.domain.user.entity.User;
 import org.tukcapstone.jetsetgo.domain.user.entity.enums.SocialType;
 import org.tukcapstone.jetsetgo.domain.user.repository.UserRepository;
@@ -26,7 +27,7 @@ public class KakaoAuthServiceImpl implements SocialAuthService {
     private final JwtTokenProvider jwtTokenProvider;
     private final KakaoAuthConverter kakaoAuthConverter;
     private final UserRepository userRepository;
-    private final RefreshTokenRepository refreshTokenRepository;
+    private final RedisTemplate<String, String> redisTemplate;
 
     @Override
     public SocialType getProvider() {
@@ -67,11 +68,10 @@ public class KakaoAuthServiceImpl implements SocialAuthService {
     }
 
     private void saveOrUpdateRefreshToken(Long userId, String newRefreshToken) {
-        RefreshToken refreshToken = refreshTokenRepository.findByUserId(userId)
-                .orElse(new RefreshToken(userId, newRefreshToken));
+        String redisKey = "refreshToken:" + userId;
+        long refreshExpireMillis = jwtTokenProvider.getRefreshTokenValidityInMilliseconds();
 
-        refreshToken.updateToken(newRefreshToken);
-        refreshTokenRepository.save(refreshToken);
+        redisTemplate.opsForValue().set(redisKey, newRefreshToken, refreshExpireMillis, TimeUnit.MILLISECONDS);
     }
 
     @Value
