@@ -34,15 +34,18 @@ public class User extends BaseTimeEntity {
     @Column(name="user_id")
     private Long id;
 
+    @Column(unique = true)
+    private Long socialId;
+
+    @Column(nullable = false)
+    private String name;
+
     @Column(nullable = false)
     private String email;
 
     @Enumerated(EnumType.STRING)
     @Column(nullable = false)
     private SocialType socialType;
-
-    @Column(nullable = false)
-    private String providerId;
 
     @OneToMany(mappedBy = "user")
     private List<Review> reviewList = new ArrayList<>();
