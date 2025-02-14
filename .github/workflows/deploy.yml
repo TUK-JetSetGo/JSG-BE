@@ -25,7 +25,7 @@ jobs:
 
       - name: make application.yml
         run: |
-          cd ./src/main/resources
+          cd ./JSG-BE/src/main/resources
           touch ./application-dev.yml
           echo "${{ secrets.APPLICATION_DEV_YML }}" >> ./application-dev.yml
         shell: bash
