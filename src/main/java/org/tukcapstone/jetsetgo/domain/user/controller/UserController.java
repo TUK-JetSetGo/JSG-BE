@@ -6,9 +6,12 @@ import static org.tukcapstone.jetsetgo.global.response.result.code.AuthResultCod
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PatchMapping;
 import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+import org.tukcapstone.jetsetgo.domain.user.dto.UserRequest;
 import org.tukcapstone.jetsetgo.domain.user.dto.UserResponse;
 import org.tukcapstone.jetsetgo.domain.user.dto.UserResponse.UserProfile;
 import org.tukcapstone.jetsetgo.domain.user.entity.User;
@@ -29,12 +32,13 @@ public class UserController {
         return ResultResponse.onSuccess(AUTHORIZED, profile);
     }
 
-    @PutMapping("/profile")
-    public ResultResponse<String> updateProfile(@AuthenticationPrincipal User user) {
-        if (user == null) {
-            return ResultResponse.onFailure(UNAUTHORIZED, "인증되지 않은 사용자입니다.");
-        }
-        return ResultResponse.onSuccess(AUTHORIZED, "환영합니다, " + user.getName() + "님!");
+    @PatchMapping("/profile")
+    public ResultResponse<UserProfile> updateProfile(
+            @AuthenticationPrincipal User user,
+            @RequestBody UserRequest.UserProfile userProfile
+    ) {
+        UserResponse.UserProfile profile =  userService.updateUserProfile(user.getId(), userProfile);
+        return ResultResponse.onSuccess(AUTHORIZED, profile);
     }
 
 }
