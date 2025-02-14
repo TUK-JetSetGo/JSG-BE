@@ -16,6 +16,7 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
+import lombok.Setter;
 import org.tukcapstone.jetsetgo.domain.shareGroup.entity.UserGroup;
 import org.tukcapstone.jetsetgo.domain.recommend.entity.Recommend;
 import org.tukcapstone.jetsetgo.domain.review.entity.Review;
@@ -25,6 +26,7 @@ import org.tukcapstone.jetsetgo.global.entity.BaseTimeEntity;
 @Entity
 @Table(name = "users")
 @Getter
+@Setter
 @Builder
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 @AllArgsConstructor
