@@ -16,6 +16,9 @@ public enum TravelResultCode implements ResultCode {
     GET_THEME_LIST(200, "STT000", "성공적으로 여행 테마를 조회했습니다."),
 
     CREATE_TRAVEL_PLAN(200, "STP000", "성공적으로 여행 일정을 생성했습니다."),
+
+    // 여행지
+    GET_TOURIST_SPOT_LIST(200, "STT000", "성공적으로 관광지를 조회했습니다."),
     ;
     private final int status;
     private final String code;

@@ -1,0 +1,3031 @@
+[
+    {
+        "index": "0",
+        "rank": "1",
+        "id": "1529948847",
+        "name": "고향향토장터",
+        "tel": "064-747-8035",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "한식",
+            "해물,생선요리"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220076",
+                "220777"
+            ]
+        ],
+        "rcode": "1411032025",
+        "businessStatus": {
+            "requestTime": "202502262104",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "20:00에 영업종료"
+            },
+            "businessHours": "202502261100~202502262000",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 추자면 신양리 434-9",
+        "roadAddress": "제주특별자치도 제주시 추자면 추자로 576",
+        "abbrAddress": "신양리 434-9",
+        "shortAddress": [
+            "제주 제주시 추자면",
+            "추자로 576"
+        ],
+        "display": "고향향토장터",
+        "telDisplay": "064-747-8035",
+        "context": [],
+        "reviewCount": 13,
+        "placeReviewCount": 53,
+        "ktCallMd": "f7e3e92bdb8724af822a41def832259e",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20190731_225/1564537999209OLAnd_JPEG/fU4T45WwenCQkHJ5oWs88cMl.JPG.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20190731_225/1564537999209OLAnd_JPEG/fU4T45WwenCQkHJ5oWs88cMl.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190731_205/1564537999357djHVc_JPEG/FJwmqobaHBknTi_bpSVVwPUQ.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190731_113/15645380729647HdWJ_JPEG/sbNPH-YpDLWxzOxLunCJ2w5t.JPG.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.3280764",
+        "y": "33.9451893",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "sV8WANCUQiLzIAObb3GALw==",
+            "pan": "23.39",
+            "tilt": "17.81",
+            "lng": "126.3278625",
+            "lat": "33.9451723",
+            "fov": "90"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.328097,
+                    "y": 33.9451117
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.328097,
+                    "y": 33.9451117
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "문어부침개 10,000 | 멜튀김 10,000 | 매운뼈닭발 15,000 | 순두부 10,000 | 뿔소라회 30,000 | 돌문어숙회 30,000 | 문어탕탕이 20,000 | 한치물회 15,000 | 조기백반 11,000 | 육개장 10,000 | 김치찌개 10,000 | 문어제육 25,000 | 콩국수(계절 메뉴) 10,000 | 들깨칼국수 9,000 | 생선구이 20,000 | 문어닭볶음탕 50,000 | 문어먹물탕 40,000 | 쥐치조림 40,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "385926.53",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220777",
+        "microReview": [
+            "신선한 재료로 만든 조기정식 맛집"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "1",
+        "rank": "2",
+        "id": "11595996",
+        "name": "오동여식당",
+        "tel": "",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "0",
+        "category": [
+            "한식",
+            "생선회"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220076",
+                "220792",
+                "221629"
+            ]
+        ],
+        "rcode": "1411032021",
+        "businessStatus": {
+            "requestTime": "202502262104",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "21:00에 영업종료"
+            },
+            "businessHours": "202502260900~202502262100",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 추자면 대서리 153 대서리 광장 분수대 앞",
+        "roadAddress": "제주특별자치도 제주시 추자면 추자로 52-1 대서리 광장 분수대 앞",
+        "abbrAddress": "대서리 153 대서리 광장 분수대 앞",
+        "shortAddress": [
+            "제주 제주시 추자면",
+            "추자로 52-1",
+            "대서리 광장 분수대 앞"
+        ],
+        "display": "오동여식당",
+        "telDisplay": "",
+        "context": [],
+        "reviewCount": 29,
+        "placeReviewCount": 83,
+        "ktCallMd": "0779abc0937484d399d9d974e0c41452",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20241031_206/1730361611911gIwpI_JPEG/1000002820.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20241031_206/1730361611911gIwpI_JPEG/1000002820.jpg",
+            "https://ldb-phinf.pstatic.net/20241031_273/1730363506601yXjkt_JPEG/1000002840.jpg",
+            "https://ldb-phinf.pstatic.net/20241031_232/1730363193869NIlQp_JPEG/1000002836.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2940681",
+        "y": "33.9624625",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "N/os/oJROhkQyhA9BVF+FQ==",
+            "pan": "-73.83",
+            "tilt": "10.00",
+            "lng": "126.2942098",
+            "lat": "33.9624213",
+            "fov": "120"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": null,
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "삼치회정식 20,000 | 굴비정식 15,000 | 생선모듬구이정식 20,000 | 거북손물회 15,000 | 고등어구이 15,000 | 물회 15,000 | 조기매운탕(2인) 30,000 | 모듬 해산물 50,000 | 쥐치회 80,000 | 삼치 80,000 | 광어 80,000 | 농어 80,000 | 모듬회 100,000 | 참돔 100,000 | 감성돔 150,000 | 돌돔 150,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "384312.41",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221629",
+        "microReview": [
+            "싱싱한 회와 맛있는 반찬의 조화"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "2",
+        "rank": "3",
+        "id": "1890398321",
+        "name": "오누이밥상",
+        "tel": "",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "0",
+        "category": [
+            "음식점",
+            "한식"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220053"
+            ]
+        ],
+        "rcode": "1411032022",
+        "businessStatus": {
+            "requestTime": "202502262104",
+            "status": {
+                "code": 2,
+                "text": "영업 중",
+                "emphasis": false,
+                "description": "영업중",
+                "detailInfo": "22:00에 영업종료"
+            },
+            "businessHours": "202502261100~202502262200",
+            "breakTime": "202502261400~202502261730",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 추자면 영흥리 332-4 1층",
+        "roadAddress": "제주특별자치도 제주시 추자면 영흥1길 20 1층",
+        "abbrAddress": "영흥리 332-4 1층",
+        "shortAddress": [
+            "제주 제주시 추자면",
+            "영흥1길 20",
+            "1층"
+        ],
+        "display": "오누이밥상",
+        "telDisplay": "",
+        "context": [],
+        "reviewCount": 13,
+        "placeReviewCount": 54,
+        "ktCallMd": "e67264d7e3bfcaa9e94e41718673b345",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20230904_184/1693804193516CcCob_JPEG/1000002492.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20230904_184/1693804193516CcCob_JPEG/1000002492.jpg",
+            "https://ldb-phinf.pstatic.net/20190731_196/1564550066437jsvW6_JPEG/PVF-1V9ftv6QBZdC7wHwL2b3.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190731_230/1564550066828nrA71_JPEG/H3nKHCCX1yQzsjKu2Lf0YRrt.JPG.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2947500",
+        "y": "33.9608187",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "mkm57FiiYnsSQGXo1NuBmQ==",
+            "pan": "-128.32",
+            "tilt": "10.00",
+            "lng": "126.2948999",
+            "lat": "33.9609369",
+            "fov": "120"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.294832,
+                    "y": 33.96094
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.294832,
+                    "y": 33.96094
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 중",
+        "menuInfo": "굴비정식 15,000 | 삼치회 (예약주문) 60,000 | 정식백반 (2인분이상) 13,000 | 제주산오겹살 18,000 | 제주산대패 18,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "384488.44",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "3",
+        "rank": "4",
+        "id": "1874514793",
+        "name": "유스테이추자 카페 & 민박",
+        "tel": "",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "0",
+        "category": [
+            "음식점",
+            "카페,디저트"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220052",
+                "220563"
+            ],
+            [
+                "1004760",
+                "1005205"
+            ]
+        ],
+        "rcode": "1411032025",
+        "businessStatus": {
+            "requestTime": "202502262104",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "20:00에 영업종료"
+            },
+            "businessHours": "202502260930~202502262000",
+            "breakTime": "202502261700~202502261740",
+            "lastOrder": "202502261930"
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 추자면 신양리 434-34 유스테이추자",
+        "roadAddress": "제주특별자치도 제주시 추자면 신양2길 28-12 유스테이추자",
+        "abbrAddress": "신양리 434-34 유스테이추자",
+        "shortAddress": [
+            "제주 제주시 추자면",
+            "신양2길 28-12",
+            "유스테이추자"
+        ],
+        "display": "유스테이추자 카페 & 민박",
+        "telDisplay": "",
+        "context": [],
+        "reviewCount": 23,
+        "placeReviewCount": 131,
+        "ktCallMd": "9fa7bd52b645f0f12d0524bf4c66f3eb",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20210406_28/1617647253904lmEHE_JPEG/yAlBTqwkNMrZY75k3l-oW0xH.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20210406_28/1617647253904lmEHE_JPEG/yAlBTqwkNMrZY75k3l-oW0xH.jpg",
+            "https://ldb-phinf.pstatic.net/20220415_148/1649997587532MoDG4_JPEG/20220407_165412.jpg",
+            "https://ldb-phinf.pstatic.net/20220415_255/1649997587449HdWHG_JPEG/20220407_170005.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.3304178",
+        "y": "33.9447254",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "fb8MUNdbwIxzwvTZdnICkg==",
+            "pan": "159.90",
+            "tilt": "10.00",
+            "lng": "126.3303628",
+            "lat": "33.9448755",
+            "fov": "120"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "https://blog.naver.com/youstaychuja_",
+        "description": "",
+        "entranceCoords": null,
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "쌍화차 7,000 | 대추차 7,000 | 수제쿠키 1,500",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "385958.38",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "microReview": [
+            "아름다운 바다 뷰와 시원한 음료의 만남"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "4",
+        "rank": "5",
+        "id": "1559383678",
+        "name": "추막회앤카페힐스",
+        "tel": "0507-1492-5500",
+        "isCallLink": false,
+        "virtualTel": "0507-1492-5500",
+        "virtualTelDisplay": "0507-1492-5500",
+        "ppc": "1",
+        "category": [
+            "한식",
+            "생선회"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220076",
+                "220792",
+                "221629"
+            ]
+        ],
+        "rcode": "1411032025",
+        "businessStatus": {
+            "requestTime": "202502262104",
+            "status": {
+                "code": 2,
+                "text": "영업 중",
+                "emphasis": false,
+                "description": "영업중",
+                "detailInfo": "22:00에 영업종료"
+            },
+            "businessHours": "202502260600~202502262200",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 추자면 신양리 172-1",
+        "roadAddress": "제주특별자치도 제주시 추자면 신양4길 18",
+        "abbrAddress": "신양리 172-1",
+        "shortAddress": [
+            "제주 제주시 추자면",
+            "신양4길 18"
+        ],
+        "display": "추막회앤카페힐스",
+        "telDisplay": "0507-1492-5500",
+        "context": [],
+        "reviewCount": 12,
+        "placeReviewCount": 15,
+        "ktCallMd": "6f4349ca885d814c5781b49c892ed751",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20241022_118/1729576058414zOGmX_JPEG/KakaoTalk_20241022_111340529.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20241022_118/1729576058414zOGmX_JPEG/KakaoTalk_20241022_111340529.jpg",
+            "https://ldb-phinf.pstatic.net/20190731_56/1564539658594dNpew_JPEG/lNRTwtgL9kAqMutzsaGxFs8M.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190731_176/1564539663899aOj4x_JPEG/5gf-RbTk_je56HgRv-3UZg_x.JPG.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.3320886",
+        "y": "33.9471056",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "nIcX7K9TD7C4HaWb3IDR+A==",
+            "pan": "-104.84",
+            "tilt": "10.00",
+            "lng": "126.3322535",
+            "lat": "33.9471492",
+            "fov": "120"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.33218,
+                    "y": 33.947179
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.33218,
+                    "y": 33.947179
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 중",
+        "menuInfo": "아메리카노 3,000 | 카푸치노 3,000 | 카페라떼 3,000 | 에스프레소 3,000 | 오렌지쥬스 2,000 | 포도쥬스 2,000 | 코카콜라, 사이다 1,500",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "385680.62",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221629",
+        "microReview": [
+            "다양한 해산물과 맛있는 반찬의 만남"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "5",
+        "rank": "6",
+        "id": "38562971",
+        "name": "신등대 낚시민박&식당",
+        "tel": "0507-1412-3868",
+        "isCallLink": false,
+        "virtualTel": "0507-1412-3868",
+        "virtualTelDisplay": "0507-1412-3868",
+        "ppc": "1",
+        "category": [
+            "한식",
+            "생선회"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220076",
+                "220792",
+                "221629"
+            ]
+        ],
+        "rcode": "1411032021",
+        "businessStatus": {
+            "requestTime": "202502262104",
+            "status": {
+                "code": 0,
+                "text": "",
+                "emphasis": false,
+                "description": "정보 없음",
+                "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 추자면 대서리 5-7 1층",
+        "roadAddress": "제주특별자치도 제주시 추자면 추자로 12 1층",
+        "abbrAddress": "대서리 5-7 1층",
+        "shortAddress": [
+            "제주 제주시 추자면",
+            "추자로 12",
+            "1층"
+        ],
+        "display": "신등대 낚시민박&식당",
+        "telDisplay": "0507-1412-3868",
+        "context": [],
+        "reviewCount": 16,
+        "placeReviewCount": 49,
+        "ktCallMd": "fbf16b99ff81aad0fb98d305e8383115",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20190731_76/1564545923537KJ7Qq_JPEG/W49aRGPblvgP1LqZnZMqkQgN.JPG.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20190731_76/1564545923537KJ7Qq_JPEG/W49aRGPblvgP1LqZnZMqkQgN.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190731_276/15645459512006rPb3_JPEG/kbg_tzxInvc4VfD-JSU45EXY.JPG.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2976206",
+        "y": "33.9633261",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "Pvt9IhyWSWrMextSNhoSiw==",
+            "pan": "63.33",
+            "tilt": "10.00",
+            "lng": "126.2974405",
+            "lat": "33.9632355",
+            "fov": "120"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "http://신등대낚시민박.kr",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.297496,
+                    "y": 33.963309
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.297496,
+                    "y": 33.963309
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "",
+        "menuInfo": "굴비정식 (2인) 22,000 | 삼치정식  (2인) 22,000 | 갈치조림정식  (2인) 30,000 | 참조기매운탕  (2인) 25,000 | 장어탕  (2인) 30,000 | 몸비빔밥 (1인) 1 | 배말탕  (2인) 30,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+            "name": "한국인의밥상",
+            "menu": "돔찜"
+        },
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "384184.59",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221629",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "6",
+        "rank": "7",
+        "id": "1698638260",
+        "name": "추자북경",
+        "tel": "",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "0",
+        "category": [
+            "중식",
+            "중식당"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220039",
+                "220091",
+                "220861"
+            ],
+            [
+                "1004760",
+                "1005205"
+            ]
+        ],
+        "rcode": "1411032025",
+        "businessStatus": {
+            "requestTime": "202502262104",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "15:00에 영업종료"
+            },
+            "businessHours": "202502261130~202502261500",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 추자면 신양리 673-1 추자북경",
+        "roadAddress": "제주특별자치도 제주시 추자면 신양서길 13-9 추자북경",
+        "abbrAddress": "신양리 673-1 추자북경",
+        "shortAddress": [
+            "제주 제주시 추자면",
+            "신양서길 13-9",
+            "추자북경"
+        ],
+        "display": "추자북경",
+        "telDisplay": "",
+        "context": [],
+        "reviewCount": 18,
+        "placeReviewCount": 28,
+        "ktCallMd": "145a6e689fd128b4d9939c62e1b53d55",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20190731_111/1564535831771zCkGJ_JPEG/yRDXI4ojMXHyKVLbDDf75xQZ.JPG.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20190731_111/1564535831771zCkGJ_JPEG/yRDXI4ojMXHyKVLbDDf75xQZ.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190731_238/15645358326246DuII_JPEG/0gFs003Q6Ct4VlOxsYCBQqOH.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190731_161/1564535831907IrAbi_JPEG/UIXRDgySPb4TlQ6kn00cGcSH.JPG.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.3203746",
+        "y": "33.9419662",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "mvVyDVp7la4ESNCCSdi8eg==",
+            "pan": "139.35",
+            "tilt": "10.00",
+            "lng": "126.3202862",
+            "lat": "33.9420689",
+            "fov": "120"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.320156,
+                    "y": 33.941878
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.320156,
+                    "y": 33.941878
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "짬뽕 10,000 | 간짜장 9,000 | 탕수육(中) 25,000 | 탕수육(大) 30,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "386349.69",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "microReview": [
+            "깔끔한 인테리어와 맛있는 해산물 베이스 짬뽕"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "7",
+        "rank": "8",
+        "id": "1019025672",
+        "name": "시골밥상",
+        "tel": "064-742-2070",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "한식",
+            "향토음식"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220079"
+            ]
+        ],
+        "rcode": "1411032021",
+        "businessStatus": {
+            "requestTime": "202502262104",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "20:00에 영업종료"
+            },
+            "businessHours": "202502260800~202502262000",
+            "breakTime": "202502261600~202502261700",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 추자면 대서리 149 시골밥상",
+        "roadAddress": "제주특별자치도 제주시 추자면 추자로 52 시골밥상",
+        "abbrAddress": "대서리 149 시골밥상",
+        "shortAddress": [
+            "제주 제주시 추자면",
+            "추자로 52",
+            "시골밥상"
+        ],
+        "display": "시골밥상",
+        "telDisplay": "064-742-2070",
+        "context": [],
+        "reviewCount": 23,
+        "placeReviewCount": 69,
+        "ktCallMd": "18e9b353ac1bbb5982ddfb0f8b50c9f7",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20220708_60/1657246637934Qlyh6_JPEG/20220509_111832.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20220708_60/1657246637934Qlyh6_JPEG/20220509_111832.jpg",
+            "https://ldb-phinf.pstatic.net/20240518_181/1715991509553oEU1z_JPEG/20240517_190408.jpg",
+            "https://ldb-phinf.pstatic.net/20240506_164/1714980058365LOwjq_JPEG/20240427_141631.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2941861",
+        "y": "33.9625331",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "+URcvpcWvvTW0UFkIvUqVA==",
+            "pan": "-64.48",
+            "tilt": "10.00",
+            "lng": "126.2942637",
+            "lat": "33.9624960",
+            "fov": "120"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": null,
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "굴비구이정식 15,000 | 삼치구이정식 15,000 | 볼락구이 15,000 | 갈치구이정식 15,000 | 고등어구이 10,000 | 매운탕,조림(참조기,갈치,볼락) 20,000 | 거북손물회 15,000 | 한치물회 15,000 | 참소라물회 15,000 | 거북손숙회 20,000 | 거북손전 18,000 | 거북손비빔밥 15,000 | 참소라비빔밥 15,000 | .자연산홍합(섭)전골 40,000 | 삿갓조개뚝배기 13,000 | 삼치회정식 20,000 | 삼치회 30,000 | 김치찌개 10,000 | 한우소머리국밥 11,000 | 소내장탕 11,000 | .도가니탕 13,000 | 갈비탕 13,000 | 매생이굴국밥 13,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "384303.31",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220079",
+        "microReview": [
+            "맛있는 거북손 부침과 다양한 맛의 향연"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "8",
+        "rank": "9",
+        "id": "12793674",
+        "name": "제일식당",
+        "tel": "064-742-9333",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "음식점",
+            "한식"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220053"
+            ],
+            [
+                "1004760",
+                "1004498"
+            ]
+        ],
+        "rcode": "1411032021",
+        "businessStatus": {
+            "requestTime": "202502262104",
+            "status": {
+                "code": 0,
+                "text": "",
+                "emphasis": false,
+                "description": "정보 없음",
+                "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 추자면 대서리 8-4",
+        "roadAddress": "제주특별자치도 제주시 추자면 추자로 16-2",
+        "abbrAddress": "대서리 8-4",
+        "shortAddress": [
+            "제주 제주시 추자면",
+            "추자로 16-2"
+        ],
+        "display": "제일식당",
+        "telDisplay": "064-742-9333",
+        "context": [],
+        "reviewCount": 41,
+        "placeReviewCount": 123,
+        "ktCallMd": "dc07b704827ed89a04e7263d806b1d0a",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20190731_195/1564546646779B2PdY_JPEG/kVVp_0BdVp_bE17cnrpQUcED.JPG.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20190731_195/1564546646779B2PdY_JPEG/kVVp_0BdVp_bE17cnrpQUcED.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190731_229/15645467093679VJXY_JPEG/OFQ33xeE20J5qcXlrLKSwzf7.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190731_262/1564546721501ySBGG_JPEG/sxb70E7mob6plDyMlh2ZNphb.JPG.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2971999",
+        "y": "33.9636430",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "Yc/+zI1m6TT25NLbAPp+Og==",
+            "pan": "9.58",
+            "tilt": "10.18",
+            "lng": "126.2971957",
+            "lat": "33.9634970",
+            "fov": "80"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.297219,
+                    "y": 33.963568
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.297219,
+                    "y": 33.963568
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "",
+        "menuInfo": "돌돔 1kg 140,000 | 감성돔 1kg 120,000 | 참돔 1kg 80,000 | 농어 1kg 60,000 | 광어 1kg 60,000 | 삼치 1kg 60,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "384153.16",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "microReview": [
+            "맛있는 반찬과 푸짐한 식사의 즐거움"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "9",
+        "rank": "10",
+        "id": "16891894",
+        "name": "중앙식당",
+        "tel": "064-742-3735",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "음식점",
+            "한식"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220053"
+            ]
+        ],
+        "rcode": "1411032021",
+        "businessStatus": {
+            "requestTime": "202502262104",
+            "status": {
+                "code": 0,
+                "text": "",
+                "emphasis": false,
+                "description": "정보 없음",
+                "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 추자면 대서리 5-15",
+        "roadAddress": "제주특별자치도 제주시 추자면 추자로 8",
+        "abbrAddress": "대서리 5-15",
+        "shortAddress": [
+            "제주 제주시 추자면",
+            "추자로 8"
+        ],
+        "display": "중앙식당",
+        "telDisplay": "064-742-3735",
+        "context": [
+            "굴비",
+            "매운탕",
+            "젓갈",
+            "유람선"
+        ],
+        "reviewCount": 39,
+        "placeReviewCount": 102,
+        "ktCallMd": "5e3ba3ad35c346326f835d08feba6036",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20190731_55/1564540583227vQq0e_JPEG/OSd1mMjUNa9MOf2atAATdrze.JPG.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20190731_55/1564540583227vQq0e_JPEG/OSd1mMjUNa9MOf2atAATdrze.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190731_159/1564540588360AKtXp_JPEG/Ka1N9iJlw7ERYATPIHgTmmHy.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190731_150/1564540606878uml5k_JPEG/gOdU8JrmfC8Rd5fv4s02qvN4.JPG.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2977361",
+        "y": "33.9629347",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "akAyeqqtoPsIrZnyk6unHw==",
+            "pan": "90.61",
+            "tilt": "15.38",
+            "lng": "126.2975640",
+            "lat": "33.9629098",
+            "fov": "80"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": null,
+        "isPollingPlace": false,
+        "bizhourInfo": "",
+        "menuInfo": "굴비정식 12,000 | 조기매운탕 12,000 | 갈비탕 8,000 | 육계장 8,000 | 김치찌개 8,000 | 동태찌개 8,000 | 해물된장 8,000 | 순두부 8,000 | 닭도리탕 중 25,000 | 닭도리탕 대 35,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "384226.97",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "microReview": [
+            "김 나는 미역국과 조기 머리까지 먹을 수 있는 백반집"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "10",
+        "rank": "11",
+        "id": "1442481766",
+        "name": "봉골레밥상",
+        "tel": "064-744-5007",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "음식점",
+            "한식"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220053"
+            ]
+        ],
+        "rcode": "1411032021",
+        "businessStatus": {
+            "requestTime": "202502262104",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "20:00에 영업종료"
+            },
+            "businessHours": "202502260800~202502262000",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 추자면 대서리 134",
+        "roadAddress": "제주특별자치도 제주시 추자면 대서3길 40",
+        "abbrAddress": "대서리 134",
+        "shortAddress": [
+            "제주 제주시 추자면",
+            "대서3길 40"
+        ],
+        "display": "봉골레밥상",
+        "telDisplay": "064-744-5007",
+        "context": [],
+        "reviewCount": 1,
+        "placeReviewCount": 17,
+        "ktCallMd": "084a1ac7048decbc4192084069e361b3",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20190731_275/156455197244607zoj_JPEG/T1sCopsWVnlMxku-sgAf1MqH.JPG.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20190731_275/156455197244607zoj_JPEG/T1sCopsWVnlMxku-sgAf1MqH.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190731_105/1564551969462eK6H4_JPEG/SfzwENX-4ltkwBFWd49ui8dJ.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190731_199/15645519714116JlpG_JPEG/6IMxXNGXSVaI0Il7aEnXzbJ-.JPG.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2946398",
+        "y": "33.9629267",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "qfPIlafGJka0p3CLHzJadA==",
+            "pan": "0.16",
+            "tilt": "10.00",
+            "lng": "126.2946396",
+            "lat": "33.9628548",
+            "fov": "120"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.294618,
+                    "y": 33.962865
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.294618,
+                    "y": 33.962865
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "순대국밥 8,000 | 몸국 8,000 | 봉골레맘대로특별메뉴 20,000 | 김치찌개 8,000 | 머리고기(한접시) 20,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "384255.72",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "11",
+        "rank": "12",
+        "id": "38571132",
+        "name": "커피앤빵",
+        "tel": "064-743-8589",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "음식점",
+            "카페,디저트"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220052",
+                "220563"
+            ],
+            [
+                "1004760",
+                "1005205"
+            ]
+        ],
+        "rcode": "1411032021",
+        "businessStatus": {
+            "requestTime": "202502262104",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "20:30에 영업종료"
+            },
+            "businessHours": "202502260830~202502262030",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 추자면 대서리 162",
+        "roadAddress": "제주특별자치도 제주시 추자면 추자로 58-1",
+        "abbrAddress": "대서리 162",
+        "shortAddress": [
+            "제주 제주시 추자면",
+            "추자로 58-1"
+        ],
+        "display": "커피앤빵",
+        "telDisplay": "064-743-8589",
+        "context": [],
+        "reviewCount": 17,
+        "placeReviewCount": 116,
+        "ktCallMd": "6acdb67fe6ee3d792e575e9c789c58f4",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20190731_236/1564544445392MRqEl_JPEG/NOGIvX56QN_tboXm3XotXB4j.JPG.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20190731_236/1564544445392MRqEl_JPEG/NOGIvX56QN_tboXm3XotXB4j.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190731_300/1564544451686vp99z_JPEG/xU7KyS9AMBdRz1_VSBunawvp.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190731_215/1564544458864nnMoi_JPEG/2bcjs9Ll51bmkFwBKaLn8bnJ.JPG.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2939235",
+        "y": "33.9619272",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "LMNQplDKP6mDcRGiQsOWbQ==",
+            "pan": "-109.10",
+            "tilt": "11.56",
+            "lng": "126.2940187",
+            "lat": "33.9619293",
+            "fov": "90"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.293934,
+                    "y": 33.961823
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.293934,
+                    "y": 33.961823
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "아메리카노 4,000 | 카페라떼 6,000 | 카페모카 6,000 | 바닐라라떼 6,000 | 고구마라떼 6,000 | 검은콩라떼 6,000 | 녹차라떼 6,000 | 오미자에이드 6,000 | 팥빙수 15,000 | 카라멜라떼 6,000 | 초코라떼 6,000 | 제주보리미숫가루 6,500 | 대추생강차 8,000 | 유자차,오미자차 6,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "384373.41",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "microReview": [
+            "맛있는 커피와 쑥카스테라의 만남"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "12",
+        "rank": "13",
+        "id": "1959658101",
+        "name": "보라네",
+        "tel": "064-744-4305",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "음식점",
+            "한식"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220053"
+            ]
+        ],
+        "rcode": "1411032022",
+        "businessStatus": {
+            "requestTime": "202502262104",
+            "status": {
+                "code": 2,
+                "text": "영업 중",
+                "emphasis": false,
+                "description": "영업중",
+                "detailInfo": "22:00에 영업종료"
+            },
+            "businessHours": "202502260900~202502262200",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 추자면 영흥리 227-1",
+        "roadAddress": "제주특별자치도 제주시 추자면 추자로 96",
+        "abbrAddress": "영흥리 227-1",
+        "shortAddress": [
+            "제주 제주시 추자면",
+            "추자로 96"
+        ],
+        "display": "보라네",
+        "telDisplay": "064-744-4305",
+        "context": [],
+        "reviewCount": 3,
+        "placeReviewCount": 21,
+        "ktCallMd": "3b653c9fac958bf6a8e7ea5672fcf50e",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20190802_143/1564710478562DbSdJ_JPEG/O6s_Nzv967zH75yRU_0rC-zB.JPG.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20190802_143/1564710478562DbSdJ_JPEG/O6s_Nzv967zH75yRU_0rC-zB.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190802_31/1564710478202wQHlc_JPEG/pghkwMUDtUBTZ70Y5HGrsSSa.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190802_267/15647104779103Uj9X_JPEG/CQyC5gGNQkYsugfLkQZ6fRPm.JPG.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2964294",
+        "y": "33.9596237",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "ssYZgGDub+UkFv5XG/I+dA==",
+            "pan": "102.83",
+            "tilt": "10.00",
+            "lng": "126.2963487",
+            "lat": "33.9596420",
+            "fov": "120"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.296545,
+                    "y": 33.95966
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.296545,
+                    "y": 33.95966
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 중",
+        "menuInfo": "보라네 정식 10,000 | 매운탕 20,000~50,000 | 생선구이 30,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "384605.44",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "13",
+        "rank": "14",
+        "id": "1763126071",
+        "name": "추자선맛집",
+        "tel": "0507-1489-7846",
+        "isCallLink": false,
+        "virtualTel": "0507-1489-7846",
+        "virtualTelDisplay": "0507-1489-7846",
+        "ppc": "1",
+        "category": [
+            "한식",
+            "국밥"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220061",
+                "220623"
+            ]
+        ],
+        "rcode": "1411032025",
+        "businessStatus": {
+            "requestTime": "202502262104",
+            "status": {
+                "code": 2,
+                "text": "영업 중",
+                "emphasis": false,
+                "description": "영업중",
+                "detailInfo": "21:50에 라스트오더"
+            },
+            "businessHours": "202502260800~202502262200",
+            "breakTime": "",
+            "lastOrder": "202502262150"
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 추자면 신양리 783-6 1층",
+        "roadAddress": "제주특별자치도 제주시 추자면 추자로 465 1층",
+        "abbrAddress": "신양리 783-6 1층",
+        "shortAddress": [
+            "제주 제주시 추자면",
+            "추자로 465",
+            "1층"
+        ],
+        "display": "추자선<b>맛집</b>",
+        "telDisplay": "0507-1489-7846",
+        "context": [],
+        "reviewCount": 6,
+        "placeReviewCount": 13,
+        "ktCallMd": "5a3f50dfda5905bcd6cd98bb9cbba8f2",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20230722_141/1690009247899i6ozx_JPEG/KakaoTalk_20230722_160034069.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20230722_141/1690009247899i6ozx_JPEG/KakaoTalk_20230722_160034069.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.3199688",
+        "y": "33.9414077",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "oc/6KwH0tH7CHIbQnVaeUw==",
+            "pan": "-79.53",
+            "tilt": "10.00",
+            "lng": "126.3200798",
+            "lat": "33.9413871",
+            "fov": "120"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": null,
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 중",
+        "menuInfo": "돼지국밥 10,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "386414.75",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220623",
+        "microReview": [
+            "맛있는 국밥과 함께하는 행복한 시간"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "14",
+        "rank": "15",
+        "id": "1604591835",
+        "name": "추자바다숯불갈비",
+        "tel": "",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "0",
+        "category": [
+            "한식",
+            "돼지고기구이"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220075",
+                "220765",
+                "221458"
+            ],
+            [
+                "1004760",
+                "1004380",
+                "1002043"
+            ]
+        ],
+        "rcode": "1411032022",
+        "businessStatus": {
+            "requestTime": "202502262104",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "21:00에 영업종료"
+            },
+            "businessHours": "202502261600~202502262100",
+            "breakTime": "",
+            "lastOrder": "202502262040"
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 추자면 영흥리 361",
+        "roadAddress": "제주특별자치도 제주시 추자면 추자로 94-1",
+        "abbrAddress": "영흥리 361",
+        "shortAddress": [
+            "제주 제주시 추자면",
+            "추자로 94-1"
+        ],
+        "display": "추자바다숯불갈비",
+        "telDisplay": "",
+        "context": [],
+        "reviewCount": 5,
+        "placeReviewCount": 29,
+        "ktCallMd": "ba0c782d337d7a7761c823d9ba937c5a",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20240606_218/1717636547495jA4aH_JPEG/%B8%F1%BB%EC.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20240606_218/1717636547495jA4aH_JPEG/%B8%F1%BB%EC.jpg",
+            "https://ldb-phinf.pstatic.net/20240606_242/1717636567159MI2hN_JPEG/%BB%EF%B0%E3.jpg",
+            "https://ldb-phinf.pstatic.net/20240606_94/1717636547535fUe5P_JPEG/%C7%D7%C1%A4%BB%EC.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2962909",
+        "y": "33.9597057",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "ssYZgGDub+UkFv5XG/I+dA==",
+            "pan": "-42.15",
+            "tilt": "10.00",
+            "lng": "126.2963487",
+            "lat": "33.9596420",
+            "fov": "120"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "https://www.instagram.com/jaegyeong1217",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.296288,
+                    "y": 33.959804
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.296288,
+                    "y": 33.959804
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "한돈 항정살 23,000 | 한돈 생목살 20,000 | 한돈 생삼겹살 19,000 | 생갈비 18,000 | 양념갈비 18,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "384597.59",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221458",
+        "microReview": [
+            "친절한 서비스와 깔끔한 해장국의 돼지고기 맛집"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "15",
+        "rank": "16",
+        "id": "1773681301",
+        "name": "벌크커피 추자점",
+        "tel": "",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "0",
+        "category": [
+            "카페,디저트",
+            "테이크아웃커피"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220052",
+                "220577",
+                "231091"
+            ],
+            [
+                "1004760",
+                "1005205"
+            ]
+        ],
+        "rcode": "1411032022",
+        "businessStatus": {
+            "requestTime": "202502262104",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "20:00에 영업종료"
+            },
+            "businessHours": "202502260900~202502262000",
+            "breakTime": "",
+            "lastOrder": "202502261950"
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 추자면 영흥리 70-2 2층",
+        "roadAddress": "제주특별자치도 제주시 추자면 영흥4길 66 2층",
+        "abbrAddress": "영흥리 70-2 2층",
+        "shortAddress": [
+            "제주 제주시 추자면",
+            "영흥4길 66",
+            "2층"
+        ],
+        "display": "벌크커피 추자점",
+        "telDisplay": "",
+        "context": [],
+        "reviewCount": 7,
+        "placeReviewCount": 7,
+        "ktCallMd": "77f75af123ddbd8d8593b4ce3f05de5d",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20240716_66/1721119399672ScN4f_JPEG/IMG_6899.jpeg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20240716_66/1721119399672ScN4f_JPEG/IMG_6899.jpeg",
+            "https://ldb-phinf.pstatic.net/20240716_37/1721119869860pYL3q_JPEG/IMG_6779.jpeg",
+            "https://ldb-phinf.pstatic.net/20240716_86/1721119870990i4yhY_JPEG/IMG_6786.jpeg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2977721",
+        "y": "33.9587079",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "DqJewQnmrhatEwyOxiqJYQ==",
+            "pan": "49.16",
+            "tilt": "10.00",
+            "lng": "126.2975333",
+            "lat": "33.9585013",
+            "fov": "120"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.297647,
+                    "y": 33.958485
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.297647,
+                    "y": 33.958485
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "아메리카노 HOT / ICE 3,000 | 헤이즐넛 아메리카노 HOT / ICE 3,500 | 카페라떼 HOT / ICE 4,000 | 카푸치노 HOT / ICE 4,000 | 카라멜마끼아또 HOT / ICE 4,500 | 바닐라라떼 HOT / ICE 4,500 | 양촌리다방커피 HOT / ICE 4,700 | 달고나라떼 HOT / ICE 4,700 | 카페모카 HOT / ICE 5,000 | 흑임자카페라떼 HOT / ICE 4,800 | 초코라떼 HOT / ICE 4,500 | 쿠키라떼 HOT / ICE 4,500 | 녹차라떼 HOT / ICE 4,500 | 토피넛라떼 HOT / ICE 4,500 | 흑임자라떼 HOT / ICE 4,500 | 고구마라떼 HOT / ICE 4,500 | 곡물라떼 HOT / ICE 4,500 | 밀크티라떼 HOT / ICE 4,500 | 멜론라떼 only ice 4,700 | 민트초코라떼 HOT / ICE 4,800 | 달고나밀크티라떼 HOT / ICE 5,000 | 블랙슈가마블티 5,000 | 초코마블티 5,000 | 타로마블티 5,000 | 밀크(홍차)마블티 5,000 | 치즈마블티 5,000 | 모카프라페 5,000 | 자바칩프라페 5,000 | 토피넛프라페 5,000 | 크림쿠키프라페 5,000 | 카라멜프라페 5,000 | 그린티프라페 5,000 | 민트초코프라페 5,000 | 돼지바프라페 5,300 | 플레인요거트스무디 4,900 | 딸기요거트스무디 4,900 | 망고요거트스무디 4,900 | 블루베리요거트스무디 4,900 | 한라봉요거트스무디 4,900 | 멜론스무디 4,900 | 히비스유자스무디 4,900 | 요구르트스무디 4,900 | 복숭아품은요거트스무디 5,200 | 딸기품은요거트스무디 5,200 | 망고품은요거트스무디 5,200 | 블루베리품은요거트스무디 5,200 | 밀크쉐이크 4,500 | 딸기쉐이크 4,500 | 초코쉐이크 4,500 | 죠리퐁쉐이크 4,800 | 레몬에이드 5,000 | 핑크자몽에이드 5,000 | 청포도에이드 5,000 | 한라봉에이드 5,000 | 체리콕에이드 5,000 | 깔라만시에이드 5,000 | 히비스커스에이드 5,000 | 히비스유자에이드 5,000 | 인절미컵빙수 5,200 | 캐모마일 HOT / ICE 3,500 | 페퍼민트 HOT / ICE 3,500 | 얼그레이 HOT / ICE 3,500 | 루이보스오렌지 HOT / ICE 3,500 | 오렌지레몬그라스 HOT / ICE 3,500",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "384694.62",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "231091",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "16",
+        "rank": "17",
+        "id": "11697009",
+        "name": "동해루",
+        "tel": "064-742-3615",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "중식",
+            "중식당"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220039",
+                "220091",
+                "220861"
+            ],
+            [
+                "1004760",
+                "1005205"
+            ]
+        ],
+        "rcode": "1411032021",
+        "businessStatus": {
+            "requestTime": "202502262104",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "20:30에 영업종료"
+            },
+            "businessHours": "202502261100~202502262030",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 추자면 대서리 161",
+        "roadAddress": "제주특별자치도 제주시 추자면 추자로 58",
+        "abbrAddress": "대서리 161",
+        "shortAddress": [
+            "제주 제주시 추자면",
+            "추자로 58"
+        ],
+        "display": "동해루",
+        "telDisplay": "064-742-3615",
+        "context": [],
+        "reviewCount": 16,
+        "placeReviewCount": 64,
+        "ktCallMd": "f83bccafef0ab80f5a55ac4f878cf49e",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20190731_97/1564563142583MoC37_JPEG/9VMvzioOyEUa4bspu0kib-qx.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20190731_97/1564563142583MoC37_JPEG/9VMvzioOyEUa4bspu0kib-qx.jpg",
+            "https://ldb-phinf.pstatic.net/20190731_192/1564563163288BJJvx_JPEG/H0B32YMtx-_DcbipHy9JN4eI.JPG.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2939380",
+        "y": "33.9620010",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "Xyh+GjyPQgrdAEqHqnUruQ==",
+            "pan": "-102.76",
+            "tilt": "-0.87",
+            "lng": "126.2940457",
+            "lat": "33.9620120",
+            "fov": "100"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.293984,
+                    "y": 33.961968
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.293984,
+                    "y": 33.961968
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "짜장면 5,000 | 짬뽕 8,000 | 삼선짬뽕 10,000 | 잡채밥 9,000 | 김치볶음밥 9,000 | 기스면 10,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "384364.56",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220861",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "17",
+        "rank": "18",
+        "id": "1792193507",
+        "name": "마트옆집",
+        "tel": "0507-1471-8037",
+        "isCallLink": false,
+        "virtualTel": "0507-1471-8037",
+        "virtualTelDisplay": "0507-1471-8037",
+        "ppc": "1",
+        "category": [
+            "분식",
+            "종합분식"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220048",
+                "220185"
+            ],
+            [
+                "1004760",
+                "1004380",
+                "1002043"
+            ]
+        ],
+        "rcode": "1411032022",
+        "businessStatus": {
+            "requestTime": "202502262104",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "21:00에 영업종료"
+            },
+            "businessHours": "202502261000~202502262100",
+            "breakTime": "",
+            "lastOrder": "202502262055"
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 추자면 영흥리 367-10 1층",
+        "roadAddress": "제주특별자치도 제주시 추자면 추자로 70 1층",
+        "abbrAddress": "영흥리 367-10 1층",
+        "shortAddress": [
+            "제주 제주시 추자면",
+            "추자로 70",
+            "1층"
+        ],
+        "display": "마트옆집",
+        "telDisplay": "0507-1471-8037",
+        "context": [],
+        "reviewCount": 3,
+        "placeReviewCount": 8,
+        "ktCallMd": "ca8c70a8b3b10723695869758591e9e4",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20240912_200/1726135851353EESLE_JPEG/IMG_20240718_191811_680.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20240912_200/1726135851353EESLE_JPEG/IMG_20240718_191811_680.jpg",
+            "https://ldb-phinf.pstatic.net/20240912_60/1726135851414gDe1h_JPEG/1726135407187.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2948411",
+        "y": "33.9610901",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "u4j1TVb1wWeHYeD+rtWjSA==",
+            "pan": "-138.16",
+            "tilt": "10.00",
+            "lng": "126.2949332",
+            "lat": "33.9611927",
+            "fov": "120"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.294811,
+                    "y": 33.961201
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.294811,
+                    "y": 33.961201
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "어묵 1,000 | 소떡소떡 3,000 | 튀김류 2,000 | 아메리카노 3,000 | ICE아메리카노 3,500 | 떡볶이 4,000 | 와플 4,000 | 왕닭꼬치 4,000 | 파닭꼬치 4,000 | 염통꼬치(5개) 4,000 | 피카츄 3,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "384457.28",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220185",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "18",
+        "rank": "19",
+        "id": "1294003947",
+        "name": "청정고을식당",
+        "tel": "",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "0",
+        "category": [
+            "한식",
+            "해물,생선요리"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220076",
+                "220777"
+            ]
+        ],
+        "rcode": "1411032021",
+        "businessStatus": {
+            "requestTime": "202502262104",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "19:00에 영업종료"
+            },
+            "businessHours": "202502260700~202502261900",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 추자면 대서리 4-29",
+        "roadAddress": "제주특별자치도 제주시 추자면 대서1길 6",
+        "abbrAddress": "대서리 4-29",
+        "shortAddress": [
+            "제주 제주시 추자면",
+            "대서1길 6"
+        ],
+        "display": "청정고을식당",
+        "telDisplay": "",
+        "context": [],
+        "reviewCount": 3,
+        "placeReviewCount": 2,
+        "ktCallMd": "de0a8f34aa7e54fdaa0bf9a834ff2910",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20190731_238/1564562356925XthH5_JPEG/bOe1roc1NosEw4Vneq7nZaF8.JPG.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20190731_238/1564562356925XthH5_JPEG/bOe1roc1NosEw4Vneq7nZaF8.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190731_46/15645623553410nMvP_JPEG/PWgQe2AyPjUVP9ped_j3k8-T.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190731_72/1564562355524Lu6Vj_JPEG/7985sSB9s8D-ZDgt-ULt3cQ9.JPG.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2983728",
+        "y": "33.9623903",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "Pf+OTJws22yxssS8pC3slg==",
+            "pan": "153.44",
+            "tilt": "10.00",
+            "lng": "126.2983425",
+            "lat": "33.9624507",
+            "fov": "120"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.298348,
+                    "y": 33.962444
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.298348,
+                    "y": 33.962444
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "굴비구이 10,000 | 생선매운탕 12,000 | 생선조림 12,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "384281.03",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220777",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "19",
+        "rank": "20",
+        "id": "1167927813",
+        "name": "유심이감성찜닭",
+        "tel": "",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "0",
+        "category": [
+            "한식",
+            "닭요리"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220075",
+                "220770",
+                "221569"
+            ]
+        ],
+        "rcode": "1411032022",
+        "businessStatus": {
+            "requestTime": "202502262104",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "21:00에 영업종료"
+            },
+            "businessHours": "202502260900~202502262100",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 추자면 영흥리 364-18",
+        "roadAddress": "제주특별자치도 제주시 추자면 추자로 78",
+        "abbrAddress": "영흥리 364-18",
+        "shortAddress": [
+            "제주 제주시 추자면",
+            "추자로 78"
+        ],
+        "display": "유심이감성찜닭",
+        "telDisplay": "",
+        "context": [],
+        "reviewCount": 1,
+        "placeReviewCount": 31,
+        "ktCallMd": "f6a60ec7dd333a07357b1ba781d95b38",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20190801_164/1564618498344DsPFq_JPEG/dfJ0TIAD8GKje5hQEJdxmCJe.JPG.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20190801_164/1564618498344DsPFq_JPEG/dfJ0TIAD8GKje5hQEJdxmCJe.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190801_300/1564618498162IDphf_JPEG/Y8f0zVN8ilDoILZogbj_6Asi.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190801_183/15646184976625SPnC_JPEG/5i1JJKEt5WW1nuJDswVR9McO.JPG.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2955758",
+        "y": "33.9607942",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "pczRm2B6iAYPzULdhULYlg==",
+            "pan": "-130.35",
+            "tilt": "10.00",
+            "lng": "126.2956643",
+            "lat": "33.9608692",
+            "fov": "120"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.295644,
+                    "y": 33.960832
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.295644,
+                    "y": 33.960832
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "찜닭 43,000 | 양푼이돼지갈비찜(1인분) 13,000 | 닭도리탕(大) 40,000 | 닭도리탕(中) 35,000 | 토종백숙 55,000 | 왕홍합탕(大) 50,000 | 삼계탕 13,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "384483.47",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221569",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    }
+]

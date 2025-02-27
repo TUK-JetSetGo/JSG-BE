@@ -12,11 +12,11 @@ import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
-import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
+import lombok.Setter;
 import org.tukcapstone.jetsetgo.domain.mission.entity.Mission;
 import org.tukcapstone.jetsetgo.domain.recommend.entity.Recommend;
 import org.tukcapstone.jetsetgo.domain.route.entity.Route;
@@ -25,8 +25,9 @@ import org.tukcapstone.jetsetgo.domain.travelSpot.entity.TravelCity;
 @Entity
 @Table(name = "tourist_spots")
 @Getter
+@Setter
 @Builder
-@NoArgsConstructor(access = AccessLevel.PROTECTED)
+@NoArgsConstructor
 @AllArgsConstructor
 public class TouristSpot {
     @Id
@@ -37,8 +38,23 @@ public class TouristSpot {
     @Column(nullable = false)
     private String name;
 
-    @Column(nullable = false)
-    private String description;
+    @Column
+    private String tel;
+
+    @Column(columnDefinition = "JSON")
+    private String category;
+
+    @Column
+    private String businessStatus;
+
+    @Column(nullable = false, columnDefinition = "TEXT")
+    private String address;
+
+    @Column(columnDefinition = "TEXT")
+    private String thumbnailUrl;
+
+    @Column(columnDefinition = "JSON")
+    private String thumbnailUrls;  // JSON 형식으로 저장
 
     @Column(nullable = false)
     private Double latitude;
@@ -48,6 +64,12 @@ public class TouristSpot {
 
     @Column(nullable = false)
     private String activityLevel;
+
+    @Column
+    private String homePage;
+
+    @Column
+    private String naverBookingUrl;
 
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "travel_city_id")
