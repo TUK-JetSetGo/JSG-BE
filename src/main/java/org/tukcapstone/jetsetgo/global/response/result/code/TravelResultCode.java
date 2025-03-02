@@ -19,6 +19,7 @@ public enum TravelResultCode implements ResultCode {
 
     // 여행지
     GET_TOURIST_SPOT_LIST(200, "STT000", "성공적으로 관광지를 조회했습니다."),
+    SAVE_TOURIST_SPOT_LIST(200, "STT001", "성공적으로 관광지 데이터를 저장했습니다."),
     ;
     private final int status;
     private final String code;

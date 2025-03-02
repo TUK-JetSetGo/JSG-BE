@@ -12,10 +12,12 @@ import org.springframework.web.bind.annotation.RestController;
 import org.tukcapstone.jetsetgo.domain.touristSpot.dto.TouristSpotResponse.PagedTouristSpotInfo;
 import org.tukcapstone.jetsetgo.domain.touristSpot.service.TouristSpotService;
 import org.tukcapstone.jetsetgo.global.response.ResultResponse;
+import org.tukcapstone.jetsetgo.global.response.result.code.TravelResultCode;
 
 import java.io.IOException;
 
 import static org.tukcapstone.jetsetgo.global.response.result.code.TravelResultCode.GET_TOURIST_SPOT_LIST;
+import static org.tukcapstone.jetsetgo.global.response.result.code.TravelResultCode.SAVE_TOURIST_SPOT_LIST;
 
 @RestController
 @RequiredArgsConstructor
@@ -26,15 +28,9 @@ public class TouristSpotController {
 
     @PostMapping("/import")
     @Operation(summary = "관광지 데이터 삽입 API", description = "관광지 데이터를 삽입하는 API 입니다.")
-    public String importTouristSpots(@RequestParam String jsonFileName) {
-        String jsonFilePath = "/Users/jeongdonghun/JSG-BE/" + jsonFileName;
-
-        try {
-            touristSpotService.importTouristSpots(jsonFilePath);
-            return "데이터 삽입 완료!";
-        } catch (IOException e) {
-            return "파일 처리 오류: " + e.getMessage();
-        }
+    public ResultResponse<TravelResultCode> importTouristSpotList(@RequestParam String jsonFileName) throws IOException {
+        touristSpotService.importTouristSpotList(jsonFileName);
+        return ResultResponse.onSuccess(SAVE_TOURIST_SPOT_LIST);
     }
 
     @GetMapping("/search")

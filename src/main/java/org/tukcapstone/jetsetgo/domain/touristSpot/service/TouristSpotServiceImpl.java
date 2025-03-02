@@ -2,20 +2,16 @@ package org.tukcapstone.jetsetgo.domain.touristSpot.service;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Transactional;
 import org.tukcapstone.jetsetgo.domain.touristSpot.converter.TouristSpotConverter;
 import org.tukcapstone.jetsetgo.domain.touristSpot.dto.TouristSpotResponse;
 import org.tukcapstone.jetsetgo.domain.touristSpot.entity.TouristSpot;
 import org.tukcapstone.jetsetgo.domain.touristSpot.repository.TouristSpotRepository;
 import org.tukcapstone.jetsetgo.domain.travelSpot.entity.TravelCity;
 import org.tukcapstone.jetsetgo.domain.travelSpot.repository.TravelCityRepository;
-import org.tukcapstone.jetsetgo.global.response.exception.ErrorCode;
 import org.tukcapstone.jetsetgo.global.response.exception.GeneralException;
-import org.tukcapstone.jetsetgo.global.response.exception.code.CommonErrorCode;
 import org.tukcapstone.jetsetgo.global.response.exception.code.TravelErrorCode;
 
 import java.io.File;
@@ -30,7 +26,8 @@ public class TouristSpotServiceImpl implements TouristSpotService {
     private final TravelCityRepository travelCityRepository;
     private final TouristSpotConverter touristSpotConverter;
 
-    public void importTouristSpots(String jsonFilePath) throws IOException {
+    public void importTouristSpotList(String jsonFileName) throws IOException {
+        String jsonFilePath = "/home/ubuntu/JSG-BE/" + jsonFileName;
         // JSON 파일 로드
         ObjectMapper objectMapper = new ObjectMapper();
         List<Map<String, Object>> touristSpots = objectMapper.readValue(new File(jsonFilePath), List.class);
