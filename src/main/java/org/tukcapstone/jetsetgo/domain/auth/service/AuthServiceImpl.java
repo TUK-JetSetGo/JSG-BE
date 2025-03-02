@@ -7,6 +7,7 @@ import static org.tukcapstone.jetsetgo.global.response.exception.code.UserErrorC
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 import lombok.AllArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -20,6 +21,7 @@ import org.tukcapstone.jetsetgo.global.security.JwtTokenProvider;
 
 @Service
 @AllArgsConstructor
+@Slf4j
 public class AuthServiceImpl implements AuthService{
 
     private final List<SocialAuthService> socialAuthServiceList;
@@ -61,5 +63,25 @@ public class AuthServiceImpl implements AuthService{
 
         redisTemplate.opsForValue().set(redisKey, newRefreshToken, refreshExpireMillis, TimeUnit.MILLISECONDS);
         return authConverter.convertToLoginRefreshResponse(user,newAccessToken, newRefreshToken, false);
+    }
+
+    @Override
+    @Transactional
+    public void logout(User user, String accessToken, String refreshToken) {
+        String redisKey = "refreshToken:" + user.getId();
+        try{
+            redisTemplate.delete(redisKey);
+
+        }catch (Exception e){
+            log.error("refreshToken 삭제에 실패하였습니다 {} : {}", user.getId(), e.getMessage());
+        }
+
+        try{
+            long accessTokenExpiryMillis = jwtTokenProvider.getTokenExpiryInMilliseconds(accessToken);
+            String accessBlacklistKey = "accessToken:" + accessToken;
+            redisTemplate.opsForValue().set(accessBlacklistKey, "blacklisted", accessTokenExpiryMillis, TimeUnit.MILLISECONDS);
+        }catch(Exception e){
+            log.error("블랙리스트 처리에 실패했습니다 : {}", e.getMessage());
+        }
     }
 }

@@ -10,11 +10,14 @@ import javax.crypto.SecretKey;
 import lombok.Getter;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
+import org.tukcapstone.jetsetgo.global.security.token.RedisTokenBlacklistProvider;
+import org.tukcapstone.jetsetgo.global.security.token.TokenBlacklistProvider;
 
 @Component
 public class JwtTokenProvider {
 
     private final String secretKeyString;
+    private final RedisTokenBlacklistProvider redisTokenBlacklistProvider;
     private SecretKey secretKey;
 
     @Getter
@@ -27,10 +30,13 @@ public class JwtTokenProvider {
     public JwtTokenProvider(
             @Value("${security.jwt.token.secret-key}") String secretKeyString,
             @Value("${security.jwt.token.expire-length}") long accessTokenValidityInMilliseconds,
-            @Value("${security.jwt.token.refresh-expire-length}") long refreshTokenValidityInMilliseconds) {
+            @Value("${security.jwt.token.refresh-expire-length}") long refreshTokenValidityInMilliseconds,
+            TokenBlacklistProvider tokenBlacklistProvider,
+            RedisTokenBlacklistProvider redisTokenBlacklistProvider) {
         this.secretKeyString = secretKeyString;
         this.accessTokenValidityInMilliseconds = accessTokenValidityInMilliseconds;
         this.refreshTokenValidityInMilliseconds = refreshTokenValidityInMilliseconds;
+        this.redisTokenBlacklistProvider = redisTokenBlacklistProvider;
     }
 
     @PostConstruct
@@ -72,6 +78,9 @@ public class JwtTokenProvider {
     }
 
     public boolean isValidateToken(String token) {
+        if (redisTokenBlacklistProvider.isTokenBlacklisted(token)){
+            return false;
+        }
         try {
             getClaims(token);
             return true;
@@ -97,6 +106,11 @@ public class JwtTokenProvider {
 
     public String getRole(String token) {
         return getClaims(token).get("role", String.class);
+    }
+
+    public long getTokenExpiryInMilliseconds(String token) {
+        Date expiration = getClaims(token).getExpiration();
+        return expiration.getTime() - System.currentTimeMillis();
     }
 
 }

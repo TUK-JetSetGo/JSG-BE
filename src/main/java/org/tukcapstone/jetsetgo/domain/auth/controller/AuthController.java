@@ -2,12 +2,15 @@ package org.tukcapstone.jetsetgo.domain.auth.controller;
 
 import static org.tukcapstone.jetsetgo.global.response.exception.code.AuthErrorCode.INVALID_REFRESH_TOKEN;
 import static org.tukcapstone.jetsetgo.global.response.result.code.UserResultCode.LOGIN;
+import static org.tukcapstone.jetsetgo.global.response.result.code.UserResultCode.LOGOUT;
 import static org.tukcapstone.jetsetgo.global.response.result.code.UserResultCode.REFRESH;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
+import org.springframework.security.core.annotation.AuthenticationPrincipal;
+import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestHeader;
@@ -16,8 +19,10 @@ import org.springframework.web.bind.annotation.RestController;
 import org.tukcapstone.jetsetgo.domain.auth.dto.AuthRequest;
 import org.tukcapstone.jetsetgo.domain.auth.dto.AuthResponse;
 import org.tukcapstone.jetsetgo.domain.auth.service.AuthService;
+import org.tukcapstone.jetsetgo.domain.user.entity.User;
 import org.tukcapstone.jetsetgo.global.response.ResultResponse;
 import org.tukcapstone.jetsetgo.global.response.exception.GeneralException;
+import org.tukcapstone.jetsetgo.global.security.JwtAuthenticationToken;
 import org.tukcapstone.jetsetgo.global.security.JwtTokenProvider;
 
 @RestController
@@ -63,7 +68,7 @@ public class AuthController {
                     """
     )
     public ResultResponse<AuthResponse.LoginResponse> refresh(
-            @RequestHeader(value = "Refresh-Token", required = false) String refreshToken) {
+            @RequestHeader(value = "Refresh-Token") String refreshToken) {
 
         if (!jwtTokenProvider.isValidateRefreshToken(refreshToken)) {
             throw new GeneralException(INVALID_REFRESH_TOKEN);
@@ -71,6 +76,29 @@ public class AuthController {
 
         AuthResponse.LoginResponse loginResponse = authService.refresh(refreshToken);
         return ResultResponse.onSuccess(REFRESH, loginResponse);
+    }
+
+    @PostMapping("/logout")
+    @Operation(
+            summary = "로그아웃 API",
+            description = """
+                    로그아웃 API입니다. Access Token을 블랙리스트에 올려 토큰을 만료하고, RefreshToken도 만료하여 로그아웃 처리를 합니다.
+
+                    요청 헤더:
+                    ```http
+                    Authorization: Bearer {현재 보유한 AccessToken}
+                    Refresh-Token: {현재 보유한 RefreshToken}
+                    ```
+                    """
+    )
+    public ResultResponse<Void> logout(
+            @RequestHeader(value = "Refresh-Token") String refreshToken,
+            @AuthenticationPrincipal User user
+    ){
+        JwtAuthenticationToken authentication = (JwtAuthenticationToken) SecurityContextHolder.getContext().getAuthentication();
+        String accessToken = authentication.getToken();
+        authService.logout(user, accessToken, refreshToken);
+        return ResultResponse.onSuccess(LOGOUT, null);
     }
 }
 

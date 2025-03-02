@@ -11,6 +11,7 @@ public enum UserResultCode implements ResultCode {
     LOGIN(200, "SM001", "성공적으로 로그인하였습니다."),
     USER_INFO(200, "SM002", "회원 정보를 성공적으로 조회하였습니다."),
     REFRESH(200, "SM003", "성공적으로 로그인하였습니다."),
+    LOGOUT(200, "SM004", "성공적으로 로그아웃하였습니다."),
     ;
     private final int status;
     private final String code;
