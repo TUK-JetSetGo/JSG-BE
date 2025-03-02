@@ -27,7 +27,7 @@ public class TouristSpotServiceImpl implements TouristSpotService {
     private final TouristSpotConverter touristSpotConverter;
 
     public void importTouristSpotList(String jsonFileName) throws IOException {
-        String jsonFilePath = "/home/ubuntu/JSG-BE/" + jsonFileName;
+        String jsonFilePath = "/Users/jeongdonghun/JSG-BE/" + jsonFileName;
         // JSON 파일 로드
         ObjectMapper objectMapper = new ObjectMapper();
         List<Map<String, Object>> touristSpots = objectMapper.readValue(new File(jsonFilePath), List.class);
