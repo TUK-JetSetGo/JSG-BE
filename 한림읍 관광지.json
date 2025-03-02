@@ -1,0 +1,3561 @@
+[
+    {
+        "index": "0",
+        "rank": "1",
+        "id": "17020866",
+        "name": "금오름",
+        "tel": "",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "0",
+        "category": [
+            "여행,명소",
+            "오름"
+        ],
+        "categoryPath": [
+            [
+                "222117",
+                "222118",
+                "231478"
+            ],
+            [
+                "222117",
+                "222118",
+                "222125"
+            ]
+        ],
+        "rcode": "1411025025",
+        "businessStatus": {
+            "requestTime": "202502262105",
+            "status": {
+                "code": 0,
+                "text": "",
+                "emphasis": false,
+                "description": "정보 없음",
+                "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 한림읍 금악리 산1-1",
+        "roadAddress": "",
+        "abbrAddress": null,
+        "shortAddress": null,
+        "display": "금오름",
+        "telDisplay": "",
+        "context": [
+            "오름",
+            "패러글라이딩",
+            "목장",
+            "평온한",
+            "경치"
+        ],
+        "reviewCount": 7106,
+        "placeReviewCount": 217,
+        "ktCallMd": "b58c3e153d6b2b1f4d8fa69a1863e043",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20191206_129/1575594384682KxL6z_JPEG/wQB12vgZ3IBvWQycPG1bwk0m.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20191206_129/1575594384682KxL6z_JPEG/wQB12vgZ3IBvWQycPG1bwk0m.jpg",
+            "https://ldb-phinf.pstatic.net/20191206_95/1575594369111BUot1_JPEG/STX-3SB9mzOMg6LVslX90ehT.jpg",
+            "https://ldb-phinf.pstatic.net/20191206_178/1575594401056CuBTG_JPEG/T8GjePU5JYZed6QTsdSOHQTx.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.3058394",
+        "y": "33.3545712",
+        "itemLevel": "9",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "vVQ5ZIZwFUN+KMq5ty33Dw==",
+            "pan": "-120.66",
+            "tilt": "-7.28",
+            "lng": "126.3064109",
+            "lat": "33.3548127",
+            "fov": "80"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.3056839,
+                    "y": 33.3509989
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.3056839,
+                    "y": 33.3509989
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "",
+        "menuInfo": null,
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "451588.09",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "231478",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "1",
+        "rank": "2",
+        "id": "11491281",
+        "name": "한림공원",
+        "tel": "064-796-0001",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "여행,명소",
+            "식물원,수목원"
+        ],
+        "categoryPath": [
+            [
+                "222117",
+                "222120",
+                "222149"
+            ],
+            [
+                "222117",
+                "222121",
+                "1000209",
+                "1000210"
+            ]
+        ],
+        "rcode": "1411025031",
+        "businessStatus": {
+            "requestTime": "202502262105",
+            "status": {
+                "code": 6,
+                "text": "운영 종료",
+                "emphasis": true,
+                "description": "운영종료",
+                "detailInfo": "18:00에 운영종료"
+            },
+            "businessHours": "202502260900~202502261800",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 한림읍 협재리 2487",
+        "roadAddress": "제주특별자치도 제주시 한림읍 한림로 300",
+        "abbrAddress": "협재리 2487",
+        "shortAddress": [
+            "제주 제주시 한림읍",
+            "한림로 300"
+        ],
+        "display": "한림공원",
+        "telDisplay": "064-796-0001",
+        "context": [
+            "유채꽃밭",
+            "식물원",
+            "동굴",
+            "이국적",
+            "사진찍기"
+        ],
+        "reviewCount": 5037,
+        "placeReviewCount": 14468,
+        "ktCallMd": "98af6c2d80a45cbbd2a0b00e083405dc",
+        "coupon": "0",
+        "thumUrl": "https://naverbooking-phinf.pstatic.net/20240618_269/17186909166691IUla_JPEG/7G5A7283.jpg_S.jpg",
+        "thumUrls": [
+            "https://naverbooking-phinf.pstatic.net/20240618_269/17186909166691IUla_JPEG/7G5A7283.jpg_S.jpg",
+            "https://ldb-phinf.pstatic.net/20250220_139/1740035149429gqQ3Q_JPEG/554A0231.jpg",
+            "https://ldb-phinf.pstatic.net/20250220_22/1740035061650nDI5G_JPEG/554A0227.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2402819",
+        "y": "33.3893899",
+        "itemLevel": "10",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "aBnfqoRx7kwWbWDj4Gc3AQ==",
+            "pan": "124.75",
+            "tilt": "10.00",
+            "lng": "126.2386162",
+            "lat": "33.3905430",
+            "fov": "120"
+        },
+        "skyPanorama": {
+            "id": "ug/V59HH93V1k4d4u38yhA==",
+            "pan": "-151.44",
+            "tilt": "-30.00",
+            "lng": "126.2421721",
+            "lat": "33.3928513",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": {
+                "poiShapeType": "1",
+                "shapeKey": {
+                    "typeName": "RELA",
+                    "wsid": "1.0",
+                    "shapeID": "11491281"
+                },
+                "boundary": {
+                    "minX": "117.9926027",
+                    "minY": "19.6944771",
+                    "maxX": "117.9926027",
+                    "maxY": "19.6944771"
+                },
+                "detail": [
+                    {
+                        "type": "5",
+                        "sid": "1580602727",
+                        "fullName": "한림공원매표소입구",
+                        "name": "매표소입구(사람)",
+                        "category": "입구(사람)",
+                        "xPos": "126.2379796",
+                        "yPos": "33.3902748"
+                    },
+                    {
+                        "type": "1",
+                        "sid": "32408133",
+                        "fullName": "한림공원입구",
+                        "name": "입구",
+                        "category": "입구(사람+차량)",
+                        "xPos": "126.2382521",
+                        "yPos": "33.3909588"
+                    }
+                ]
+            },
+            "hasRelation": true,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "http://www.hallimpark.com",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.2382521,
+                    "y": 33.3909588
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.2379796,
+                    "y": 33.3902748
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "운영 종료",
+        "menuInfo": "일반 15,000 | 청소년 10,000 | 어린이 9,000 | 경로 12,000 | 성인(단체) 12,000 | 경로(단체) 11,000 | 청소년(단체) 8,000 | 어린이(단체) 7,000 | 성인(도민) 11,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": true,
+        "naverBookingUrl": "https://booking.naver.com/booking/5/bizes/28338",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": true,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": true,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "448271.81",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "222149",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "2",
+        "rank": "3",
+        "id": "11491807",
+        "name": "협재해수욕장",
+        "tel": "064-728-3981",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "여행,명소",
+            "해수욕장,해변"
+        ],
+        "categoryPath": [
+            [
+                "222117",
+                "222118",
+                "222138"
+            ],
+            [
+                "1004760",
+                "1004985"
+            ]
+        ],
+        "rcode": "1411025031",
+        "businessStatus": {
+            "requestTime": "202502262105",
+            "status": {
+                "code": 0,
+                "text": "",
+                "emphasis": false,
+                "description": "정보 없음",
+                "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 한림읍 협재리 2497-1",
+        "roadAddress": "",
+        "abbrAddress": null,
+        "shortAddress": null,
+        "display": "협재해수욕장",
+        "telDisplay": "064-728-3981",
+        "context": [
+            "검은모래해변",
+            "일몰",
+            "고기국수",
+            "친절한",
+            "경치"
+        ],
+        "reviewCount": 13400,
+        "placeReviewCount": 779,
+        "ktCallMd": "5d21440d6660cb57b08fbb9d50806332",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20150831_140/1440992306384X3SLE_JPEG/157155537129409_0.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20150831_140/1440992306384X3SLE_JPEG/157155537129409_0.jpg",
+            "https://ldb-phinf.pstatic.net/20200229_240/1582909646707EVNcN_JPEG/hO2SVO2_xIIC75tBxr8pkQmv.jpg",
+            "https://ldb-phinf.pstatic.net/20200229_126/1582909660415raR5g_JPEG/zbz476xQvvB4womCCEGDyaRi.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2398900",
+        "y": "33.3943224",
+        "itemLevel": "9",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "oP3tFHtZLQs/rTrigehq+g==",
+            "pan": "24.24",
+            "tilt": "2.55",
+            "lng": "126.2395006",
+            "lat": "33.3941356",
+            "fov": "80"
+        },
+        "skyPanorama": {
+            "id": "mal6jZfRwMe/rOP3N1FxAQ==",
+            "pan": "-147.83",
+            "tilt": "-30.00",
+            "lng": "126.2402413",
+            "lat": "33.3948793",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": {
+                "poiShapeType": "1",
+                "shapeKey": {
+                    "typeName": "RELA",
+                    "wsid": "1.0",
+                    "shapeID": "11491807"
+                },
+                "boundary": {
+                    "minX": "117.9926027",
+                    "minY": "19.6944771",
+                    "maxX": "117.9926027",
+                    "maxY": "19.6944771"
+                },
+                "detail": [
+                    {
+                        "type": "1",
+                        "sid": "564490882",
+                        "fullName": "협재해수욕장1주차장입구",
+                        "name": "1주차장입구",
+                        "category": "입구(사람+차량)",
+                        "xPos": "126.2413050",
+                        "yPos": "33.3947846"
+                    },
+                    {
+                        "type": "1",
+                        "sid": "747887111",
+                        "fullName": "협재해수욕장2주차장입구",
+                        "name": "2주차장입구",
+                        "category": "입구(사람+차량)",
+                        "xPos": "126.2398390",
+                        "yPos": "33.3931828"
+                    },
+                    {
+                        "type": "1",
+                        "sid": "1663714238",
+                        "fullName": "협재해수욕장3주차장입구",
+                        "name": "3주차장입구",
+                        "category": "입구(사람+차량)",
+                        "xPos": "126.2409983",
+                        "yPos": "33.3928744"
+                    },
+                    {
+                        "type": "1",
+                        "sid": "1152766367",
+                        "fullName": "협재해수욕장4주차장입구1",
+                        "name": "4주차장입구1",
+                        "category": "입구(사람+차량)",
+                        "xPos": "126.2380395",
+                        "yPos": "33.3912081"
+                    },
+                    {
+                        "type": "1",
+                        "sid": "1726782525",
+                        "fullName": "협재해수욕장4주차장입구2",
+                        "name": "4주차장입구2",
+                        "category": "입구(사람+차량)",
+                        "xPos": "126.2374015",
+                        "yPos": "33.3905665"
+                    },
+                    {
+                        "type": "5",
+                        "sid": "17022359",
+                        "fullName": "협재해수욕장입구",
+                        "name": "입구(사람)",
+                        "category": "입구(사람)",
+                        "xPos": "126.2390820",
+                        "yPos": "33.3932450"
+                    },
+                    {
+                        "type": "5",
+                        "sid": "488079045",
+                        "fullName": "협재해수욕장입구",
+                        "name": "입구(사람)",
+                        "category": "입구(사람)",
+                        "xPos": "126.2394350",
+                        "yPos": "33.3934598"
+                    },
+                    {
+                        "type": "5",
+                        "sid": "135327079",
+                        "fullName": "협재해수욕장입구",
+                        "name": "입구(사람)",
+                        "category": "입구(사람)",
+                        "xPos": "126.2405822",
+                        "yPos": "33.3946775"
+                    }
+                ]
+            },
+            "hasRelation": true,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.239839,
+                    "y": 33.3931828
+                },
+                {
+                    "rep": false,
+                    "x": 126.2409983,
+                    "y": 33.3928744
+                },
+                {
+                    "rep": false,
+                    "x": 126.241305,
+                    "y": 33.3947846
+                },
+                {
+                    "rep": false,
+                    "x": 126.2380395,
+                    "y": 33.3912081
+                },
+                {
+                    "rep": false,
+                    "x": 126.2374015,
+                    "y": 33.3905665
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.239435,
+                    "y": 33.3934598
+                },
+                {
+                    "rep": false,
+                    "x": 126.2409983,
+                    "y": 33.3928744
+                },
+                {
+                    "rep": false,
+                    "x": 126.241305,
+                    "y": 33.3947846
+                },
+                {
+                    "rep": false,
+                    "x": 126.2380395,
+                    "y": 33.3912081
+                },
+                {
+                    "rep": false,
+                    "x": 126.2374015,
+                    "y": 33.3905665
+                },
+                {
+                    "rep": false,
+                    "x": 126.239082,
+                    "y": 33.393245
+                },
+                {
+                    "rep": false,
+                    "x": 126.2405822,
+                    "y": 33.3946775
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "",
+        "menuInfo": "파라솔+돗자리 20,000 | 대형목재파라솔(탁자/의자포함) 25,000 | 파라솔평상 35,000 | 튜브 10,000 | 보트 20,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "447729.09",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "222138",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "3",
+        "rank": "4",
+        "id": "13491073",
+        "name": "금능해수욕장",
+        "tel": "064-728-3983",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "여행,명소",
+            "해수욕장,해변"
+        ],
+        "categoryPath": [
+            [
+                "222117",
+                "222118",
+                "222138"
+            ],
+            [
+                "1004760",
+                "1004985"
+            ]
+        ],
+        "rcode": "1411025033",
+        "businessStatus": {
+            "requestTime": "202502262105",
+            "status": {
+                "code": 0,
+                "text": "",
+                "emphasis": false,
+                "description": "정보 없음",
+                "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 한림읍 금능리",
+        "roadAddress": "",
+        "abbrAddress": null,
+        "shortAddress": null,
+        "display": "금능해수욕장",
+        "telDisplay": "064-728-3983",
+        "context": [
+            "검은모래해변",
+            "오토캠핑",
+            "해안산책로",
+            "이국적",
+            "드라이브"
+        ],
+        "reviewCount": 6361,
+        "placeReviewCount": 266,
+        "ktCallMd": "faf9343706bbf82a1a544a2721dc15b8",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20150901_87/14410455661031A1pg_JPEG/157155537130281_0.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20150901_87/14410455661031A1pg_JPEG/157155537130281_0.jpg",
+            "https://ldb-phinf.pstatic.net/20200229_68/1582909264425bhjsN_JPEG/PNMaDI7V1kIXW656-xRlkbBP.jpg",
+            "https://ldb-phinf.pstatic.net/20200229_285/1582909286978Xo5zS_JPEG/N_gGs5o7fPU0WnbeFY_yQ7ee.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2345066",
+        "y": "33.3893717",
+        "itemLevel": "9",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "iFXnG7Oo+TdJOSBzJABcAw==",
+            "pan": "70.27",
+            "tilt": "3.37",
+            "lng": "126.2335704",
+            "lat": "33.3890917",
+            "fov": "80"
+        },
+        "skyPanorama": {
+            "id": "s2jXezQPbhPIKJlxd7DrJw==",
+            "pan": "151.33",
+            "tilt": "-30.00",
+            "lng": "126.2338107",
+            "lat": "33.3906407",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": {
+                "poiShapeType": "1",
+                "shapeKey": {
+                    "typeName": "RELA",
+                    "wsid": "1.0",
+                    "shapeID": "13491073"
+                },
+                "boundary": {
+                    "minX": "117.9926027",
+                    "minY": "19.6944771",
+                    "maxX": "117.9926027",
+                    "maxY": "19.6944771"
+                },
+                "detail": [
+                    {
+                        "type": "1",
+                        "sid": "1152766367",
+                        "fullName": "협재해수욕장4주차장입구1",
+                        "name": "4주차장입구1",
+                        "category": "입구(사람+차량)",
+                        "xPos": "126.2380395",
+                        "yPos": "33.3912081"
+                    },
+                    {
+                        "type": "1",
+                        "sid": "1726782525",
+                        "fullName": "협재해수욕장4주차장입구2",
+                        "name": "4주차장입구2",
+                        "category": "입구(사람+차량)",
+                        "xPos": "126.2374015",
+                        "yPos": "33.3905665"
+                    },
+                    {
+                        "type": "1",
+                        "sid": "313512517",
+                        "fullName": "금능해수욕장주차장입출구",
+                        "name": "주차장입출구",
+                        "category": "입구(사람+차량)",
+                        "xPos": "126.2356416",
+                        "yPos": "33.3897517"
+                    }
+                ]
+            },
+            "hasRelation": true,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.2356416,
+                    "y": 33.3897517
+                },
+                {
+                    "rep": false,
+                    "x": 126.2374015,
+                    "y": 33.3905665
+                },
+                {
+                    "rep": false,
+                    "x": 126.2380395,
+                    "y": 33.3912081
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.2356416,
+                    "y": 33.3897517
+                },
+                {
+                    "rep": false,
+                    "x": 126.2374015,
+                    "y": 33.3905665
+                },
+                {
+                    "rep": false,
+                    "x": 126.2380395,
+                    "y": 33.3912081
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "",
+        "menuInfo": null,
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "448325.41",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "222138",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "4",
+        "rank": "5",
+        "id": "1865664437",
+        "name": "액티브파크 제주",
+        "tel": "0507-1461-0881",
+        "isCallLink": false,
+        "virtualTel": "0507-1461-0881",
+        "virtualTelDisplay": "0507-1461-0881",
+        "ppc": "1",
+        "category": [
+            "여행,명소",
+            "테마파크"
+        ],
+        "categoryPath": [
+            [
+                "222117",
+                "222121",
+                "1000209",
+                "1000210"
+            ],
+            [
+                "1004760",
+                "1004985"
+            ]
+        ],
+        "rcode": "1411025033",
+        "businessStatus": {
+            "requestTime": "202502262105",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "18:00에 영업종료"
+            },
+            "businessHours": "202502260930~202502261800",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 한림읍 금능리 2225 액티브파크 제주",
+        "roadAddress": "제주특별자치도 제주시 한림읍 금능남로 76 액티브파크 제주",
+        "abbrAddress": "금능리 2225 액티브파크 제주",
+        "shortAddress": [
+            "제주 제주시 한림읍",
+            "금능남로 76",
+            "액티브파크 제주"
+        ],
+        "display": "액티브파크 제주",
+        "telDisplay": "0507-1461-0881",
+        "context": [],
+        "reviewCount": 540,
+        "placeReviewCount": 4776,
+        "ktCallMd": "5ff79834201f8434cfac74b2ea37c866",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20241114_101/1731572372979h9vBF_JPEG/KakaoTalk_20240813_173749771.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20241114_101/1731572372979h9vBF_JPEG/KakaoTalk_20240813_173749771.jpg",
+            "https://ldb-phinf.pstatic.net/20241114_58/17315723659979g9xP_JPEG/%C0%CC%B0%D4_%B8%C2%BE%C6.E03.240815.1080p_%C0%DA%B8%B7%B3%BB%C0%E5.mkv_000004213.jpg",
+            "https://ldb-phinf.pstatic.net/20241114_209/1731572352902x9zGh_JPEG/%C0%CC%B0%D4_%B8%C2%BE%C6.E03.240815.1080p_%C0%DA%B8%B7%B3%BB%C0%E5.mkv_000006298.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2360785",
+        "y": "33.3811424",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "8Ga/s9F2GUrTCqmP5YDBiQ==",
+            "pan": "-124.92",
+            "tilt": "10.00",
+            "lng": "126.2363870",
+            "lat": "33.3813855",
+            "fov": "80"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": {
+                "poiShapeType": "1",
+                "shapeKey": {
+                    "typeName": "RELA",
+                    "wsid": "1.0",
+                    "shapeID": "1865664437"
+                },
+                "boundary": {
+                    "minX": "117.9926027",
+                    "minY": "19.6944771",
+                    "maxX": "117.9926027",
+                    "maxY": "19.6944771"
+                },
+                "detail": [
+                    {
+                        "type": "1",
+                        "sid": "1337184281",
+                        "fullName": "액티브파크 제주입구",
+                        "name": "입구",
+                        "category": "입구(사람+차량)",
+                        "xPos": "126.2363689",
+                        "yPos": "33.3809881"
+                    }
+                ]
+            },
+            "hasRelation": true,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "http://activepark.co.kr",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.2363689,
+                    "y": 33.3809881
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.2363689,
+                    "y": 33.3809881
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "클립앤클라임(60분 교육시간 포함) 30,000 | 1인체험시 성인1인동반입장-보호자자격 0 | [제주도민할인]공식홈페이지로 예약바람 변동가격(업주문의) | 카트 1인승 25,000 | 카트 2인승 35,000 | 실내 키즈카페 기본 1시간 5,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": true,
+        "naverBookingUrl": "https://booking.naver.com/booking/12/bizes/720249",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": true,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": true,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "449222.97",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1000210",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "5",
+        "rank": "6",
+        "id": "85279427",
+        "name": "제주맥주",
+        "tel": "064-798-9872",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "여행,명소",
+            "관람,체험"
+        ],
+        "categoryPath": [
+            [
+                "222117",
+                "222120",
+                "222147"
+            ],
+            [
+                "1004760",
+                "1004985"
+            ]
+        ],
+        "rcode": "1411025033",
+        "businessStatus": {
+            "requestTime": "202502262105",
+            "status": {
+                "code": 6,
+                "text": "운영 종료",
+                "emphasis": true,
+                "description": "운영종료",
+                "detailInfo": "19:30에 운영종료"
+            },
+            "businessHours": "202502261230~202502261930",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 한림읍 금능리 407-14",
+        "roadAddress": "제주특별자치도 제주시 한림읍 금능농공길 62-11",
+        "abbrAddress": "금능리 407-14",
+        "shortAddress": [
+            "제주 제주시 한림읍",
+            "금능농공길 62-11"
+        ],
+        "display": "제주맥주",
+        "telDisplay": "064-798-9872",
+        "context": [
+            "수제맥주",
+            "펍",
+            "깨끗한",
+            "유기농",
+            "생맥주"
+        ],
+        "reviewCount": 1146,
+        "placeReviewCount": 2018,
+        "ktCallMd": "3031e5147bf3be4b1eff78745cfa4b97",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20231123_31/170071812828858HrA_PNG/JB_%B1%D7%B7%A1%C7%C8%B7%CE%B0%ED_%C8%AD%C0%CC%C6%AE%B9%E8%B0%E6.png",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20231123_31/170071812828858HrA_PNG/JB_%B1%D7%B7%A1%C7%C8%B7%CE%B0%ED_%C8%AD%C0%CC%C6%AE%B9%E8%B0%E6.png",
+            "https://ldb-phinf.pstatic.net/20231123_195/1700718100439P5IvV_JPEG/%BD%BA%C6%E4%BC%C8_%C5%F5%BE%EE_%BD%E6%B3%D7%C0%CF.jpg",
+            "https://ldb-phinf.pstatic.net/20231123_47/1700718095405jx2HE_JPEG/%C3%BC%C7%E8_%BD%E6%B3%D7%C0%CF.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2412155",
+        "y": "33.3584743",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "wPxVRfFIOxGKXgWkAfgMOg==",
+            "pan": "-36.58",
+            "tilt": "9.36",
+            "lng": "126.2410736",
+            "lat": "33.3578857",
+            "fov": "80"
+        },
+        "skyPanorama": {
+            "id": "PsU2RUvEdhR1gVWVtbiAyQ==",
+            "pan": "66.28",
+            "tilt": "-30.00",
+            "lng": "126.2360892",
+            "lat": "33.3562184",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": {
+                "poiShapeType": "1",
+                "shapeKey": {
+                    "typeName": "RELA",
+                    "wsid": "1.0",
+                    "shapeID": "85279427"
+                },
+                "boundary": {
+                    "minX": "117.9926027",
+                    "minY": "19.6944771",
+                    "maxX": "117.9926027",
+                    "maxY": "19.6944771"
+                },
+                "detail": [
+                    {
+                        "type": "1",
+                        "sid": "1628249760",
+                        "fullName": "제주맥주입구",
+                        "name": "입구",
+                        "category": "입구(사람+차량)",
+                        "xPos": "126.2415785",
+                        "yPos": "33.3588384"
+                    }
+                ]
+            },
+            "hasRelation": true,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "https://jejubeer.co.kr/brewery-program",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.2415785,
+                    "y": 33.3588384
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.2415785,
+                    "y": 33.3588384
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "운영 종료",
+        "menuInfo": "입장료 (PUB & 브랜드샵) 0 | 양조장투어 25,000 | 글라스 테이스팅 22,000 | 나만의 전용잔 만들기 15,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "https://booking.naver.com/booking/12/bizes/157108",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "451688.62",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "222147",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "6",
+        "rank": "7",
+        "id": "11491888",
+        "name": "비양도",
+        "tel": "064-796-7522",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "여행,명소",
+            "섬"
+        ],
+        "categoryPath": [
+            [
+                "222117",
+                "222118",
+                "222135"
+            ],
+            [
+                "1004760",
+                "1004985"
+            ]
+        ],
+        "rcode": "1411025024",
+        "businessStatus": {
+            "requestTime": "202502262105",
+            "status": {
+                "code": 0,
+                "text": "",
+                "emphasis": false,
+                "description": "정보 없음",
+                "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 한림읍 한림리 1328-1",
+        "roadAddress": "제주특별자치도 제주시 한림읍 한림해안로 146",
+        "abbrAddress": "한림리 1328-1",
+        "shortAddress": [
+            "제주 제주시 한림읍",
+            "한림해안로 146"
+        ],
+        "display": "비양도",
+        "telDisplay": "064-796-7522",
+        "context": [],
+        "reviewCount": 1345,
+        "placeReviewCount": 135,
+        "ktCallMd": "7a30fb9f62215a80236a20247ab189ba",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20150831_59/1440992318298giW4R_JPEG/11491888_0.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20150831_59/1440992318298giW4R_JPEG/11491888_0.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2270516",
+        "y": "33.4103973",
+        "itemLevel": "7",
+        "isAdultBusiness": false,
+        "streetPanorama": null,
+        "skyPanorama": {
+            "id": "MDVlkVdzrVIDuMjNN4t9Ag==",
+            "pan": "176.07",
+            "tilt": "-30.00",
+            "lng": "126.2269207",
+            "lat": "33.4122608",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": {
+                "poiShapeType": "1",
+                "shapeKey": {
+                    "typeName": "RELA",
+                    "wsid": "1.0",
+                    "shapeID": "11491888"
+                },
+                "boundary": {
+                    "minX": "117.9926027",
+                    "minY": "19.6944771",
+                    "maxX": "117.9926027",
+                    "maxY": "19.6944771"
+                },
+                "detail": null
+            },
+            "hasRelation": true,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": null,
+            "walk": null
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "",
+        "menuInfo": null,
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "446065.03",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "222135",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "7",
+        "rank": "8",
+        "id": "1514283247",
+        "name": "한라산소주",
+        "tel": "064-729-1954",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "여행,명소",
+            "관람,체험"
+        ],
+        "categoryPath": [
+            [
+                "222117",
+                "222120",
+                "222147"
+            ],
+            [
+                "1004760",
+                "1004985"
+            ]
+        ],
+        "rcode": "1411025028",
+        "businessStatus": {
+            "requestTime": "202502262105",
+            "status": {
+                "code": 9,
+                "text": "오늘 휴무",
+                "emphasis": true,
+                "description": "정기휴무일 휴무",
+                "detailInfo": "매주 수요일 휴무"
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 한림읍 옹포리 396",
+        "roadAddress": "제주특별자치도 제주시 한림읍 한림로 555",
+        "abbrAddress": "옹포리 396",
+        "shortAddress": [
+            "제주 제주시 한림읍",
+            "한림로 555"
+        ],
+        "display": "한라산소주",
+        "telDisplay": "064-729-1954",
+        "context": [],
+        "reviewCount": 340,
+        "placeReviewCount": 949,
+        "ktCallMd": "0f26cd45ddcc9cd74f190c1e3ec82362",
+        "coupon": "0",
+        "thumUrl": "https://naverbooking-phinf.pstatic.net/20240201_97/1706773471072mc8Mk_JPEG/%B4%EB%C1%F6_84x-100.jpg",
+        "thumUrls": [
+            "https://naverbooking-phinf.pstatic.net/20240201_97/1706773471072mc8Mk_JPEG/%B4%EB%C1%F6_84x-100.jpg",
+            "https://naverbooking-phinf.pstatic.net/20240201_267/1706772665148p4DGW_JPEG/%B4%EB%C1%F6_53x-100.jpg",
+            "https://naverbooking-phinf.pstatic.net/20240201_240/1706772665349CS322_JPEG/%B4%EB%C1%F6_63x-100.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2561229",
+        "y": "33.4077661",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": null,
+        "skyPanorama": {
+            "id": "A3G0DtY3e8oPengZ2jJihA==",
+            "pan": "132.03",
+            "tilt": "-30.00",
+            "lng": "126.2546478",
+            "lat": "33.4085942",
+            "fov": "80"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "http://www.instagram.com/hallasansoju",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.2571383,
+                    "y": 33.4070897
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.2571383,
+                    "y": 33.4070897
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "오늘 휴무",
+        "menuInfo": "성인('25년 1월부터 적용) 7,000 | 미성년 3,000 | 미취학아동 0 | 제주도민('25년 1월부터 적용) 3,000 | 한림읍민 0",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": true,
+        "naverBookingUrl": "https://booking.naver.com/booking/12/bizes/311875",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": true,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": true,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "446096.59",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "222147",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "8",
+        "rank": "9",
+        "id": "17020576",
+        "name": "문도지오름",
+        "tel": "",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "0",
+        "category": [
+            "여행,명소",
+            "오름"
+        ],
+        "categoryPath": [
+            [
+                "222117",
+                "222118",
+                "231478"
+            ],
+            [
+                "1004760",
+                "1004985"
+            ]
+        ],
+        "rcode": "1411025025",
+        "businessStatus": {
+            "requestTime": "202502262105",
+            "status": {
+                "code": 0,
+                "text": "",
+                "emphasis": false,
+                "description": "정보 없음",
+                "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 한림읍 금악리",
+        "roadAddress": "",
+        "abbrAddress": null,
+        "shortAddress": null,
+        "display": "문도지오름",
+        "telDisplay": "",
+        "context": [],
+        "reviewCount": 974,
+        "placeReviewCount": 37,
+        "ktCallMd": "c2ae270b28f485e45227fb09b779818d",
+        "coupon": "0",
+        "thumUrl": "http://blogfiles.naver.net/MjAyMTA3MzBfNjkg/MDAxNjI3NjEyMTY1NjEy.k9IlxbS5Sl77_KuLm6wnRd3jKtoU1sEO94gDAFhNfkIg.xC7TbT4vh4yMWkW1A2yEkSowXWxpA103m4BFdOY4zBIg.JPEG.kooni/%B9%AE%B5%B5%C1%F6%BF%C0%B8%A701.jpg#740x555",
+        "thumUrls": [],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2946128",
+        "y": "33.3262503",
+        "itemLevel": "9",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "3a/Kms8AsKa3kyh3dJw6lQ==",
+            "pan": "79.61",
+            "tilt": "8.08",
+            "lng": "126.2946036",
+            "lat": "33.3262380",
+            "fov": "80"
+        },
+        "skyPanorama": {
+            "id": "aWCI0+5NZzuiHfFjCYEW/A==",
+            "pan": "-155.46",
+            "tilt": "-30.00",
+            "lng": "126.2954062",
+            "lat": "33.3279810",
+            "fov": "80"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": null,
+        "isPollingPlace": false,
+        "bizhourInfo": "",
+        "menuInfo": null,
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "454816.31",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "231478",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "9",
+        "rank": "10",
+        "id": "13481089",
+        "name": "제주월령리선인장군락",
+        "tel": "",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "0",
+        "category": [
+            "여행,명소",
+            "기념물"
+        ],
+        "categoryPath": [
+            [
+                "222117",
+                "222119",
+                "222143",
+                "229278"
+            ],
+            [
+                "222117",
+                "222118",
+                "222125"
+            ]
+        ],
+        "rcode": "1411025032",
+        "businessStatus": {
+            "requestTime": "202502262105",
+            "status": {
+                "code": 0,
+                "text": "",
+                "emphasis": false,
+                "description": "정보 없음",
+                "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 한림읍 월령리 359-4",
+        "roadAddress": "",
+        "abbrAddress": null,
+        "shortAddress": null,
+        "display": "제주월령리선인장군락",
+        "telDisplay": "",
+        "context": [
+            "해안산책로",
+            "해변",
+            "산책길",
+            "이국적",
+            "사진찍기"
+        ],
+        "reviewCount": 1642,
+        "placeReviewCount": 54,
+        "ktCallMd": "26e559c17d6b120d737c711d7d9655a5",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20200229_179/1582909562808cuQsu_JPEG/7VxQDxc3jTY8biHzZYO2ZWlz.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20200229_179/1582909562808cuQsu_JPEG/7VxQDxc3jTY8biHzZYO2ZWlz.jpg",
+            "https://ldb-phinf.pstatic.net/20200229_77/1582909580780DV99Y_JPEG/d2qMXQo30EUSOT5mwI9Kv-Oj.jpg",
+            "https://ldb-phinf.pstatic.net/20200229_82/1582909602674delFP_JPEG/VAY9kfkB3akXqtj1badoAwGy.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2154480",
+        "y": "33.3778931",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "umj1Kz8AoQDwsLG5r/EwuA==",
+            "pan": "-174.35",
+            "tilt": "10.70",
+            "lng": "126.2154783",
+            "lat": "33.3779836",
+            "fov": "80"
+        },
+        "skyPanorama": {
+            "id": "b5zWHFI/hSxBW1GTPcVp4A==",
+            "pan": "-67.85",
+            "tilt": "-30.00",
+            "lng": "126.2157545",
+            "lat": "33.3777681",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": {
+                "poiShapeType": "1",
+                "shapeKey": {
+                    "typeName": "RELA",
+                    "wsid": "1.0",
+                    "shapeID": "13481089"
+                },
+                "boundary": {
+                    "minX": "117.9926027",
+                    "minY": "19.6944771",
+                    "maxX": "117.9926027",
+                    "maxY": "19.6944771"
+                },
+                "detail": [
+                    {
+                        "type": "5",
+                        "sid": "77066361",
+                        "fullName": "제주월령리선인장군락입구",
+                        "name": "입구",
+                        "category": "입구(사람)",
+                        "xPos": "126.2139700",
+                        "yPos": "33.3764281"
+                    },
+                    {
+                        "type": "5",
+                        "sid": "938213855",
+                        "fullName": "제주월령리선인장군락입구",
+                        "name": "입구",
+                        "category": "입구(사람)",
+                        "xPos": "126.2160322",
+                        "yPos": "33.3780386"
+                    }
+                ]
+            },
+            "hasRelation": true,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.2160322,
+                    "y": 33.3780386
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.2160322,
+                    "y": 33.3780386
+                },
+                {
+                    "rep": false,
+                    "x": 126.21397,
+                    "y": 33.3764281
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "",
+        "menuInfo": null,
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "449771.59",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "229278",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "10",
+        "rank": "11",
+        "id": "20947594",
+        "name": "그리스신화박물관",
+        "tel": "064-773-5800",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "여행,명소",
+            "박물관"
+        ],
+        "categoryPath": [
+            [
+                "222117",
+                "222120",
+                "221851",
+                "221884"
+            ],
+            [
+                "222117",
+                "222121",
+                "1000209",
+                "1000210"
+            ]
+        ],
+        "rcode": "1411025025",
+        "businessStatus": {
+            "requestTime": "202502262105",
+            "status": {
+                "code": 6,
+                "text": "운영 종료",
+                "emphasis": true,
+                "description": "운영종료",
+                "detailInfo": "18:00에 운영종료"
+            },
+            "businessHours": "202502260900~202502261800",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 한림읍 금악리 산30-12",
+        "roadAddress": "제주특별자치도 제주시 한림읍 광산로 942",
+        "abbrAddress": "금악리 산30-12",
+        "shortAddress": [
+            "제주 제주시 한림읍",
+            "광산로 942"
+        ],
+        "display": "그리스신화박물관",
+        "telDisplay": "064-773-5800",
+        "context": [
+            "박물관",
+            "미술관",
+            "트릭아트",
+            "재미있는",
+            "비올때"
+        ],
+        "reviewCount": 1161,
+        "placeReviewCount": 2710,
+        "ktCallMd": "6f03e247aea53a00923d9e9f6d7a3925",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20220217_294/1645062656081AmjaS_JPEG/banner2.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20220217_294/1645062656081AmjaS_JPEG/banner2.jpg",
+            "https://ldb-phinf.pstatic.net/20220217_296/1645062656057tnWMV_JPEG/banner_x.jpg",
+            "https://ldb-phinf.pstatic.net/20220217_237/1645062656101mPqtK_JPEG/banner3.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.3574886",
+        "y": "33.3480830",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "ZGDTMqBZbTjxxxRqQYQWuQ==",
+            "pan": "-100.41",
+            "tilt": "10.00",
+            "lng": "126.3582380",
+            "lat": "33.3479141",
+            "fov": "80"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": {
+                "poiShapeType": "1",
+                "shapeKey": {
+                    "typeName": "RELA",
+                    "wsid": "1.0",
+                    "shapeID": "20947594"
+                },
+                "boundary": {
+                    "minX": "117.9926027",
+                    "minY": "19.6944771",
+                    "maxX": "117.9926027",
+                    "maxY": "19.6944771"
+                },
+                "detail": [
+                    {
+                        "type": "1",
+                        "sid": "21761103",
+                        "fullName": "그리스신화박물관입구",
+                        "name": "입구",
+                        "category": "입구(사람+차량)",
+                        "xPos": "126.3572540",
+                        "yPos": "33.3493490"
+                    }
+                ]
+            },
+            "hasRelation": true,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "https://blog.naver.com/greek_trick",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.357254,
+                    "y": 33.349349
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.357254,
+                    "y": 33.349349
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "운영 종료",
+        "menuInfo": "그리스신화박물관(성인) 9,000 | 그리스신화박물관(소인, 청소년) 8,000 | 그리스신화박물관(경로, 유공자, 장애인) 7,000 | 트릭아이미술관(성인) 9,000 | 트릭아이미술관(소인, 청소년) 8,000 | 트릭아이미술관(경로, 유공자, 장애인) 7,000 | 박물관+미술관(성인) 12,000 | 박물관+미술관(소인, 청소년) 11,000 | 박물관+미술관(경로, 유공자, 장애인) 9,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": true,
+        "naverBookingUrl": "https://booking.naver.com/booking/5/bizes/89339",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": true,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": true,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "451936.97",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221884",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "11",
+        "rank": "12",
+        "id": "38484323",
+        "name": "새별오름 나홀로나무",
+        "tel": "",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "0",
+        "category": [
+            "여행,명소",
+            "지역명소"
+        ],
+        "categoryPath": [
+            [
+                "222117",
+                "222122",
+                "222164"
+            ],
+            [
+                "1004760",
+                "1004985"
+            ]
+        ],
+        "rcode": "1411025025",
+        "businessStatus": {
+            "requestTime": "202502262105",
+            "status": {
+                "code": 0,
+                "text": "",
+                "emphasis": false,
+                "description": "정보 없음",
+                "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 한림읍 금악리 산30-8",
+        "roadAddress": "",
+        "abbrAddress": null,
+        "shortAddress": null,
+        "display": "새별오름 나홀로나무",
+        "telDisplay": "",
+        "context": [
+            "목장",
+            "오름",
+            "사진찍기",
+            "평화로운",
+            "생태공원"
+        ],
+        "reviewCount": 860,
+        "placeReviewCount": 18,
+        "ktCallMd": "cebd4c5dda1ec5ec74cd1aa2769e6b25",
+        "coupon": "0",
+        "thumUrl": "http://blogfiles.naver.net/MjAxODAyMjZfMjcw/MDAxNTE5NjU1MDY3NTM4.jzxyhKZ9g3dB-0b1LdSsFrs6FcLr9PBDT7VbifYjP_wg.HoEYMyoVYR6G2Vf1cziH2B-zVqM18ISYtwy7T26yZVMg.JPEG.syk2934/20171216_165431.jpg#900x675",
+        "thumUrls": [],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.3503527",
+        "y": "33.3514125",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "+/U20Rgp2jVJs0y2XH9zdA==",
+            "pan": "28.96",
+            "tilt": "5.52",
+            "lng": "126.3494890",
+            "lat": "33.3506381",
+            "fov": "80"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": null,
+        "isPollingPlace": false,
+        "bizhourInfo": "",
+        "menuInfo": null,
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "451616.19",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "222164",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "12",
+        "rank": "13",
+        "id": "1410866796",
+        "name": "히피웅 감귤체험농장",
+        "tel": "",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "0",
+        "category": [
+            "여행,명소",
+            "관광농원,팜스테이"
+        ],
+        "categoryPath": [
+            [
+                "222117",
+                "222120",
+                "222155"
+            ],
+            [
+                "1004760",
+                "1004985"
+            ]
+        ],
+        "rcode": "1411025030",
+        "businessStatus": {
+            "requestTime": "202502262105",
+            "status": {
+                "code": 9,
+                "text": "오늘 휴무",
+                "emphasis": true,
+                "description": "정기휴무일 휴무",
+                "detailInfo": "매주 수요일 휴무"
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 한림읍 상명리 65-1 히피웅농장",
+        "roadAddress": "",
+        "abbrAddress": null,
+        "shortAddress": null,
+        "display": "히피웅 감귤체험농장",
+        "telDisplay": "",
+        "context": [],
+        "reviewCount": 48,
+        "placeReviewCount": 1198,
+        "ktCallMd": "f4fd9f6870f6762e472300e430f4e951",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20230116_262/1673833226094zAIff_GIF/%B3%F3%C0%E5_01_%28%BC%F6%C1%A4%29.gif",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20230116_262/1673833226094zAIff_GIF/%B3%F3%C0%E5_01_%28%BC%F6%C1%A4%29.gif",
+            "https://naverbooking-phinf.pstatic.net/20230914_158/169466393922827uq7_JPEG/KakaoTalk_20230913_184010206_21.jpg",
+            "https://ldb-phinf.pstatic.net/20231222_75/1703231563055pglKB_JPEG/20231222_145532.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2841978",
+        "y": "33.3590881",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "2p8TUZj726H3J+qCGcoERA==",
+            "pan": "17.00",
+            "tilt": "10.00",
+            "lng": "126.2841945",
+            "lat": "33.3590773",
+            "fov": "120"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "https://www.instagram.com/hippie_woong_farm?igsh=NTc4MTIwNjQ2YQ==",
+        "description": "",
+        "entranceCoords": null,
+        "isPollingPlace": false,
+        "bizhourInfo": "오늘 휴무",
+        "menuInfo": "하우스 천혜향 5알 따기체험 20,000 | 콜라비(소) 7개 수확체험 +시식가능 10,000 | 귤청만들기 (운영종료) 20,000 | 귤따기체험12알 +무한시식(운영종료) 10,000 | 방울 토마토 따기 (운영종료) 10,000 | 고구마캐기+ 고구마 굽기(운영종료) 10,000 | 감귤모자및 모자 50종 무료대여 0 | 폴라로이드 단체 사진 1장 무료 0 | 다양한 꾸밈선글라스 무료대여 0",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": true,
+        "naverBookingUrl": "https://booking.naver.com/booking/12/bizes/951775",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": true,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": true,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "451257.56",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "222155",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "13",
+        "rank": "14",
+        "id": "13538096",
+        "name": "한림외항",
+        "tel": "",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "0",
+        "category": [
+            "여행,명소",
+            "항구"
+        ],
+        "categoryPath": [
+            [
+                "222117",
+                "222122",
+                "222169"
+            ],
+            [
+                "1004760",
+                "1004985"
+            ]
+        ],
+        "rcode": "1411025024",
+        "businessStatus": {
+            "requestTime": "202502262105",
+            "status": {
+                "code": 0,
+                "text": "",
+                "emphasis": false,
+                "description": "정보 없음",
+                "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 한림읍 한림리 1377-45",
+        "roadAddress": "제주특별자치도 제주시 한림해안로 93",
+        "abbrAddress": "한림읍 한림리 1377-45",
+        "shortAddress": [
+            "제주 제주시",
+            "한림해안로 93"
+        ],
+        "display": "한림외항",
+        "telDisplay": "",
+        "context": [
+            "섬",
+            "항구",
+            "일몰",
+            "친절한",
+            "드라이브"
+        ],
+        "reviewCount": 493,
+        "placeReviewCount": 8,
+        "ktCallMd": "886427242a1c74835820fdd8a8103a31",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20150901_69/14410521796744juOV_JPEG/116969555548814_0.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20150901_69/14410521796744juOV_JPEG/116969555548814_0.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2566000",
+        "y": "33.4131071",
+        "itemLevel": "7",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "dvIMEQHCnjHZnyHAY4geog==",
+            "pan": "-64.85",
+            "tilt": "1.67",
+            "lng": "126.2553368",
+            "lat": "33.4125860",
+            "fov": "80"
+        },
+        "skyPanorama": {
+            "id": "VGl/WVHExdvR/zzF3emVng==",
+            "pan": "-25.49",
+            "tilt": "-30.00",
+            "lng": "126.2573999",
+            "lat": "33.4114282",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.2568493,
+                    "y": 33.4116527
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.2568493,
+                    "y": 33.4116527
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "",
+        "menuInfo": null,
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "445500.75",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "222169",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "14",
+        "rank": "15",
+        "id": "35732490",
+        "name": "탐나라공화국",
+        "tel": "064-772-2878",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "여행,명소",
+            "관람,체험"
+        ],
+        "categoryPath": [
+            [
+                "222117",
+                "222120",
+                "229269"
+            ],
+            [
+                "1004760",
+                "1004985"
+            ]
+        ],
+        "rcode": "1411025025",
+        "businessStatus": {
+            "requestTime": "202502262105",
+            "status": {
+                "code": 6,
+                "text": "운영 종료",
+                "emphasis": true,
+                "description": "운영종료",
+                "detailInfo": "18:00에 운영종료"
+            },
+            "businessHours": "202502260900~202502261800",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 한림읍 금악리 81-8 탐나라공화국",
+        "roadAddress": "제주특별자치도 제주시 한림읍 한창로 897 탐나라공화국",
+        "abbrAddress": "금악리 81-8 탐나라공화국",
+        "shortAddress": [
+            "제주 제주시 한림읍",
+            "한창로 897",
+            "탐나라공화국"
+        ],
+        "display": "탐나라공화국",
+        "telDisplay": "064-772-2878",
+        "context": [
+            "섬",
+            "야외공연장",
+            "공연",
+            "친절한",
+            "숨은"
+        ],
+        "reviewCount": 189,
+        "placeReviewCount": 75,
+        "ktCallMd": "868a484da440972a84abb7eba86111da",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20220723_24/1658552867436MnxgK_JPEG/facebook-058.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20220723_24/1658552867436MnxgK_JPEG/facebook-058.jpg",
+            "https://ldb-phinf.pstatic.net/20230207_97/16757329417447Xxcn_JPEG/%B0%AD%C8%F1%B0%A920190424-IMG_1745.jpg",
+            "https://ldb-phinf.pstatic.net/20230207_271/1675732945497oAfqk_JPEG/%C3%B5%C0%CE%C7%D5%C0%CF%B9%AE_20150710_113835.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.3272801",
+        "y": "33.3343859",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "kBNtUn7cv8hy0iJjCdHP6A==",
+            "pan": "155.84",
+            "tilt": "10.00",
+            "lng": "126.3272480",
+            "lat": "33.3344573",
+            "fov": "120"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "http://www.jejutamnara.com",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.327368,
+                    "y": 33.3345069
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.327368,
+                    "y": 33.3345069
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "운영 종료",
+        "menuInfo": "당일비자(성인) 10,000 | 1년여권(일반) 20,000 | 당일비자(어린이) 5,000 | 1년여권(어린이) 10,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": true,
+        "naverBookingUrl": "https://booking.naver.com/booking/5/bizes/377071",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": true,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": true,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "453667.38",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "229269",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "15",
+        "rank": "16",
+        "id": "1408145013",
+        "name": "정물오름",
+        "tel": "",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "0",
+        "category": [
+            "여행,명소",
+            "오름"
+        ],
+        "categoryPath": [
+            [
+                "222117",
+                "222118",
+                "231478"
+            ],
+            [
+                "1004760",
+                "1004985"
+            ]
+        ],
+        "rcode": "1411025025",
+        "businessStatus": {
+            "requestTime": "202502262105",
+            "status": {
+                "code": 0,
+                "text": "",
+                "emphasis": false,
+                "description": "정보 없음",
+                "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 한림읍 금악리 산52-1",
+        "roadAddress": "",
+        "abbrAddress": null,
+        "shortAddress": null,
+        "display": "정물오름",
+        "telDisplay": "",
+        "context": [],
+        "reviewCount": 283,
+        "placeReviewCount": 22,
+        "ktCallMd": "aa2ffbf00a7e8ddad0a6d57a341cca3f",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20191206_27/1575599738464EMqob_JPEG/a2-Sg4IYTSiNeFSbAvjrOlyY.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20191206_27/1575599738464EMqob_JPEG/a2-Sg4IYTSiNeFSbAvjrOlyY.jpg",
+            "https://ldb-phinf.pstatic.net/20191206_103/1575599765820qjgeS_JPEG/dWaNTVwP4lT9HPmxJmOODobJ.jpg",
+            "https://ldb-phinf.pstatic.net/20191206_39/1575599780567NPSB2_JPEG/IG6viy12RR4ohvsGvzBsekP7.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.3296253",
+        "y": "33.3383463",
+        "itemLevel": "10",
+        "isAdultBusiness": false,
+        "streetPanorama": null,
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": null,
+        "isPollingPlace": false,
+        "bizhourInfo": "",
+        "menuInfo": null,
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "0",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "453211.72",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "231478",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "16",
+        "rank": "17",
+        "id": "31149186",
+        "name": "트릭아이미술관",
+        "tel": "064-773-5800",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "여행,명소",
+            "테마파크"
+        ],
+        "categoryPath": [
+            [
+                "222117",
+                "222121",
+                "1000209",
+                "1000232"
+            ],
+            [
+                "1004760",
+                "1004985"
+            ]
+        ],
+        "rcode": "1411025025",
+        "businessStatus": {
+            "requestTime": "202502262105",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "18:00에 영업종료"
+            },
+            "businessHours": "202502260900~202502261800",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 한림읍 금악리 산30-12",
+        "roadAddress": "제주특별자치도 제주시 한림읍 광산로 942",
+        "abbrAddress": "금악리 산30-12",
+        "shortAddress": [
+            "제주 제주시 한림읍",
+            "광산로 942"
+        ],
+        "display": "트릭아이미술관",
+        "telDisplay": "064-773-5800",
+        "context": [
+            "트릭아트",
+            "미술관",
+            "박물관",
+            "재미있는",
+            "사진찍기"
+        ],
+        "reviewCount": 316,
+        "placeReviewCount": 32,
+        "ktCallMd": "231555bb4e88f03f68550da11d10708f",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20180410_231/15233390997762HS3F_JPEG/image.JPEG",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20180410_231/15233390997762HS3F_JPEG/image.JPEG",
+            "https://ldb-phinf.pstatic.net/20180410_211/1523339099769CPJ9p_PNG/2016-06-30_14%3B24%3B51.PNG",
+            "https://ldb-phinf.pstatic.net/20180410_226/1523339099898O09Q2_JPEG/img_armuseum02.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.3572830",
+        "y": "33.3472915",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "ijSDaCx9W3B2uD8t2G5xGw==",
+            "pan": "-128.05",
+            "tilt": "13.04",
+            "lng": "126.3575979",
+            "lat": "33.3487672",
+            "fov": "80"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": {
+                "poiShapeType": "1",
+                "shapeKey": {
+                    "typeName": "RELA",
+                    "wsid": "1.0",
+                    "shapeID": "31149186"
+                },
+                "boundary": {
+                    "minX": "117.9926027",
+                    "minY": "19.6944771",
+                    "maxX": "117.9926027",
+                    "maxY": "19.6944771"
+                },
+                "detail": [
+                    {
+                        "type": "1",
+                        "sid": "37599209",
+                        "fullName": "트릭아이미술관입구",
+                        "name": "입구",
+                        "category": "입구(사람+차량)",
+                        "xPos": "126.3572188",
+                        "yPos": "33.3493097"
+                    },
+                    {
+                        "type": "3",
+                        "sid": "1683642146",
+                        "fullName": "트릭아이미술관출구",
+                        "name": "출구",
+                        "category": "출구(차량)",
+                        "xPos": "126.3574479",
+                        "yPos": "33.3492725"
+                    }
+                ]
+            },
+            "hasRelation": true,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "http://www.instagram.com/greek_trick",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.3572188,
+                    "y": 33.3493097
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.3572188,
+                    "y": 33.3493097
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "트릭아이미술관(성인) 9,000 | 트릭아이미술관(소인, 청소년) 8,000 | 트릭아이미술관(경로, 유공자, 장애인) 7,000 | 그리스신화박물관(성인) 9,000 | 그리스신화박물관(소인, 청소년) 8,000 | 그리스신화박물관(경로, 유공자, 장애인) 7,000 | 미술관+박물관(성인) 12,000 | 미술관+박물관(소인, 청소년) 11,000 | 미술관+박물관(경로, 유공자, 장애인) 9,000 | 통합입장권(단체) 8,000 | 통합입장권(단체) 6,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "452026.25",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "1000232",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "17",
+        "rank": "18",
+        "id": "227943167",
+        "name": "올레바당체험마을",
+        "tel": "0507-1437-7223",
+        "isCallLink": false,
+        "virtualTel": "0507-1437-7223",
+        "virtualTelDisplay": "0507-1437-7223",
+        "ppc": "1",
+        "category": [
+            "여행,명소",
+            "체험마을"
+        ],
+        "categoryPath": [
+            [
+                "222117",
+                "222122",
+                "222165"
+            ],
+            [
+                "1004760",
+                "1004985"
+            ]
+        ],
+        "rcode": "1411025022",
+        "businessStatus": {
+            "requestTime": "202502262105",
+            "status": {
+                "code": 6,
+                "text": "운영 종료",
+                "emphasis": true,
+                "description": "운영종료",
+                "detailInfo": "17:30에 운영종료"
+            },
+            "businessHours": "202502261000~202502261730",
+            "breakTime": "202502261200~202502261330",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 한림읍 수원리 724-4",
+        "roadAddress": "제주특별자치도 제주시 한림읍 한림해안로 267-6",
+        "abbrAddress": "수원리 724-4",
+        "shortAddress": [
+            "제주 제주시 한림읍",
+            "한림해안로 267-6"
+        ],
+        "display": "올레바당체험마을",
+        "telDisplay": "0507-1437-7223",
+        "context": [
+            "낚시체험",
+            "스킨스쿠버",
+            "힐링"
+        ],
+        "reviewCount": 217,
+        "placeReviewCount": 891,
+        "ktCallMd": "26fdd6589bcc14bedda63f5f48d1f1da",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20230712_53/1689111712597jYThm_JPEG/20230709_162357.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20230712_53/1689111712597jYThm_JPEG/20230709_162357.jpg",
+            "https://ldb-phinf.pstatic.net/20230712_19/16891116761762qgXX_JPEG/1688790119597.jpg",
+            "https://ldb-phinf.pstatic.net/20230712_43/1689111676188YlNsB_JPEG/1688790125516.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2633883",
+        "y": "33.4257124",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "RWOBJhfolKJeO+6+qpIXIA==",
+            "pan": "-91.66",
+            "tilt": "10.00",
+            "lng": "126.2636257",
+            "lat": "33.4257192",
+            "fov": "120"
+        },
+        "skyPanorama": {
+            "id": "dqCqpicqp2i/EqB5tAMI/A==",
+            "pan": "-22.12",
+            "tilt": "-30.00",
+            "lng": "126.2643929",
+            "lat": "33.4232401",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "https://www.instagram.com/ollebadang_fishing",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.2644541,
+                    "y": 33.4252293
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.2644541,
+                    "y": 33.4252293
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "운영 종료",
+        "menuInfo": "테우낚시체험<예약시 36개월 이상만> 12,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": true,
+        "naverBookingUrl": "https://booking.naver.com/booking/6/bizes/422241",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": true,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "444045.44",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "222165",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "18",
+        "rank": "19",
+        "id": "11707670",
+        "name": "금능석물원",
+        "tel": "064-796-2174",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "여행,명소",
+            "테마공원"
+        ],
+        "categoryPath": [
+            [
+                "222117",
+                "222122",
+                "222170",
+                "222196"
+            ],
+            [
+                "222117",
+                "222118",
+                "222136",
+                "222183"
+            ]
+        ],
+        "rcode": "1411025033",
+        "businessStatus": {
+            "requestTime": "202502262105",
+            "status": {
+                "code": 6,
+                "text": "운영 종료",
+                "emphasis": true,
+                "description": "운영종료",
+                "detailInfo": "17:30에 운영종료"
+            },
+            "businessHours": "202502260830~202502261730",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 한림읍 금능리 1245",
+        "roadAddress": "제주특별자치도 제주시 한림읍 한림로 176",
+        "abbrAddress": "금능리 1245",
+        "shortAddress": [
+            "제주 제주시 한림읍",
+            "한림로 176"
+        ],
+        "display": "금능석물원",
+        "telDisplay": "064-796-2174",
+        "context": [
+            "식물원",
+            "공원",
+            "동굴",
+            "재미있는",
+            "사진찍기"
+        ],
+        "reviewCount": 374,
+        "placeReviewCount": 221,
+        "ktCallMd": "52fdde516ebba988688a9c69cb9f6864",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20150831_73/1441025162363it8OQ_JPEG/116573523252217_0.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20150831_73/1441025162363it8OQ_JPEG/116573523252217_0.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2272967",
+        "y": "33.3848796",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "zpmM3Su0/f1Fh3Xbyta2MQ==",
+            "pan": "115.72",
+            "tilt": "-1.19",
+            "lng": "126.2265708",
+            "lat": "33.3860154",
+            "fov": "55"
+        },
+        "skyPanorama": {
+            "id": "EO8Zy5ywp4txoD9nnttaaQ==",
+            "pan": "163.87",
+            "tilt": "-30.00",
+            "lng": "126.2259067",
+            "lat": "33.3896600",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": {
+                "poiShapeType": "1",
+                "shapeKey": {
+                    "typeName": "RELA",
+                    "wsid": "1.0",
+                    "shapeID": "11707670"
+                },
+                "boundary": {
+                    "minX": "117.9926027",
+                    "minY": "19.6944771",
+                    "maxX": "117.9926027",
+                    "maxY": "19.6944771"
+                },
+                "detail": [
+                    {
+                        "type": "1",
+                        "sid": "1588645060",
+                        "fullName": "금능석물원입구1",
+                        "name": "입구1",
+                        "category": "입구(사람+차량)",
+                        "xPos": "126.2270106",
+                        "yPos": "33.3860142"
+                    },
+                    {
+                        "type": "1",
+                        "sid": "21765303",
+                        "fullName": "금능석물원입구2",
+                        "name": "입구2",
+                        "category": "입구(사람+차량)",
+                        "xPos": "126.2265758",
+                        "yPos": "33.3859514"
+                    }
+                ]
+            },
+            "hasRelation": true,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "https://www.ok114.co.kr/0647962174",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.2265758,
+                    "y": 33.3859514
+                },
+                {
+                    "rep": false,
+                    "x": 126.2270106,
+                    "y": 33.3860142
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.2265758,
+                    "y": 33.3859514
+                },
+                {
+                    "rep": false,
+                    "x": 126.2270106,
+                    "y": 33.3860142
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "운영 종료",
+        "menuInfo": "성인 (20세 이상) 6,000 | 초, 중, 고 (8세~19세) 5,000 | 어린이, 유아 (7세 이하) 0",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "448888.69",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "222196",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "19",
+        "rank": "20",
+        "id": "20557921",
+        "name": "더마파크공연장",
+        "tel": "",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "0",
+        "category": [
+            "관람,체험",
+            "부속시설"
+        ],
+        "categoryPath": [
+            [
+                "222117",
+                "222120",
+                "229271"
+            ]
+        ],
+        "rcode": "1411025034",
+        "businessStatus": {
+            "requestTime": "202502262105",
+            "status": {
+                "code": 0,
+                "text": "",
+                "emphasis": false,
+                "description": "정보 없음",
+                "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 한림읍 월림리 2365",
+        "roadAddress": "",
+        "abbrAddress": null,
+        "shortAddress": null,
+        "display": "더마파크공연장",
+        "telDisplay": "",
+        "context": [],
+        "reviewCount": 111,
+        "placeReviewCount": 3,
+        "ktCallMd": "d775b45116b9e234fa4b3f47d7c83f5f",
+        "coupon": "0",
+        "thumUrl": null,
+        "thumUrls": [],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.2433963",
+        "y": "33.3539822",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "qWQPA6HIX8XUBcxCbjP0Lw==",
+            "pan": "92.15",
+            "tilt": "10.00",
+            "lng": "126.2425612",
+            "lat": "33.3540129",
+            "fov": "120"
+        },
+        "skyPanorama": {
+            "id": "m+Ho97TkCvyhDQbPQzHxHQ==",
+            "pan": "79.77",
+            "tilt": "-30.00",
+            "lng": "126.2369087",
+            "lat": "33.3528064",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.2430441,
+                    "y": 33.3568281
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.2430441,
+                    "y": 33.3568281
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "",
+        "menuInfo": null,
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "0",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "452166.94",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "229271",
+        "microReview": [],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    }
+]

@@ -1,0 +1,3419 @@
+[
+    {
+        "index": "0",
+        "rank": "1",
+        "id": "84349018",
+        "name": "제주흑돼지 함덕그때그집",
+        "tel": "064-782-9244",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "한식",
+            "돼지고기구이"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220075",
+                "220765",
+                "221458"
+            ]
+        ],
+        "rcode": "1411025924",
+        "businessStatus": {
+            "requestTime": "202502262103",
+            "status": {
+                "code": 9,
+                "text": "오늘 휴무",
+                "emphasis": true,
+                "description": "정기휴무일 휴무",
+                "detailInfo": "매주 수요일 휴무"
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 조천읍 함덕리 1252-39",
+        "roadAddress": "제주특별자치도 제주시 조천읍 조함해안로 486",
+        "abbrAddress": "함덕리 1252-39",
+        "shortAddress": [
+            "제주 제주시 조천읍",
+            "조함해안로 486"
+        ],
+        "display": "제주흑돼지 함덕그때그집",
+        "telDisplay": "064-782-9244",
+        "context": [
+            "김치찌개",
+            "흑돼지",
+            "근고기",
+            "친절하고",
+            "싱싱한"
+        ],
+        "reviewCount": 2396,
+        "placeReviewCount": 1264,
+        "ktCallMd": "e2716a425da67320045a90a439185499",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20240319_47/1710827504487oCxly_JPEG/1710827489704.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20240319_47/1710827504487oCxly_JPEG/1710827489704.jpg",
+            "https://ldb-phinf.pstatic.net/20201208_98/16073569217277o3Oa_JPEG/IVv_KNIma9UX6s5ZEjIFEBsp.jpg",
+            "https://ldb-phinf.pstatic.net/20230114_191/1673673081485ihTFB_JPEG/Screenshot_20230114_140408_NAVER.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.6647042",
+        "y": "33.5428066",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "wkSwP1QWCM66of6ausTgaQ==",
+            "pan": "103.90",
+            "tilt": "10.00",
+            "lng": "126.6645687",
+            "lat": "33.5428400",
+            "fov": "120"
+        },
+        "skyPanorama": {
+            "id": "u81mmBF9vsIsgoDFhSOq6A==",
+            "pan": "137.10",
+            "tilt": "-30.00",
+            "lng": "126.6632450",
+            "lat": "33.5443733",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.66455,
+                    "y": 33.542747
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.664674,
+                    "y": 33.542941
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "오늘 휴무",
+        "menuInfo": "제주도 1등 김치찌개 (무한리필) 10,000 | 명품 숙성 흑돼지 2인세트 500g 62,000 | 명품 숙성 흑돼지 3인세트(750g) 90,000 | 명품 숙성 흑돼지 (250g) 추가 27,500 | 프리미엄 백돼지 2인세트 (500g) 53,000 | 프리미엄 백돼지 3인세트 (750g) 77,000 | 프리미엄 백돼지 (250g) 추가 23,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "429063.47",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221458",
+        "microReview": [
+            "친절한 서비스와 맛있는 음식의 조화"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "1",
+        "rank": "2",
+        "id": "1146885120",
+        "name": "화로위 함덕흑돼지 보리짚불구이",
+        "tel": "0507-1383-1094",
+        "isCallLink": false,
+        "virtualTel": "0507-1383-1094",
+        "virtualTelDisplay": "0507-1383-1094",
+        "ppc": "1",
+        "category": [
+            "한식",
+            "돼지고기구이"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220075",
+                "220765",
+                "221458"
+            ],
+            [
+                "1004760",
+                "1004498"
+            ]
+        ],
+        "rcode": "1411025924",
+        "businessStatus": {
+            "requestTime": "202502262103",
+            "status": {
+                "code": 2,
+                "text": "영업 중",
+                "emphasis": false,
+                "description": "영업중",
+                "detailInfo": "새벽 00:00에 영업종료"
+            },
+            "businessHours": "202502261200~202502262400",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 조천읍 함덕리 960-7 1동 1층 화로위",
+        "roadAddress": "제주특별자치도 제주시 조천읍 함덕19길 9 1동 1층 화로위",
+        "abbrAddress": "함덕리 960-7 1동 1층 화로위",
+        "shortAddress": [
+            "제주 제주시 조천읍",
+            "함덕19길 9",
+            "1동 1층 화로위"
+        ],
+        "display": "화로위 함덕흑돼지 보리짚불구이",
+        "telDisplay": "0507-1383-1094",
+        "context": [],
+        "reviewCount": 11895,
+        "placeReviewCount": 2825,
+        "ktCallMd": "63f101f83e306bb7be604926e7d3def8",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20230726_147/1690360113822CYs5m_JPEG/%C8%AD%B7%CE%C0%A701.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20230726_147/1690360113822CYs5m_JPEG/%C8%AD%B7%CE%C0%A701.jpg",
+            "https://ldb-phinf.pstatic.net/20231214_72/1702532208984kBBwx_JPEG/KakaoTalk_20231214_134452205_04.jpg",
+            "https://ldb-phinf.pstatic.net/20230726_221/16903601138558c59c_JPEG/%C8%AD%B7%CE%C0%A7%BE%CB%B8%B20.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.6699438",
+        "y": "33.5413331",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "+Ly0E8c4q+HzZSFfeVBEbQ==",
+            "pan": "-174.96",
+            "tilt": "10.00",
+            "lng": "126.6699522",
+            "lat": "33.5414256",
+            "fov": "120"
+        },
+        "skyPanorama": {
+            "id": "oa0GcFPqtbhnT3kyJoLhrw==",
+            "pan": "126.64",
+            "tilt": "-30.00",
+            "lng": "126.6680666",
+            "lat": "33.5427262",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "https://www.instagram.com/hwarowi/",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.6703515,
+                    "y": 33.5410992
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.6703515,
+                    "y": 33.5410992
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 중",
+        "menuInfo": "숙성흑돼지근고기600g 72,000 | 제주 가브리살200g 26,000 | 해물된장찌개 8,000 | 숙성김치찌개 8,000 | 김치말이국수 7,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": true,
+        "naverBookingUrl": "https://booking.naver.com/booking/6/bizes/555673",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": true,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "429221.00",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221458",
+        "microReview": [
+            "맛있는 반찬과 고기로 풍성한 식사"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "2",
+        "rank": "3",
+        "id": "1700992768",
+        "name": "함덕흑돼지우돈향 함덕점",
+        "tel": "064-782-6969",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "한식",
+            "육류,고기요리"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220075",
+                "220733"
+            ],
+            [
+                "1004760",
+                "1004380",
+                "1002043"
+            ]
+        ],
+        "rcode": "1411025924",
+        "businessStatus": {
+            "requestTime": "202502262103",
+            "status": {
+                "code": 2,
+                "text": "영업 중",
+                "emphasis": false,
+                "description": "영업중",
+                "detailInfo": "23:00에 영업종료"
+            },
+            "businessHours": "202502261200~202502262300",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 조천읍 함덕리 1004-30 2층 우돈향",
+        "roadAddress": "제주특별자치도 제주시 조천읍 조함해안로 530 2층 우돈향",
+        "abbrAddress": "함덕리 1004-30 2층 우돈향",
+        "shortAddress": [
+            "제주 제주시 조천읍",
+            "조함해안로 530",
+            "2층 우돈향"
+        ],
+        "display": "함덕흑돼지우돈향 함덕점",
+        "telDisplay": "064-782-6969",
+        "context": [],
+        "reviewCount": 8147,
+        "placeReviewCount": 1737,
+        "ktCallMd": "80ccd28d29b3dc3b9869bde617aa2dca",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20240806_187/1722931178721IHcMk_JPEG/IMG_3267.jpeg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20240806_187/1722931178721IHcMk_JPEG/IMG_3267.jpeg",
+            "https://ldb-phinf.pstatic.net/20230507_260/1683447882954z5Noy_JPEG/BCEF7015-5868-4515-948E-B755C8CAA802.jpeg",
+            "https://ldb-phinf.pstatic.net/20240806_58/1722931208752DPwyj_JPEG/IMG_3266.jpeg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.6695094",
+        "y": "33.5424871",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "FODGYjdosWUh2fMF+dp/Aw==",
+            "pan": "-168.05",
+            "tilt": "14.33",
+            "lng": "126.6696010",
+            "lat": "33.5426627",
+            "fov": "100"
+        },
+        "skyPanorama": {
+            "id": "oa0GcFPqtbhnT3kyJoLhrw==",
+            "pan": "99.46",
+            "tilt": "-30.00",
+            "lng": "126.6680666",
+            "lat": "33.5427262",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.669694,
+                    "y": 33.542425
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.669497,
+                    "y": 33.542571
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 중",
+        "menuInfo": "흑돼지 2인 60,000 | 흑돼지 3인 88,000 | 흑돼지 모둠 108,000 | 폭탄계란찜 5,000 | 흑돼지 김치찌개 8,000 | 우리콩 된장찌개 8,000 | 제주산 메밀 물냉면 11,000 | 제주산 메밀 비빔냉면 11,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": true,
+        "naverBookingUrl": "https://booking.naver.com/booking/6/bizes/1079477",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": true,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "429093.00",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220733",
+        "microReview": [
+            "고품질 고기와 맛있는 밑반찬의 조화"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "3",
+        "rank": "4",
+        "id": "36859834",
+        "name": "델문도",
+        "tel": "064-702-0007",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "음식점",
+            "카페,디저트"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220052",
+                "220563"
+            ],
+            [
+                "1004760",
+                "1004985"
+            ]
+        ],
+        "rcode": "1411025924",
+        "businessStatus": {
+            "requestTime": "202502262103",
+            "status": {
+                "code": 2,
+                "text": "영업 중",
+                "emphasis": false,
+                "description": "영업중",
+                "detailInfo": "새벽 00:00에 영업종료"
+            },
+            "businessHours": "202502260630~202502262400",
+            "breakTime": "",
+            "lastOrder": "202502254750"
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 조천읍 함덕리 1008-1",
+        "roadAddress": "제주특별자치도 제주시 조천읍 조함해안로 519-10",
+        "abbrAddress": "함덕리 1008-1",
+        "shortAddress": [
+            "제주 제주시 조천읍",
+            "조함해안로 519-10"
+        ],
+        "display": "델문도",
+        "telDisplay": "064-702-0007",
+        "context": [
+            "해변카페",
+            "사진찍기",
+            "로스팅",
+            "이국적",
+            "경치"
+        ],
+        "reviewCount": 5847,
+        "placeReviewCount": 21621,
+        "ktCallMd": "a4710eaf86dbbb865453a94189be422a",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20160826_163/1472178646647JxGxw_JPEG/176776516063874_2.jpeg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20160826_163/1472178646647JxGxw_JPEG/176776516063874_2.jpeg",
+            "https://ldb-phinf.pstatic.net/20160826_149/1472179876070GTS5y_JPEG/176776518135817_5.jpeg",
+            "https://ldb-phinf.pstatic.net/20160826_149/147217987648423dx6_JPEG/176776518135817_15.jpeg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.6686961",
+        "y": "33.5437310",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "0MtE9FZJAJ1CFjfroK/s4g==",
+            "pan": "72.45",
+            "tilt": "-1.21",
+            "lng": "126.6684970",
+            "lat": "33.5436800",
+            "fov": "100"
+        },
+        "skyPanorama": {
+            "id": "oa0GcFPqtbhnT3kyJoLhrw==",
+            "pan": "32.08",
+            "tilt": "-30.00",
+            "lng": "126.6680666",
+            "lat": "33.5427262",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "http://www.delmoondo.com/",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.668513,
+                    "y": 33.54368
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.668473,
+                    "y": 33.543943
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 중",
+        "menuInfo": "아메리카노 7,000 | 문도슈페너 9,000 | 콜드브루 8,000 | 우도땅콩라떼 8,500 | 제주쑥라떼 8,500 | 델문도에이드 9,500 | 백향과귤 착즙주스 9,500 | 오리지널 수제 밀크티 9,500",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "428955.56",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "microReview": [
+            "맛있는 빵과 아름다운 바다 뷰의 만남"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "4",
+        "rank": "5",
+        "id": "1137132437",
+        "name": "함덕고등어쌈밥",
+        "tel": "0507-1324-2736",
+        "isCallLink": false,
+        "virtualTel": "0507-1324-2736",
+        "virtualTelDisplay": "0507-1324-2736",
+        "ppc": "1",
+        "category": [
+            "한식",
+            "쌈밥"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220057",
+                "220604"
+            ],
+            [
+                "1004760",
+                "1004380",
+                "1002043"
+            ]
+        ],
+        "rcode": "1411025924",
+        "businessStatus": {
+            "requestTime": "202502262103",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "20:30에 영업종료"
+            },
+            "businessHours": "202502260900~202502262030",
+            "breakTime": "",
+            "lastOrder": "202502261950"
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 조천읍 함덕리 1004-30 3층",
+        "roadAddress": "제주특별자치도 제주시 조천읍 조함해안로 530 3층",
+        "abbrAddress": "함덕리 1004-30 3층",
+        "shortAddress": [
+            "제주 제주시 조천읍",
+            "조함해안로 530",
+            "3층"
+        ],
+        "display": "함덕고등어쌈밥",
+        "telDisplay": "0507-1324-2736",
+        "context": [],
+        "reviewCount": 3760,
+        "placeReviewCount": 4597,
+        "ktCallMd": "973bea8a17a92e66a19945b4f3c621f9",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20230830_105/1693405526872ypsS3_JPEG/3B9236E8-A5AB-426D-BA52-28A37528B823.jpeg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20230830_105/1693405526872ypsS3_JPEG/3B9236E8-A5AB-426D-BA52-28A37528B823.jpeg",
+            "https://ldb-phinf.pstatic.net/20230821_224/1692596412405ndNjC_JPEG/DD249A7B-0310-4366-AD0C-BAAE867AC107.jpeg",
+            "https://ldb-phinf.pstatic.net/20230830_260/1693405526863OExba_JPEG/8363A05C-9BD8-42EE-91C4-06255728F7D6.jpeg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.6695095",
+        "y": "33.5424871",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "TZJCM4N/a9+IoGH0q/uq2A==",
+            "pan": "170.04",
+            "tilt": "10.00",
+            "lng": "126.6694784",
+            "lat": "33.5426627",
+            "fov": "120"
+        },
+        "skyPanorama": {
+            "id": "oa0GcFPqtbhnT3kyJoLhrw==",
+            "pan": "99.46",
+            "tilt": "-30.00",
+            "lng": "126.6680666",
+            "lat": "33.5427262",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.669694,
+                    "y": 33.542425
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.669497,
+                    "y": 33.542571
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "묵은지고등어쌈밥(2인분 , 포장가능) 36,000 | 묵은지돼지김치찜(2인분 , 포장가능) 36,000 | 간장게장 2.5kg (포장,택배가능) 45,000 | 전복솥밥 7,000 | 고등어구이 (포장가능) 18,000 | 옥돔구이 (포장가능) 35,000 | 전복죽 (포장가능) 15,000 | 전복성게미역국 (포장가능) 15,000 | 전복뚝배기 (포장가능) 15,000 | 돔베고기 한접시 18,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": true,
+        "naverBookingUrl": "https://booking.naver.com/booking/6/bizes/976417",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": true,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "429093.00",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220604",
+        "microReview": [
+            "아름다운 바다 뷰와 맛있는 고등어쌈밥"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "5",
+        "rank": "6",
+        "id": "37766370",
+        "name": "손맛촌 에코랜드 사려니 조천 본점",
+        "tel": "064-783-3375",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "한식",
+            "해물,생선요리"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220076",
+                "220777"
+            ],
+            [
+                "1004760",
+                "1004498"
+            ]
+        ],
+        "rcode": "1411025929",
+        "businessStatus": {
+            "requestTime": "202502262103",
+            "status": {
+                "code": 9,
+                "text": "오늘 휴무",
+                "emphasis": true,
+                "description": "정기휴무일 휴무",
+                "detailInfo": "매주 수요일 휴무"
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 조천읍 교래리 534",
+        "roadAddress": "제주특별자치도 제주시 조천읍 비자림로 661",
+        "abbrAddress": "교래리 534",
+        "shortAddress": [
+            "제주 제주시 조천읍",
+            "비자림로 661"
+        ],
+        "display": "손맛촌 에코랜드 사려니 조천 본점",
+        "telDisplay": "064-783-3375",
+        "context": [
+            "통갈치구이",
+            "간장게장",
+            "전복뚝배기",
+            "깨끗한",
+            "싱싱한"
+        ],
+        "reviewCount": 822,
+        "placeReviewCount": 3253,
+        "ktCallMd": "f438debca3a16d6532d6aa28a09300c9",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20241030_291/17302558517728KRnR_JPEG/%BC%D5%B8%C0%C3%CC_49.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20241030_291/17302558517728KRnR_JPEG/%BC%D5%B8%C0%C3%CC_49.jpg",
+            "https://ldb-phinf.pstatic.net/20241030_39/1730255851582UdotR_JPEG/%BC%D5%B8%C0%C3%CC_742.jpg",
+            "https://ldb-phinf.pstatic.net/20241030_219/1730255849599YkHXF_JPEG/%BC%D5%B8%C0%C3%CC_1444.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.6773495",
+        "y": "33.4373223",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "AIouk+kqrlgFwZ5CdfZf1Q==",
+            "pan": "30.62",
+            "tilt": "21.41",
+            "lng": "126.6772101",
+            "lat": "33.4371207",
+            "fov": "100"
+        },
+        "skyPanorama": {
+            "id": "xN/QNwf0mrQakyHk2KjAQQ==",
+            "pan": "56.70",
+            "tilt": "-30.00",
+            "lng": "126.6743099",
+            "lat": "33.4353239",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "https://sonmatchon1.modoo.at",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.677452,
+                    "y": 33.437119
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.677252,
+                    "y": 33.437202
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "오늘 휴무",
+        "menuInfo": "고사리 갈치조림 (4인) 85,000 | 통갈치구이 (4인) 80,000 | 성게미역국 15,000 | 전복뚝배기 16,000 | 고사리 갈치조림 (2인) 50,000 | 통갈치구이 (2인) 50,000 | 전복물회 16,000 | 한치물회 16,000 | 고사리 갈치조림 (3인) 68,000 | 통갈치구이 (3인) 70,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "440788.69",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220777",
+        "microReview": [
+            "맛있는 갈치 구이와 푸짐한 반찬"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "6",
+        "rank": "7",
+        "id": "37765917",
+        "name": "곱들락 함덕흑돼지",
+        "tel": "064-783-0992",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "한식",
+            "돼지고기구이"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220075",
+                "220765",
+                "221458"
+            ],
+            [
+                "1004760",
+                "1004380",
+                "1002043"
+            ]
+        ],
+        "rcode": "1411025924",
+        "businessStatus": {
+            "requestTime": "202502262103",
+            "status": {
+                "code": 2,
+                "text": "영업 중",
+                "emphasis": false,
+                "description": "영업중",
+                "detailInfo": "22:00에 영업종료"
+            },
+            "businessHours": "202502261200~202502262200",
+            "breakTime": "",
+            "lastOrder": "202502262100"
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 조천읍 함덕리 951-1 101호",
+        "roadAddress": "제주특별자치도 제주시 조천읍 함덕18길 19 101호",
+        "abbrAddress": "함덕리 951-1 101호",
+        "shortAddress": [
+            "제주 제주시 조천읍",
+            "함덕18길 19",
+            "101호"
+        ],
+        "display": "곱들락 함덕흑돼지",
+        "telDisplay": "064-783-0992",
+        "context": [
+            "흑돼지쫄면",
+            "해변",
+            "전복돌솥밥",
+            "아기자기",
+            "힐링"
+        ],
+        "reviewCount": 4259,
+        "placeReviewCount": 1554,
+        "ktCallMd": "577f9f9ec7326ed5b1f61858b87328ed",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20230729_293/1690615708475FIGrv_JPEG/KakaoTalk_20230729_162430534_01.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20230729_293/1690615708475FIGrv_JPEG/KakaoTalk_20230729_162430534_01.jpg",
+            "https://ldb-phinf.pstatic.net/20230729_219/1690615708399Hl800_JPEG/KakaoTalk_20230729_162430534_02.jpg",
+            "https://ldb-phinf.pstatic.net/20230729_244/1690615708471DeiTw_JPEG/KakaoTalk_20230729_162430534_03.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.6702017",
+        "y": "33.5395966",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "4No0DtEAFiFK9Z8FIimYqg==",
+            "pan": "71.73",
+            "tilt": "-2.63",
+            "lng": "126.6700109",
+            "lat": "33.5395368",
+            "fov": "57"
+        },
+        "skyPanorama": {
+            "id": "oa0GcFPqtbhnT3kyJoLhrw==",
+            "pan": "145.77",
+            "tilt": "-30.00",
+            "lng": "126.6680666",
+            "lat": "33.5427262",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "https://blog.naver.com/gobdeulrak_",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.670224,
+                    "y": 33.539239
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.670122,
+                    "y": 33.539515
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 중",
+        "menuInfo": "제주흑돼지2인 60,000 | 흑돼지목살 36,000 | 흑돼지오겹살 36,000 | 제주한우갈비살 37,500 | 제주한우양념갈비살 37,500 | 제주산흑돼지양념갈비 21,000 | 흑돼지쫄면(비빔,물냉) 9,000 | 제주한우육회비빔밥 14,000 | 갈치속젓볶음밥 8,000 | 제주한우된장찌개 9,000 | 흑돼지김치찌개 9,000 | 어린이볶음밥 5,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "429414.12",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221458",
+        "microReview": [
+            "맛있는 고기와 다양한 소스의 향연"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "7",
+        "rank": "8",
+        "id": "1974126202",
+        "name": "이어돈 함덕 그 첫번째이야기",
+        "tel": "0507-1426-9277",
+        "isCallLink": false,
+        "virtualTel": "0507-1426-9277",
+        "virtualTelDisplay": "0507-1426-9277",
+        "ppc": "1",
+        "category": [
+            "한식",
+            "돼지고기구이"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220075",
+                "220765",
+                "221458"
+            ]
+        ],
+        "rcode": "1411025924",
+        "businessStatus": {
+            "requestTime": "202502262103",
+            "status": {
+                "code": 2,
+                "text": "영업 중",
+                "emphasis": false,
+                "description": "영업중",
+                "detailInfo": "21:15에 라스트오더"
+            },
+            "businessHours": "202502261130~202502262200",
+            "breakTime": "",
+            "lastOrder": "202502262115"
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 조천읍 함덕리 1004-17 1층",
+        "roadAddress": "제주특별자치도 제주시 조천읍 조함해안로 514 1층",
+        "abbrAddress": "함덕리 1004-17 1층",
+        "shortAddress": [
+            "제주 제주시 조천읍",
+            "조함해안로 514",
+            "1층"
+        ],
+        "display": "이어돈 함덕 그 첫번째이야기",
+        "telDisplay": "0507-1426-9277",
+        "context": [],
+        "reviewCount": 3170,
+        "placeReviewCount": 2481,
+        "ktCallMd": "77f34a9ce4ca8065028ffaebd0799e08",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20210503_179/1620029368552baJ8j_PNG/cibjklAAD58N-ro05KE86qNN.png",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20210503_179/1620029368552baJ8j_PNG/cibjklAAD58N-ro05KE86qNN.png",
+            "https://ldb-phinf.pstatic.net/20210603_160/1622706545873lyAp7_JPEG/MmH_6IKUyS-g9v4IGYLGt88w.jpg",
+            "https://ldb-phinf.pstatic.net/20210603_1/1622706545911TWO6m_JPEG/UgoPEJmR7sQGTDkGfEuTH4hl.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.6676076",
+        "y": "33.5425394",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "0ttxg7qXVG2loOtjz+Mm8g==",
+            "pan": "166.87",
+            "tilt": "12.75",
+            "lng": "126.6675188",
+            "lat": "33.5426990",
+            "fov": "100"
+        },
+        "skyPanorama": {
+            "id": "oa0GcFPqtbhnT3kyJoLhrw==",
+            "pan": "-112.20",
+            "tilt": "-30.00",
+            "lng": "126.6680666",
+            "lat": "33.5427262",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "https://blog.naver.com/ieodon_hamdeok",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.66754,
+                    "y": 33.542361
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.667662,
+                    "y": 33.542613
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 중",
+        "menuInfo": "이어돈 점심특선 (2인) 49,000 | 흑돼지 근고기 (600g) 66,000 | 흑돼지 추가 (300g) 33,000 | 흑돼지 김치찌개 7,000 | 해물된장찌개 7,000 | 비빔국수 7,000 | 계란찜 3,000 | 소면(계절메뉴) 5,000 | 어린이 된장찌개 7,000 | 열무국수(계절메뉴) 7,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": true,
+        "naverBookingUrl": "https://booking.naver.com/booking/6/bizes/520987",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": true,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "429089.34",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221458",
+        "microReview": [
+            "맛있는 고기와 다양한 반찬의 향연"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "8",
+        "rank": "9",
+        "id": "16886040",
+        "name": "오드랑베이커리 함덕점",
+        "tel": "064-784-5404",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "카페,디저트",
+            "베이커리"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220052",
+                "220564",
+                "221161"
+            ],
+            [
+                "1004760",
+                "1004542"
+            ]
+        ],
+        "rcode": "1411025924",
+        "businessStatus": {
+            "requestTime": "202502262103",
+            "status": {
+                "code": 2,
+                "text": "영업 중",
+                "emphasis": false,
+                "description": "영업중",
+                "detailInfo": "22:00에 영업종료"
+            },
+            "businessHours": "202502260700~202502262200",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 조천읍 함덕리 270-1",
+        "roadAddress": "제주특별자치도 제주시 조천읍 조함해안로 552-3",
+        "abbrAddress": "함덕리 270-1",
+        "shortAddress": [
+            "제주 제주시 조천읍",
+            "조함해안로 552-3"
+        ],
+        "display": "오드랑베이커리 함덕점",
+        "telDisplay": "064-784-5404",
+        "context": [
+            "당근케이크",
+            "타르트",
+            "바게트",
+            "이국적",
+            "경치"
+        ],
+        "reviewCount": 4051,
+        "placeReviewCount": 13961,
+        "ktCallMd": "fe8e2b9ce49d74d2a50248af89fc15b3",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20240504_251/1714814863726B2XQ3_JPEG/IMG_1083.jpeg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20240504_251/1714814863726B2XQ3_JPEG/IMG_1083.jpeg",
+            "https://ldb-phinf.pstatic.net/20231127_65/1701077899974al4zP_JPEG/KakaoTalk_20231127_183606304.jpg",
+            "https://ldb-phinf.pstatic.net/20240504_173/1714814924436HLr4k_JPEG/IMG_9288.jpeg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.6715215",
+        "y": "33.5421004",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "0T/Ds9q8r78MdogNfyMq+w==",
+            "pan": "97.53",
+            "tilt": "5.00",
+            "lng": "126.6712986",
+            "lat": "33.5420528",
+            "fov": "80"
+        },
+        "skyPanorama": {
+            "id": "c1f80b22dZjOvsd9IYB27g==",
+            "pan": "-159.67",
+            "tilt": "-30.00",
+            "lng": "126.6722046",
+            "lat": "33.5439363",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": {
+                "poiShapeType": "1",
+                "shapeKey": {
+                    "typeName": "RELA",
+                    "wsid": "1.0",
+                    "shapeID": "16886040"
+                },
+                "boundary": {
+                    "minX": "117.9926027",
+                    "minY": "19.6944771",
+                    "maxX": "117.9926027",
+                    "maxY": "19.6944771"
+                },
+                "detail": [
+                    {
+                        "type": "1",
+                        "sid": "1273856432",
+                        "fullName": "오드랑베이커리입구",
+                        "name": "입구",
+                        "category": "입구(사람+차량)",
+                        "xPos": "126.6715955",
+                        "yPos": "33.5422094"
+                    },
+                    {
+                        "type": "1",
+                        "sid": "1462346628",
+                        "fullName": "오드랑베이커리입구",
+                        "name": "입구",
+                        "category": "입구(사람+차량)",
+                        "xPos": "126.6714698",
+                        "yPos": "33.5420482"
+                    }
+                ]
+            },
+            "hasRelation": true,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "https://www.instagram.com/audrant_hd",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.6715955,
+                    "y": 33.5422094
+                },
+                {
+                    "rep": false,
+                    "x": 126.6714698,
+                    "y": 33.5420482
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.6715955,
+                    "y": 33.5422094
+                },
+                {
+                    "rep": false,
+                    "x": 126.6714698,
+                    "y": 33.5420482
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 중",
+        "menuInfo": "마농바게트 6,800 | 인절미 브레드 5,800 | 고메앙바게트 6,500 | 카페모카 5,000 | 먹물치아바타 6,500 | 세블락소세지 6,000 | 선드라이 치아바타 6,500 | 버터롤 5,800 | 스콘 (한라봉/초코) 4,300 | 타르트 조각 8,000 | 에그타르트 4,000 | 어니언 베이글 6,000 | 아메리카노 (Hot) 4,000 | 밀크티라떼 (Only ice) 6,000 | 카페라떼 (Hot) 5,000 | 카푸치노 (Hot) 5,000 | 바닐라라떼 (Hot) 5,000 | 우유 5,000 | 초코라떼 6,000 | 아이스티 (복숭아/레몬) 5,000 | 에이드 (레몬/자몽) 6,000 | 티 (레몬/유자/한라봉) 5,500 | 얼그레이/페퍼민트/캐모마일/루이보스 5,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "429134.16",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221161",
+        "microReview": [
+            "다양한 맛의 맛있는 빵의 향연"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "9",
+        "rank": "10",
+        "id": "1438674779",
+        "name": "제주갈치명가 함덕점",
+        "tel": "0507-1484-8031",
+        "isCallLink": false,
+        "virtualTel": "0507-1484-8031",
+        "virtualTelDisplay": "0507-1484-8031",
+        "ppc": "1",
+        "category": [
+            "음식점",
+            "한식"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220053"
+            ],
+            [
+                "1004760",
+                "1004380",
+                "1002043"
+            ]
+        ],
+        "rcode": "1411025924",
+        "businessStatus": {
+            "requestTime": "202502262103",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "21:00에 영업종료"
+            },
+            "businessHours": "202502261100~202502262100",
+            "breakTime": "",
+            "lastOrder": "202502262000"
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 조천읍 함덕리 272-77 1층 제주갈치명가 함덕점",
+        "roadAddress": "제주특별자치도 제주시 조천읍 함덕로 6 1층 제주갈치명가 함덕점",
+        "abbrAddress": "함덕리 272-77 1층 제주갈치명가 함덕점",
+        "shortAddress": [
+            "제주 제주시 조천읍",
+            "함덕로 6",
+            "1층 제주갈치명가 함덕점"
+        ],
+        "display": "제주갈치명가 함덕점",
+        "telDisplay": "0507-1484-8031",
+        "context": [],
+        "reviewCount": 2253,
+        "placeReviewCount": 593,
+        "ktCallMd": "077d55b5fe69a4563c2a19abd3d8f7a6",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20250110_127/1736480219412QlnkE_JPEG/20241224_170647.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20250110_127/1736480219412QlnkE_JPEG/20241224_170647.jpg",
+            "https://ldb-phinf.pstatic.net/20240104_297/1704335303446FEuQE_JPEG/3.jpg",
+            "https://ldb-phinf.pstatic.net/20250110_99/1736480121397qTVgi_JPEG/1736480115499.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.6739724",
+        "y": "33.5406621",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "6VmJlqvZWb6UDNP9kxO+lg==",
+            "pan": "69.14",
+            "tilt": "10.00",
+            "lng": "126.6737616",
+            "lat": "33.5405817",
+            "fov": "120"
+        },
+        "skyPanorama": {
+            "id": "c1f80b22dZjOvsd9IYB27g==",
+            "pan": "151.71",
+            "tilt": "-30.00",
+            "lng": "126.6722046",
+            "lat": "33.5439363",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "https://www.instagram.com/hamdeok_galchi",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.673765,
+                    "y": 33.540645
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.673765,
+                    "y": 33.540645
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "통갈치구이 (2인)(포장가능) 69,000 | 묵은지순살은갈치 조림 (2인)포장가능 79,000 | 단체(20명이상) 갈치조림세트 20,000 | 묵은지순살은갈치조림+통갈치구이(2인) 109,000 | 묵은지순살은갈치조림+통갈치구이(3인) 139,000 | 흑돼지 제육볶음 7,000 | 옥두어튀김 10,000 | 묵은지순살은갈치 조림 (3인) 99,000 | 묵은지순살은갈치 조림 (4인) 119,000 | 통갈치구이 (3인) 89,000 | 통갈치구이 (4인) 119,000 | 묵은지순살은갈치조림+통갈치구이(4인) 169,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": true,
+        "naverBookingUrl": "https://booking.naver.com/booking/6/bizes/1096974",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": true,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "429291.69",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "microReview": [
+            "신선한 재료로 만든 맛있는 갈치조림"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "10",
+        "rank": "11",
+        "id": "1069438409",
+        "name": "백가네제주한상 함덕점",
+        "tel": "0507-1479-9966",
+        "isCallLink": false,
+        "virtualTel": "0507-1479-9966",
+        "virtualTelDisplay": "0507-1479-9966",
+        "ppc": "1",
+        "category": [
+            "음식점",
+            "한식"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220053"
+            ],
+            [
+                "1004760",
+                "1004498"
+            ]
+        ],
+        "rcode": "1411025924",
+        "businessStatus": {
+            "requestTime": "202502262103",
+            "status": {
+                "code": 2,
+                "text": "영업 중",
+                "emphasis": false,
+                "description": "영업중",
+                "detailInfo": "21:30에 영업종료"
+            },
+            "businessHours": "202502260800~202502262130",
+            "breakTime": "",
+            "lastOrder": "202502262030"
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 조천읍 함덕리 산14-13 1층 102호, 103호",
+        "roadAddress": "제주특별자치도 제주시 조천읍 함덕로 40 1층 102호, 103호",
+        "abbrAddress": "함덕리 산14-13 1층 102호, 103호",
+        "shortAddress": [
+            "제주 제주시 조천읍",
+            "함덕로 40",
+            "1층 102호, 103호"
+        ],
+        "display": "백가네제주한상 함덕점",
+        "telDisplay": "0507-1479-9966",
+        "context": [],
+        "reviewCount": 2946,
+        "placeReviewCount": 1015,
+        "ktCallMd": "8ffcc4437f2b1d7b975c4808b97fc074",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20250115_258/1736932467809fCy3q_JPEG/001.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20250115_258/1736932467809fCy3q_JPEG/001.jpg",
+            "https://ldb-phinf.pstatic.net/20250115_138/17369324676743nHzL_JPEG/002.jpg",
+            "https://ldb-phinf.pstatic.net/20231115_7/1700026229690Ja2qr_JPEG/%C7%D4%B4%F6%B8%C0%C1%FD_1.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.6711147",
+        "y": "33.5424757",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "Sz+U68kga0UxnBotYBjYxw==",
+            "pan": "167.68",
+            "tilt": "10.00",
+            "lng": "126.6710720",
+            "lat": "33.5426700",
+            "fov": "120"
+        },
+        "skyPanorama": {
+            "id": "c1f80b22dZjOvsd9IYB27g==",
+            "pan": "-143.34",
+            "tilt": "-30.00",
+            "lng": "126.6722046",
+            "lat": "33.5439363",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "https://catchtable.co.kr/baekgane",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.671001,
+                    "y": 33.542261
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.671001,
+                    "y": 33.542261
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 중",
+        "menuInfo": "순살갈치조림,통갈치구이 세트 2인 68,000 | 전복죽 13,000 | 갈치구이 20,000 | 해물뚝배기 15,000 | 성게미역국 15,000 | 고등어조림 15,000 | 고등어구이 15,000 | 순살갈치조림,통갈치구이 세트 3인 98,000 | 순살갈치조림,통갈치구이 세트 4인 128,000 | 순살갈치조림,통갈치구이 세트5인 158,000 | 통갈치구이 해산물 세트 2~5인 118,000~218,000 | 통갈치구이 세트 2~5인 88,000~178,000 | 통갈치조림 세트 2~5인 98,000~188,000 | 통갈치구이 조림 세트 2~5인 138,000~228,000 | 갈치조림해산물세트 2인 128,000 | 갈치조림해산물세트 3인 168,000 | 갈치조림해산물세트 2인4 198,000 | 갈치조림해산물세트 5인 228,000 | 게우보말볶음밥 17,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": true,
+        "naverBookingUrl": "https://booking.naver.com/booking/6/bizes/970915",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": true,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "429092.81",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "microReview": [
+            "맛있는 갈치 요리와 푸짐한 반찬의 향연"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "11",
+        "rank": "12",
+        "id": "35992593",
+        "name": "깡촌흑돼지 함덕본점",
+        "tel": "064-784-0787",
+        "isCallLink": false,
+        "virtualTel": "",
+        "virtualTelDisplay": "",
+        "ppc": "1",
+        "category": [
+            "한식",
+            "돼지고기구이"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220075",
+                "220765",
+                "221458"
+            ]
+        ],
+        "rcode": "1411025924",
+        "businessStatus": {
+            "requestTime": "202502262103",
+            "status": {
+                "code": 2,
+                "text": "영업 중",
+                "emphasis": false,
+                "description": "영업중",
+                "detailInfo": "새벽 01:00에 영업종료"
+            },
+            "businessHours": "202502261100~202502262500",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 조천읍 함덕리 1001",
+        "roadAddress": "제주특별자치도 제주시 조천읍 함덕14길 2",
+        "abbrAddress": "함덕리 1001",
+        "shortAddress": [
+            "제주 제주시 조천읍",
+            "함덕14길 2"
+        ],
+        "display": "깡촌흑돼지 함덕본점",
+        "telDisplay": "064-784-0787",
+        "context": [
+            "흑돼지",
+            "해변",
+            "근고기",
+            "친절한",
+            "신선한"
+        ],
+        "reviewCount": 2357,
+        "placeReviewCount": 2994,
+        "ktCallMd": "3e336c8bdb173803f22f67b49252f5e7",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20220324_131/1648090434936auSsH_JPEG/dnpdlxld.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20220324_131/1648090434936auSsH_JPEG/dnpdlxld.jpg",
+            "https://ldb-phinf.pstatic.net/20200821_3/1598004605235imCxy_JPEG/o2vRu0Oy8ReZ1One1wayyjLO.JPG.jpg",
+            "https://ldb-phinf.pstatic.net/20190718_94/1563420622943K5Pww_JPEG/tDNYHca5VpvbRleOvCUqZ2Pb.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.6671246",
+        "y": "33.5413057",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "8gSVAhx15hbqJM0i47cFAg==",
+            "pan": "-71.83",
+            "tilt": "10.00",
+            "lng": "126.6672068",
+            "lat": "33.5412788",
+            "fov": "120"
+        },
+        "skyPanorama": {
+            "id": "oa0GcFPqtbhnT3kyJoLhrw==",
+            "pan": "-146.53",
+            "tilt": "-30.00",
+            "lng": "126.6680666",
+            "lat": "33.5427262",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.667169,
+                    "y": 33.541365
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.667169,
+                    "y": 33.541365
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 중",
+        "menuInfo": "깡촌모듬1kg 108,000 | 흑돼지근고기 66,000 | 빨간돼지 50,000 | 목추리 한근 42,000 | 흑목살(200g) 23,000 | 흑오겹살(200g) 23,000 | 항정살(200g) 23,000 | 가브리살 23,000 | 빨간껍데기 10,000 | 간장껍데기 10,000 | 추가 흑근고기 (400g) 45,000 | 추가 빨간돼지 (400g) 33,000 | 추가 목추리 (400g) 28,000 | 김치찌개 8,000 | 나박국수 6,000 | 라면사리 2,000 | 공기밥 1,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "429227.50",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221458",
+        "microReview": [
+            "맛있는 고기와 친절한 서비스로 행복한 식사"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "12",
+        "rank": "13",
+        "id": "1339557107",
+        "name": "카페 더 콘테나 제주",
+        "tel": "0507-1338-5130",
+        "isCallLink": false,
+        "virtualTel": "0507-1338-5130",
+        "virtualTelDisplay": "0507-1338-5130",
+        "ppc": "1",
+        "category": [
+            "음식점",
+            "카페,디저트"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220052",
+                "220563"
+            ],
+            [
+                "1004760",
+                "1004985"
+            ]
+        ],
+        "rcode": "1411025928",
+        "businessStatus": {
+            "requestTime": "202502262103",
+            "status": {
+                "code": 9,
+                "text": "오늘 휴무",
+                "emphasis": true,
+                "description": "정기휴무일 휴무",
+                "detailInfo": "매주 수요일 휴무"
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 조천읍 와산리 851",
+        "roadAddress": "제주특별자치도 제주시 조천읍 함와로 513",
+        "abbrAddress": "와산리 851",
+        "shortAddress": [
+            "제주 제주시 조천읍",
+            "함와로 513"
+        ],
+        "display": "카페 더 콘테나 제주",
+        "telDisplay": "0507-1338-5130",
+        "context": [],
+        "reviewCount": 1013,
+        "placeReviewCount": 2655,
+        "ktCallMd": "b6b7fc463a1a051c6e782ee2eeac8328",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20241017_44/1729170994713TXvYb_JPEG/KakaoTalk_20240902_000811030_05.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20241017_44/1729170994713TXvYb_JPEG/KakaoTalk_20240902_000811030_05.jpg",
+            "https://ldb-phinf.pstatic.net/20241010_177/1728488810109tGNgX_JPEG/KakaoTalk_20241010_004618593.jpg",
+            "https://ldb-phinf.pstatic.net/20211102_64/1635860905062DvaIz_JPEG/tiNMC4fsNASKFDHIl32P0ZAV.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.6789565",
+        "y": "33.4980879",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "GKu2SE0fyAWPDqrIrvg8Mg==",
+            "pan": "73.39",
+            "tilt": "10.00",
+            "lng": "126.6787984",
+            "lat": "33.4980407",
+            "fov": "120"
+        },
+        "skyPanorama": {
+            "id": "s53Fee/lorW1F5EC4HwvNA==",
+            "pan": "14.77",
+            "tilt": "-30.00",
+            "lng": "126.6783346",
+            "lat": "33.4957283",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "http://www.instagram.com/cafe_the_container",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.678863,
+                    "y": 33.498057
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.678863,
+                    "y": 33.498057
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "오늘 휴무",
+        "menuInfo": "감귤따기체험 변동가격(업주문의) | 제주쑥 인절미(5개) 5,000 | 별채 홀 대관 변동가격(업주문의) | 풋귤따기체험 변동가격(업주문의) | 귤꽃따기체험 변동가격(업주문의) | 감귤주스 7,500 | 풋귤에이드 8,000 | 콘테나 커피 7,500 | 귤라떼 8,000 | 판나코타(우유푸딩) 7,000 | 콘테나 크림라떼 8,000 | 아포가토 7,500 | 미니 팥빙수 8,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": true,
+        "naverBookingUrl": "https://booking.naver.com/booking/6/bizes/994158",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": true,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "434025.03",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220563",
+        "microReview": [
+            "예쁜 포토존 & 아름다운 인테리어의 매력"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "13",
+        "rank": "14",
+        "id": "1989759621",
+        "name": "해녀김밥 본점",
+        "tel": "0507-1342-3005",
+        "isCallLink": false,
+        "virtualTel": "0507-1342-3005",
+        "virtualTelDisplay": "0507-1342-3005",
+        "ppc": "1",
+        "category": [
+            "분식",
+            "김밥"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220048",
+                "220186"
+            ],
+            [
+                "1004760",
+                "1004498"
+            ]
+        ],
+        "rcode": "1411025924",
+        "businessStatus": {
+            "requestTime": "202502262103",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "15:00에 영업종료"
+            },
+            "businessHours": "202502260900~202502261500",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 조천읍 함덕리 산14-13 3층, 302호",
+        "roadAddress": "제주특별자치도 제주시 조천읍 함덕로 40 3층, 302호",
+        "abbrAddress": "함덕리 산14-13 3층, 302호",
+        "shortAddress": [
+            "제주 제주시 조천읍",
+            "함덕로 40",
+            "3층, 302호"
+        ],
+        "display": "해녀김밥 본점",
+        "telDisplay": "0507-1342-3005",
+        "context": [],
+        "reviewCount": 2270,
+        "placeReviewCount": 3737,
+        "ktCallMd": "f75828ca9b31e5cccc9496cc419cfa5c",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20191119_212/15741341930689LpNb_JPEG/orf9CRr7dKEnTlTLCZY-kZcd.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20191119_212/15741341930689LpNb_JPEG/orf9CRr7dKEnTlTLCZY-kZcd.jpg",
+            "https://ldb-phinf.pstatic.net/20180317_167/1521290210963ci4Ov_JPEG/JxEH2IQJJoyMap7PSaBIoVMy.jpg",
+            "https://ldb-phinf.pstatic.net/20230223_163/167711259718913Vim_JPEG/20230216_120129.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.6711119",
+        "y": "33.5423058",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "fA5EE3AALLZAkfsI6Xm7RA==",
+            "pan": "61.51",
+            "tilt": "10.00",
+            "lng": "126.6709781",
+            "lat": "33.5422331",
+            "fov": "120"
+        },
+        "skyPanorama": {
+            "id": "c1f80b22dZjOvsd9IYB27g==",
+            "pan": "-146.25",
+            "tilt": "-30.00",
+            "lng": "126.6722046",
+            "lat": "33.5439363",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "https://youtube.com/shorts/lFIx_CJdXVs?si=Roa9vVWtF0Sa4qM-",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.671001,
+                    "y": 33.542261
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.671001,
+                    "y": 33.542261
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "매오김밥(매운오징어튀김) 9,500 | 해녀김밥 8,500 | 딱새우김밥 9,500 | 전복김밥 8,500 | 해녀해물라면 11,000 | 오징어튀김 9,000 | 코카콜라 2,000 | 스프라이트 2,000 | 쿠우젤리 2,000 | 미니멜츠 3,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "429111.41",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220186",
+        "microReview": [
+            "다양한 맛의 맛있는 김밥의 향연"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "14",
+        "rank": "15",
+        "id": "1177301296",
+        "name": "고집돌우럭 제주함덕점",
+        "tel": "0507-1353-6061",
+        "isCallLink": false,
+        "virtualTel": "0507-1353-6061",
+        "virtualTelDisplay": "0507-1353-6061",
+        "ppc": "1",
+        "category": [
+            "한식",
+            "향토음식"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220079"
+            ],
+            [
+                "1004760",
+                "1004498"
+            ]
+        ],
+        "rcode": "1411025924",
+        "businessStatus": {
+            "requestTime": "202502262103",
+            "status": {
+                "code": 2,
+                "text": "영업 중",
+                "emphasis": false,
+                "description": "영업중",
+                "detailInfo": "21:20에 라스트오더"
+            },
+            "businessHours": "202502261000~202502262130",
+            "breakTime": "202502261500~202502261700",
+            "lastOrder": "202502262120"
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 조천읍 함덕리 1020-2 2층",
+        "roadAddress": "제주특별자치도 제주시 조천읍 신북로 491-9 2층",
+        "abbrAddress": "함덕리 1020-2 2층",
+        "shortAddress": [
+            "제주 제주시 조천읍",
+            "신북로 491-9",
+            "2층"
+        ],
+        "display": "고집돌우럭 제주함덕점",
+        "telDisplay": "0507-1353-6061",
+        "context": [],
+        "reviewCount": 2942,
+        "placeReviewCount": 14230,
+        "ktCallMd": "d1f737e95b6f11c2f00d36737cb862bb",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20250226_117/1740528369937j7GAr_JPEG/KakaoTalk_20250107_170245563_03.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20250226_117/1740528369937j7GAr_JPEG/KakaoTalk_20250107_170245563_03.jpg",
+            "https://ldb-phinf.pstatic.net/20250226_191/1740528369913VeqEM_JPEG/KakaoTalk_20250107_170245563_04.jpg",
+            "https://ldb-phinf.pstatic.net/20230208_157/167583816762196QAu_JPEG/20230208_152827.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.6631092",
+        "y": "33.5438201",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "d+w8wWtnXOBMU1gIQy78cQ==",
+            "pan": "-89.55",
+            "tilt": "22.00",
+            "lng": "126.6635582",
+            "lat": "33.5437978",
+            "fov": "90"
+        },
+        "skyPanorama": {
+            "id": "u81mmBF9vsIsgoDFhSOq6A==",
+            "pan": "-166.30",
+            "tilt": "-30.00",
+            "lng": "126.6632450",
+            "lat": "33.5443733",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "https://app.catchtable.co.kr/ct/shop/gozip_hamduck?type=VISIT_RESERVATION",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.66346,
+                    "y": 33.543812
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.66346,
+                    "y": 33.543812
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 중",
+        "menuInfo": "런치 A 24,000 | 런치 B 28,000 | 런치 C 32,000 | 런치 계절특선 35,000 | 디너 산(山) 33,000 | 디너 해(海) 43,000 | 디너 진(珍) [계절특선] 53,000 | 디너 미(味) 63,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "https://booking.naver.com/booking/6/bizes/258732",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "428952.16",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220079",
+        "microReview": [
+            "신선한 재료로 만든 맛있는 우럭 조림"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "15",
+        "rank": "16",
+        "id": "1636101910",
+        "name": "계절식탁 함덕점",
+        "tel": "0507-1432-6577",
+        "isCallLink": false,
+        "virtualTel": "0507-1432-6577",
+        "virtualTelDisplay": "0507-1432-6577",
+        "ppc": "1",
+        "category": [
+            "음식점",
+            "한식"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220053"
+            ]
+        ],
+        "rcode": "1411025924",
+        "businessStatus": {
+            "requestTime": "202502262103",
+            "status": {
+                "code": 2,
+                "text": "영업 중",
+                "emphasis": false,
+                "description": "영업중",
+                "detailInfo": "22:00에 영업종료"
+            },
+            "businessHours": "202502261100~202502262200",
+            "breakTime": "",
+            "lastOrder": "202502262100"
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 조천읍 함덕리 1004-41 2층",
+        "roadAddress": "제주특별자치도 제주시 조천읍 조함해안로 510 2층",
+        "abbrAddress": "함덕리 1004-41 2층",
+        "shortAddress": [
+            "제주 제주시 조천읍",
+            "조함해안로 510",
+            "2층"
+        ],
+        "display": "계절식탁 함덕점",
+        "telDisplay": "0507-1432-6577",
+        "context": [],
+        "reviewCount": 5327,
+        "placeReviewCount": 2173,
+        "ktCallMd": "0a496953592dd85bc3e8baefcca71367",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20240110_132/17048775957446aPNV_JPEG/KakaoTalk_20240110_093000792_03.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20240110_132/17048775957446aPNV_JPEG/KakaoTalk_20240110_093000792_03.jpg",
+            "https://ldb-phinf.pstatic.net/20231222_122/1703230663549QGrfr_JPEG/KakaoTalk_20231222_114702744_06.jpg",
+            "https://ldb-phinf.pstatic.net/20231222_130/1703230662774D9jTh_JPEG/KakaoTalk_20231222_162645474.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.6673882",
+        "y": "33.5425678",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "Rs+qg5GeM3eNCakwzMGwSQ==",
+            "pan": "47.84",
+            "tilt": "10.00",
+            "lng": "126.6673168",
+            "lat": "33.5425031",
+            "fov": "120"
+        },
+        "skyPanorama": {
+            "id": "oa0GcFPqtbhnT3kyJoLhrw==",
+            "pan": "-103.19",
+            "tilt": "-30.00",
+            "lng": "126.6680666",
+            "lat": "33.5427262",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.667367,
+                    "y": 33.542476
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.667462,
+                    "y": 33.542622
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 중",
+        "menuInfo": "이벤트 무료증정 변동가격(업주문의) | 가성비, 순살갈치조림1인 15,000 | 딱고세트(2~3인) 78,000 | 통갈치조림(2~3인) 58,000 | 통갈치구이(2~3인) 55,000 | 딱새우회 49,000 | 통갈치조림 세트(2~3인) 78,000 | 고등어한상(2~3인) 75,000 | 통갈치구이세트(2~3인) 78,000 | 통갈치구이조림세트(2~3인) 100,000 | 제주VVIP한상(2~3인) 200,000 | 계절식탁제주한상(2~3인) 135,000 | 모듬회(2~3인) 60,000 | 모둠물회(2~3인) 35,000 | 냄비지리(2인~3인) 40,000 | 딱새우탕 49,000 | 꽃게탕(2인~3인) 35,000 | 고등어구이 15,000 | 어린이돈까스 15,000 | 다금바리 1kg 230,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+            "name": "토요일은밥이좋아",
+            "menu": "고등어회/모둠물회"
+        },
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "429086.59",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220053",
+        "microReview": [
+            "맛있는 물회와 갈치조림의 향연"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "16",
+        "rank": "17",
+        "id": "1099616634",
+        "name": "바닷골 제주함덕본점",
+        "tel": "0507-1358-9067",
+        "isCallLink": false,
+        "virtualTel": "0507-1358-9067",
+        "virtualTelDisplay": "0507-1358-9067",
+        "ppc": "1",
+        "category": [
+            "한식",
+            "생선회"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220076",
+                "220792",
+                "221629"
+            ]
+        ],
+        "rcode": "1411025924",
+        "businessStatus": {
+            "requestTime": "202502262103",
+            "status": {
+                "code": 2,
+                "text": "영업 중",
+                "emphasis": false,
+                "description": "영업중",
+                "detailInfo": "23:00에 영업종료"
+            },
+            "businessHours": "202502261100~202502262300",
+            "breakTime": "",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 조천읍 함덕리 1002-17 1층, 2층",
+        "roadAddress": "제주특별자치도 제주시 조천읍 함덕13길 1-1 1층, 2층",
+        "abbrAddress": "함덕리 1002-17 1층, 2층",
+        "shortAddress": [
+            "제주 제주시 조천읍",
+            "함덕13길 1-1",
+            "1층, 2층"
+        ],
+        "display": "바닷골 제주함덕본점",
+        "telDisplay": "0507-1358-9067",
+        "context": [],
+        "reviewCount": 109,
+        "placeReviewCount": 763,
+        "ktCallMd": "e4a691672a365261550295736a0595a4",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20241215_213/17342577462591TGpL_JPEG/%B9%D9%B4%E5%B0%F1%C7%D4%B4%F6%BA%BB%C1%A148.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20241215_213/17342577462591TGpL_JPEG/%B9%D9%B4%E5%B0%F1%C7%D4%B4%F6%BA%BB%C1%A148.jpg",
+            "https://ldb-phinf.pstatic.net/20250219_226/173989408439729K9t_PNG/IMG_1425.png",
+            "https://ldb-phinf.pstatic.net/20241215_153/1734257743263nghHQ_JPEG/%B9%D9%B4%E5%B0%F1%C7%D4%B4%F6%BA%BB%C1%A157.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.6675590",
+        "y": "33.5416550",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "QVVzaE0q0RnDDWpL9RfU+Q==",
+            "pan": "-47.80",
+            "tilt": "10.00",
+            "lng": "126.6676489",
+            "lat": "33.5415736",
+            "fov": "120"
+        },
+        "skyPanorama": {
+            "id": "oa0GcFPqtbhnT3kyJoLhrw==",
+            "pan": "-154.73",
+            "tilt": "-30.00",
+            "lng": "126.6680666",
+            "lat": "33.5427262",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.667706,
+                    "y": 33.541702
+                },
+                {
+                    "rep": false,
+                    "x": 126.667543,
+                    "y": 33.541764
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.667706,
+                    "y": 33.541702
+                },
+                {
+                    "rep": false,
+                    "x": 126.667543,
+                    "y": 33.541764
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 중",
+        "menuInfo": "제주산 순살갈치조림(2인)점심식사가능 32,000 | 바닷골 제주한상(소) 69,000 | [점심특선]해물라면 14,000 | [점심특선]회덮밥 or 회국수 14,000 | [점심특선]제육정식 14,000 | 바닷골 대방어회(소 자) 35,000 | 바닷골 고방딱세트 72,000 | 바닷골 딱새우+고등어회 세트 72,000 | 바닷골 고등어회 35,000 | 바닷골 방딱세트 72,000 | 바닷골 사시미 (중) 45,000 | 해물전골 29,000 | 바닷골 방어회(중) 55,000 | 바닷골 사시미 (소) 35,000 | 바닷골 막회(중) 33,000 | 바닷골 해물라면(2인) 19,000 | 딱새우회 38,000 | 바닷골 제주한상(중) 89,000 | 바닷골 제주한상(대) 109,000 | 바닷골 사시미 (대) 55,000 | 한치숙회 29,000 | 바닷골 막회(대) 45,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": true,
+        "naverBookingUrl": "https://booking.naver.com/booking/6/bizes/1187426",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": true,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "429188.22",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221629",
+        "microReview": [
+            "맛있는 회와 다양한 음식의 향연"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "17",
+        "rank": "18",
+        "id": "1840012685",
+        "name": "면주막 제주본점",
+        "tel": "0507-1334-1158",
+        "isCallLink": false,
+        "virtualTel": "0507-1334-1158",
+        "virtualTelDisplay": "0507-1334-1158",
+        "ppc": "1",
+        "category": [
+            "한식",
+            "국수"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220062",
+                "220628"
+            ],
+            [
+                "1004760",
+                "1004380",
+                "1002043"
+            ]
+        ],
+        "rcode": "1411025922",
+        "businessStatus": {
+            "requestTime": "202502262103",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "15:00에 영업종료"
+            },
+            "businessHours": "202502260900~202502261500",
+            "breakTime": "",
+            "lastOrder": "202502261430"
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 조천읍 와흘리 125-7 1층 면주막",
+        "roadAddress": "제주특별자치도 제주시 조천읍 번영로 1143 1층 면주막",
+        "abbrAddress": "와흘리 125-7 1층 면주막",
+        "shortAddress": [
+            "제주 제주시 조천읍",
+            "번영로 1143",
+            "1층 면주막"
+        ],
+        "display": "면주막 제주본점",
+        "telDisplay": "0507-1334-1158",
+        "context": [],
+        "reviewCount": 1020,
+        "placeReviewCount": 2173,
+        "ktCallMd": "82fdb5c40a54165143d889e939de51dd",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20240710_74/17205833026590XIvM_JPEG/1_%C1%A6%C1%D6_%B8%E9%C1%D6%B8%B7.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20240710_74/17205833026590XIvM_JPEG/1_%C1%A6%C1%D6_%B8%E9%C1%D6%B8%B7.jpg",
+            "https://ldb-phinf.pstatic.net/20240710_235/1720583302711H3mSs_JPEG/2_%C1%A6%C1%D6_%B8%E9%C1%D6%B8%B7.jpg",
+            "https://ldb-phinf.pstatic.net/20240710_258/1720583302680sn10B_JPEG/3_%C1%A6%C1%D6_%B8%E9%C1%D6%B8%B7.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.6570830",
+        "y": "33.4708838",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "0rWiFoNagArZLLktGujPjQ==",
+            "pan": "45.34",
+            "tilt": "6.00",
+            "lng": "126.6569137",
+            "lat": "33.4706408",
+            "fov": "50"
+        },
+        "skyPanorama": null,
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "https://www.instagram.com/myunjumak",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.656909,
+                    "y": 33.470447
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.656909,
+                    "y": 33.470447
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "흑돼지 고기국수 10,000 | 흑돼지 고기국밥 10,000 | 멸치국수 8,000 | 흑돼지 멸치고기국수 10,000 | 콩나물국밥 8,000 | 비빔국수 8,000 | 흑돼지 고기비빔국수 10,000 | 소라비빔국수 15,000 | 전복비빔국수 15,000 | 전복죽 15,000 | 물만두 8,000 | 흑돼지 돔베고기(소) 18,000 | 흑돼지 돔베고기(대) 34,000 | 돔베소라 35,000 | 돔베전복 35,000 | 돔베삼합(소) 35,000 | 돔베삼합(대) 50,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": true,
+        "naverBookingUrl": "https://booking.naver.com/booking/6/bizes/848754",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": true,
+        "reservationLabel": {
+            "standard": true,
+            "preOrder": false,
+            "table": true,
+            "takeout": true
+        },
+        "reservation": null,
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": true,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "437076.41",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220628",
+        "microReview": [
+            "맛있는 고기국밥과 넓은 깨끗한 매장"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "18",
+        "rank": "19",
+        "id": "70213029",
+        "name": "무거버거",
+        "tel": "0507-1319-5076",
+        "isCallLink": false,
+        "virtualTel": "0507-1319-5076",
+        "virtualTelDisplay": "0507-1319-5076",
+        "ppc": "1",
+        "category": [
+            "음식점",
+            "햄버거"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220044",
+                "220138",
+                "221004"
+            ],
+            [
+                "1004760",
+                "1005205"
+            ]
+        ],
+        "rcode": "1411025925",
+        "businessStatus": {
+            "requestTime": "202502262103",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "20:00에 영업종료"
+            },
+            "businessHours": "202502261000~202502262000",
+            "breakTime": "",
+            "lastOrder": "202502261900"
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 조천읍 신흥리 15 무거버거",
+        "roadAddress": "제주특별자치도 제주시 조천읍 조함해안로 356 무거버거",
+        "abbrAddress": "신흥리 15 무거버거",
+        "shortAddress": [
+            "제주 제주시 조천읍",
+            "조함해안로 356",
+            "무거버거"
+        ],
+        "display": "무거버거",
+        "telDisplay": "0507-1319-5076",
+        "context": [
+            "수제버거",
+            "햄버거",
+            "밀크쉐이크",
+            "빈티지한",
+            "경치"
+        ],
+        "reviewCount": 2401,
+        "placeReviewCount": 2201,
+        "ktCallMd": "b94e6519c95fa94252329eecc8fa3f6c",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20191207_272/1575713397611NTqX7_JPEG/UFEm7yRAzkTJYTPzYt9jbtRz.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20191207_272/1575713397611NTqX7_JPEG/UFEm7yRAzkTJYTPzYt9jbtRz.jpg",
+            "https://ldb-phinf.pstatic.net/20210422_166/1619055378781jWDGE_JPEG/FO6GWbWXvD22o-UguR325gp9.jpg",
+            "https://ldb-phinf.pstatic.net/20210422_1/1619055356137aYY3k_JPEG/AP1Tldbokg570ncMCxqDQYb3.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.6550530",
+        "y": "33.5489909",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "okAQFfGxJXldesiBDyT3qQ==",
+            "pan": "-106.61",
+            "tilt": "10.00",
+            "lng": "126.6555273",
+            "lat": "33.5491319",
+            "fov": "120"
+        },
+        "skyPanorama": {
+            "id": "6xpjA9K1MbegDfpfLWNbdw==",
+            "pan": "-68.18",
+            "tilt": "-30.00",
+            "lng": "126.6565829",
+            "lat": "33.5483772",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": {
+                "poiShapeType": "1",
+                "shapeKey": {
+                    "typeName": "RELA",
+                    "wsid": "1.0",
+                    "shapeID": "70213029"
+                },
+                "boundary": {
+                    "minX": "117.9926027",
+                    "minY": "19.6944771",
+                    "maxX": "117.9926027",
+                    "maxY": "19.6944771"
+                },
+                "detail": [
+                    {
+                        "type": "1",
+                        "sid": "916987023",
+                        "fullName": "무거버거입구",
+                        "name": "입구",
+                        "category": "입구(사람+차량)",
+                        "xPos": "126.6551599",
+                        "yPos": "33.5494079"
+                    }
+                ]
+            },
+            "hasRelation": true,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "http://www.instagram.com/mooger__burger",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.6551599,
+                    "y": 33.5494079
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.6551599,
+                    "y": 33.5494079
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "당근버거 11,500 | 마늘버거 11,500 | 시금치버거 11,500 | 스파이시 치킨버거 11,000 | 갈릭 치킨버거 11,000 | 더블 당근버거 14,000 | 더블 마늘버거 14,000 | 더블 시금치버거 14,000 | 프렌치프라이 4,000 | 치즈프라이 7,000 | 어니언프라이 7,000 | 스파이시 치킨 7,000 | 갈릭 치킨 7,000 | 스파이시 치킨윙 6,500 | 갈릭 치킨윙 6,500",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": false,
+        "naverBookingUrl": "",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": true,
+        "broadcastInfo": {
+            "name": "생방송투데이",
+            "menu": "3색버거"
+        },
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "428387.12",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "221004",
+        "microReview": [
+            "다양한 맛 메뉴와 맛있는 감자 튀김"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    },
+    {
+        "index": "19",
+        "rank": "20",
+        "id": "35055861",
+        "name": "제주순풍해장국 함덕점",
+        "tel": "0507-1360-8867",
+        "isCallLink": false,
+        "virtualTel": "0507-1360-8867",
+        "virtualTelDisplay": "0507-1360-8867",
+        "ppc": "1",
+        "category": [
+            "한식",
+            "해장국"
+        ],
+        "categoryPath": [
+            [
+                "220036",
+                "220037",
+                "220068",
+                "220693"
+            ],
+            [
+                "1004760",
+                "1004380",
+                "1002043"
+            ]
+        ],
+        "rcode": "1411025924",
+        "businessStatus": {
+            "requestTime": "202502262103",
+            "status": {
+                "code": 6,
+                "text": "영업 종료",
+                "emphasis": true,
+                "description": "영업종료",
+                "detailInfo": "20:00에 영업종료"
+            },
+            "businessHours": "202502260600~202502262000",
+            "breakTime": "202502261500~202502261600",
+            "lastOrder": ""
+        },
+        "naviInfoText": null,
+        "address": "제주특별자치도 제주시 조천읍 함덕리 4144 1층",
+        "roadAddress": "제주특별자치도 제주시 조천읍 신북로 604 1층",
+        "abbrAddress": "함덕리 4144 1층",
+        "shortAddress": [
+            "제주 제주시 조천읍",
+            "신북로 604",
+            "1층"
+        ],
+        "display": "제주순풍해장국 함덕점",
+        "telDisplay": "0507-1360-8867",
+        "context": [
+            "해변",
+            "육개장",
+            "막걸리",
+            "친절한",
+            "국밥"
+        ],
+        "reviewCount": 11014,
+        "placeReviewCount": 9661,
+        "ktCallMd": "aadb02bae64d080b7a94824b8fa0b9f1",
+        "coupon": "0",
+        "thumUrl": "https://ldb-phinf.pstatic.net/20240317_185/17106706970658W7vl_JPEG/%B3%D7%C0%CC%B9%F61.jpg",
+        "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20240317_185/17106706970658W7vl_JPEG/%B3%D7%C0%CC%B9%F61.jpg",
+            "https://ldb-phinf.pstatic.net/20240317_67/1710670697061d2lSE_JPEG/%B3%D7%C0%CC%B9%F62.jpg",
+            "https://ldb-phinf.pstatic.net/20240317_210/1710670697020M7hNm_JPEG/%B3%D7%C0%CC%B9%F64.jpg"
+        ],
+        "type": "s",
+        "isSite": "1",
+        "posExact": "1",
+        "x": "126.6740127",
+        "y": "33.5398991",
+        "itemLevel": "12",
+        "isAdultBusiness": false,
+        "streetPanorama": {
+            "id": "ov9duHMy1u1YFxKFzUFeYA==",
+            "pan": "-108.95",
+            "tilt": "8.13",
+            "lng": "126.6742730",
+            "lat": "33.5400738",
+            "fov": "80"
+        },
+        "skyPanorama": {
+            "id": "c1f80b22dZjOvsd9IYB27g==",
+            "pan": "155.95",
+            "tilt": "-30.00",
+            "lng": "126.6722046",
+            "lat": "33.5439363",
+            "fov": "124"
+        },
+        "insidePanorama": null,
+        "interiorPanorama": null,
+        "indoorPanorama": null,
+        "theme": null,
+        "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+                "poiShapeType": "1",
+                "shapeKey": null,
+                "boundary": null,
+                "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+        },
+        "homePage": "https://www.instagram.com/soonpoong.official/",
+        "description": "",
+        "entranceCoords": {
+            "car": [
+                {
+                    "rep": true,
+                    "x": 126.673897,
+                    "y": 33.539756
+                }
+            ],
+            "walk": [
+                {
+                    "rep": true,
+                    "x": 126.673871,
+                    "y": 33.539932
+                }
+            ]
+        },
+        "isPollingPlace": false,
+        "bizhourInfo": "영업 종료",
+        "menuInfo": "제주돼지국밥 9,500 | 소고기해장국 11,000 | 고사리내장탕 (200그릇 한정판매) 11,000 | 어린이해장국 7,000 | 돔베고기 15,000 | 물만두 8,000",
+        "petrolInfo": null,
+        "couponUrl": null,
+        "couponUrlMobile": null,
+        "hasCardBenefit": false,
+        "menuExist": "1",
+        "hasNaverBooking": true,
+        "naverBookingUrl": "https://booking.naver.com/booking/6/bizes/408540",
+        "naverEasyOrderUrl": null,
+        "hasNaverSmartOrder": false,
+        "reservationLabel": {
+            "standard": true,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+        },
+        "reservation": {
+            "benefit": ""
+        },
+        "hasBroadcastInfo": false,
+        "broadcastInfo": null,
+        "shopWindowInfo": null,
+        "hasNPay": false,
+        "carWash": "",
+        "parkingPrice": null,
+        "card": null,
+        "distance": "429376.78",
+        "marker": "nres://marker/00079-00145",
+        "markerSelected": "nres://marker/00079-00309",
+        "markerId": "220693",
+        "microReview": [
+            "맛있는 음식과 깔끔한 국물의 조화"
+        ],
+        "michelinGuide": null,
+        "indoor": null,
+        "markerLabel": null,
+        "subway": null,
+        "evChargerVendor": null,
+        "evChargerPublic": null,
+        "evChargerParking": null,
+        "evChargerInfo": null
+    }
+]
