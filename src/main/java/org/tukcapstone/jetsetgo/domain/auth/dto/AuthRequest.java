@@ -26,6 +26,15 @@ public abstract class AuthRequest {
     public static class RefreshTokenRequest{
         @NotBlank(message = "AccessToken은 필수 입력 값입니다.")
         private String refreshToken;
-
     }
+
+    @Getter
+    @NoArgsConstructor
+    @AllArgsConstructor
+    public static class LogoutRequest{
+        @NotBlank(message = "AccessToken은 필수 입력 값입니다.")
+        private String refreshToken;
+    }
+
+
 }
